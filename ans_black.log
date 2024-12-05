@@ -1,0 +1,854 @@
+2024-12-04 01:04:38,210 - Processing Image: seen/000000002261.jpg
+2024-12-04 01:04:42,028 - seen/000000002261.jpg - Average Log Probability of Bottom 5% Tokens: -1.7869
+2024-12-04 01:04:42,028 - seen/000000002261.jpg - Average Log Probability of Bottom 10% Tokens: -1.5614
+2024-12-04 01:04:42,028 - seen/000000002261.jpg - Average Log Probability of Bottom 20% Tokens: -1.3428
+2024-12-04 01:04:42,028 - seen/000000002261.jpg - Average Log Probability of Bottom 30% Tokens: -1.1930
+2024-12-04 01:04:42,028 - seen/000000002261.jpg - Average Log Probability of Bottom 40% Tokens: -1.0702
+2024-12-04 01:04:42,028 - seen/000000002261.jpg - Average Log Probability of Bottom 50% Tokens: -0.9624
+2024-12-04 01:04:42,028 - seen/000000002261.jpg - Average Log Probability of Bottom 60% Tokens: -0.8585
+2024-12-04 01:04:42,029 - seen/000000002261.jpg - Generated Output: 
+The image captures a dynamic scene of surfing on the ocean waves. The main focus is a person, dressed in black and blue attire, skillfully riding a wave towards the shore. Their body leans forward as they maintain balance atop their surfboard. The wave itself is large and greenish-blue in color, indicating its power and energy. It's breaking to the right side of the photo, creating an exciting spectacle for both the surfer and any observers nearby. In contrast to these vibrant colors, the background features a stark black sky, providing a dramatic backdrop that further emphasizes the action taking place within it.</s>
+2024-12-04 01:04:42,030 - Processing Image: seen/000000001268.jpg
+2024-12-04 01:04:45,074 - seen/000000001268.jpg - Average Log Probability of Bottom 5% Tokens: -1.8190
+2024-12-04 01:04:45,074 - seen/000000001268.jpg - Average Log Probability of Bottom 10% Tokens: -1.5162
+2024-12-04 01:04:45,074 - seen/000000001268.jpg - Average Log Probability of Bottom 20% Tokens: -1.2709
+2024-12-04 01:04:45,074 - seen/000000001268.jpg - Average Log Probability of Bottom 30% Tokens: -1.1214
+2024-12-04 01:04:45,074 - seen/000000001268.jpg - Average Log Probability of Bottom 40% Tokens: -1.0060
+2024-12-04 01:04:45,074 - seen/000000001268.jpg - Average Log Probability of Bottom 50% Tokens: -0.9033
+2024-12-04 01:04:45,074 - seen/000000001268.jpg - Average Log Probability of Bottom 60% Tokens: -0.8155
+2024-12-04 01:04:45,075 - seen/000000001268.jpg - Generated Output: 
+The image captures a serene moment at the edge of a river, where two people are seated on a stone wall that overlooks the waterway. The individuals appear to be engaged in conversation or perhaps enjoying each other's company as they gaze out towards the calm waters below. A solitary bird is seen walking along the shoreline near them, adding an element of tranquility and harmony with nature to the scene. In the distance, beyond the riverbank, there's a city skyline visible under a clear blue sky, suggesting that this peaceful spot might be located within an urban area.</s>
+2024-12-04 01:04:45,075 - Processing Image: seen/000000000802.jpg
+2024-12-04 01:04:49,630 - seen/000000000802.jpg - Average Log Probability of Bottom 5% Tokens: -2.0242
+2024-12-04 01:04:49,630 - seen/000000000802.jpg - Average Log Probability of Bottom 10% Tokens: -1.8020
+2024-12-04 01:04:49,630 - seen/000000000802.jpg - Average Log Probability of Bottom 20% Tokens: -1.5954
+2024-12-04 01:04:49,630 - seen/000000000802.jpg - Average Log Probability of Bottom 30% Tokens: -1.4446
+2024-12-04 01:04:49,631 - seen/000000000802.jpg - Average Log Probability of Bottom 40% Tokens: -1.3270
+2024-12-04 01:04:49,631 - seen/000000000802.jpg - Average Log Probability of Bottom 50% Tokens: -1.2116
+2024-12-04 01:04:49,631 - seen/000000000802.jpg - Average Log Probability of Bottom 60% Tokens: -1.0996
+2024-12-04 01:04:49,632 - seen/000000000802.jpg - Generated Output: 
+This is a photograph of an interior space, specifically the kitchen area within a residential home. The photo captures a view from one side of the room looking towards another section that includes cabinets and appliances. On the left side of the frame stands a white stove with four burners visible on its top surface; it has a control panel below these burners. Adjacent to the stove are two wooden drawers or cupboards mounted at waist height. Above them hangs a cabinet door painted yellow. To the right of the stove, there's a countertop extending across the width of the image where various items might be placed for cooking or dining purposes. Behind the countertop, more cabinets can be seen, including what appears to be a built-in oven unit integrated into the wall structure. The flooring consists of light tiles covering most of the floor area shown in the picture. There are no texts present in
+2024-12-04 01:04:49,632 - Processing Image: seen/000000001490.jpg
+2024-12-04 01:04:51,436 - seen/000000001490.jpg - Average Log Probability of Bottom 5% Tokens: -1.8693
+2024-12-04 01:04:51,436 - seen/000000001490.jpg - Average Log Probability of Bottom 10% Tokens: -1.6440
+2024-12-04 01:04:51,436 - seen/000000001490.jpg - Average Log Probability of Bottom 20% Tokens: -1.3647
+2024-12-04 01:04:51,436 - seen/000000001490.jpg - Average Log Probability of Bottom 30% Tokens: -1.1935
+2024-12-04 01:04:51,436 - seen/000000001490.jpg - Average Log Probability of Bottom 40% Tokens: -1.0662
+2024-12-04 01:04:51,436 - seen/000000001490.jpg - Average Log Probability of Bottom 50% Tokens: -0.9575
+2024-12-04 01:04:51,436 - seen/000000001490.jpg - Average Log Probability of Bottom 60% Tokens: -0.8580
+2024-12-04 01:04:51,437 - seen/000000001490.jpg - Generated Output: 
+The image is a black and white photograph capturing the vast expanse of an ocean under a clear sky. The horizon line, where land meets sea, is visible on the left side of the frame. Beyond the water's edge, there appears to be a coastline with buildings or structures that are too distant for specific identification. There are no texts present within the image.</s>
+2024-12-04 01:04:51,437 - Processing Image: seen/000000002157.jpg
+2024-12-04 01:04:55,497 - seen/000000002157.jpg - Average Log Probability of Bottom 5% Tokens: -1.8858
+2024-12-04 01:04:55,497 - seen/000000002157.jpg - Average Log Probability of Bottom 10% Tokens: -1.7109
+2024-12-04 01:04:55,497 - seen/000000002157.jpg - Average Log Probability of Bottom 20% Tokens: -1.4789
+2024-12-04 01:04:55,497 - seen/000000002157.jpg - Average Log Probability of Bottom 30% Tokens: -1.3141
+2024-12-04 01:04:55,497 - seen/000000002157.jpg - Average Log Probability of Bottom 40% Tokens: -1.1780
+2024-12-04 01:04:55,497 - seen/000000002157.jpg - Average Log Probability of Bottom 50% Tokens: -1.0426
+2024-12-04 01:04:55,497 - seen/000000002157.jpg - Average Log Probability of Bottom 60% Tokens: -0.9188
+2024-12-04 01:04:55,499 - seen/000000002157.jpg - Generated Output: 
+The image captures a delightful scene of celebration, featuring a white cake adorned with blueberries and raspberries as the centerpiece on a red tablecloth. The cake is placed atop a wooden cutting board, adding to its rustic charm. A knife rests nearby, ready for use.
+In the background, there's an array of wine glasses filled with water, their stems catching the light beautifully. They are neatly arranged around a plate that holds some breadsticks, suggesting a meal or snack being enjoyed during the festivities.
+Adding to the festive atmosphere, two candles can be seen - one nearer to us than the other. Their presence hints at a possible birthday celebration or another special occasion marked by these joyous elements.</s>
+2024-12-04 01:04:55,499 - Processing Image: seen/000000002431.jpg
+2024-12-04 01:04:59,080 - seen/000000002431.jpg - Average Log Probability of Bottom 5% Tokens: -1.7665
+2024-12-04 01:04:59,080 - seen/000000002431.jpg - Average Log Probability of Bottom 10% Tokens: -1.6072
+2024-12-04 01:04:59,080 - seen/000000002431.jpg - Average Log Probability of Bottom 20% Tokens: -1.3957
+2024-12-04 01:04:59,080 - seen/000000002431.jpg - Average Log Probability of Bottom 30% Tokens: -1.2429
+2024-12-04 01:04:59,080 - seen/000000002431.jpg - Average Log Probability of Bottom 40% Tokens: -1.1010
+2024-12-04 01:04:59,080 - seen/000000002431.jpg - Average Log Probability of Bottom 50% Tokens: -0.9821
+2024-12-04 01:04:59,080 - seen/000000002431.jpg - Average Log Probability of Bottom 60% Tokens: -0.8777
+2024-12-04 01:04:59,081 - seen/000000002431.jpg - Generated Output: 
+The image captures a moment of tranquility, featuring an array of breads and dips on a white plate placed on a wooden table. The breads are arranged neatly, with some slices already removed to reveal their soft interiors. A silver spoon rests within the bowl filled with one such dip, ready for use. To the side of the plate, there's a napkin folded into a triangle shape, adding a touch of elegance to the setting. In the background, blurred figures suggest people engaged in conversation or enjoying their meals at another table. This scene paints a picture of a relaxed dining experience where food is enjoyed leisurely amidst good company.</s>
+2024-12-04 01:04:59,081 - Processing Image: seen/000000001993.jpg
+2024-12-04 01:05:03,755 - seen/000000001993.jpg - Average Log Probability of Bottom 5% Tokens: -1.6649
+2024-12-04 01:05:03,755 - seen/000000001993.jpg - Average Log Probability of Bottom 10% Tokens: -1.4867
+2024-12-04 01:05:03,755 - seen/000000001993.jpg - Average Log Probability of Bottom 20% Tokens: -1.3034
+2024-12-04 01:05:03,756 - seen/000000001993.jpg - Average Log Probability of Bottom 30% Tokens: -1.1761
+2024-12-04 01:05:03,756 - seen/000000001993.jpg - Average Log Probability of Bottom 40% Tokens: -1.0620
+2024-12-04 01:05:03,756 - seen/000000001993.jpg - Average Log Probability of Bottom 50% Tokens: -0.9470
+2024-12-04 01:05:03,756 - seen/000000001993.jpg - Average Log Probability of Bottom 60% Tokens: -0.8470
+2024-12-04 01:05:03,757 - seen/000000001993.jpg - Generated Output: 
+The image captures a cozy corner of an office, bathed in soft light that accentuates the warm tones of the room's decor. Dominating one side is a wooden table draped with a pristine white tablecloth, its surface adorned by a solitary black coffee cup and saucer. The table stands as a silent sentinel amidst the surrounding furniture.
+
+On the opposite wall, a stone fireplace adds to the room's charm. Its mantle hosts two objects - a vase filled with fresh flowers and a small statue of Buddha, both contributing to the serene ambiance. Above it hangs a painting, adding an artistic touch to the space.
+
+In front of these elements sits a comfortable armchair, inviting relaxation or quiet contemplation. To the left of the chair, there's another smaller table holding a lamp, ready to
+2024-12-04 01:05:03,757 - Processing Image: seen/000000001353.jpg
+2024-12-04 01:05:07,801 - seen/000000001353.jpg - Average Log Probability of Bottom 5% Tokens: -1.7041
+2024-12-04 01:05:07,801 - seen/000000001353.jpg - Average Log Probability of Bottom 10% Tokens: -1.5811
+2024-12-04 01:05:07,801 - seen/000000001353.jpg - Average Log Probability of Bottom 20% Tokens: -1.3698
+2024-12-04 01:05:07,801 - seen/000000001353.jpg - Average Log Probability of Bottom 30% Tokens: -1.2468
+2024-12-04 01:05:07,801 - seen/000000001353.jpg - Average Log Probability of Bottom 40% Tokens: -1.1292
+2024-12-04 01:05:07,801 - seen/000000001353.jpg - Average Log Probability of Bottom 50% Tokens: -1.0181
+2024-12-04 01:05:07,801 - seen/000000001353.jpg - Average Log Probability of Bottom 60% Tokens: -0.9240
+2024-12-04 01:05:07,802 - seen/000000001353.jpg - Generated Output: 
+The image is a photograph that captures the back of three individuals seated on what appears to be an amusement ride, possibly at night given the artificial lighting and dark background. The person closest to the camera has their head turned slightly away from it, looking towards something outside the frame; they are wearing a black leather jacket with visible stitched patterns. Behind them, another individual can be seen facing forward but not directly engaging with the viewer due to the angle of the shot. To the left side of the photo, there's a large speaker or sound equipment mounted on stands, suggesting that music might accompany the ride experience. On the right edge of the image, part of a red circular structure is visible, which could be part of the ride itself. There are no texts present within the image.</s>
+2024-12-04 01:05:07,802 - Processing Image: seen/000000002299.jpg
+2024-12-04 01:05:10,919 - seen/000000002299.jpg - Average Log Probability of Bottom 5% Tokens: -1.9710
+2024-12-04 01:05:10,919 - seen/000000002299.jpg - Average Log Probability of Bottom 10% Tokens: -1.7122
+2024-12-04 01:05:10,920 - seen/000000002299.jpg - Average Log Probability of Bottom 20% Tokens: -1.4552
+2024-12-04 01:05:10,920 - seen/000000002299.jpg - Average Log Probability of Bottom 30% Tokens: -1.3114
+2024-12-04 01:05:10,920 - seen/000000002299.jpg - Average Log Probability of Bottom 40% Tokens: -1.1826
+2024-12-04 01:05:10,920 - seen/000000002299.jpg - Average Log Probability of Bottom 50% Tokens: -1.0689
+2024-12-04 01:05:10,920 - seen/000000002299.jpg - Average Log Probability of Bottom 60% Tokens: -0.9573
+2024-12-04 01:05:10,921 - seen/000000002299.jpg - Generated Output: 
+This is a black and white photograph of children posing for the camera, likely taken during their school days. The photo captures a moment from time past when formal attire was commonplace among students. Each child is dressed uniformly with ties visible on some boys' shirts. They are arranged in two rows; those seated at the front appear to be younger than those standing behind them. Their expressions range from serious to neutral as they face towards the camera. In the background, there appears to be an outdoor setting with stone walls that suggest it might have been taken near or within a school building. There are no texts present in the image.</s>
+2024-12-04 01:05:10,921 - Processing Image: seen/000000001761.jpg
+2024-12-04 01:05:14,216 - seen/000000001761.jpg - Average Log Probability of Bottom 5% Tokens: -1.6895
+2024-12-04 01:05:14,216 - seen/000000001761.jpg - Average Log Probability of Bottom 10% Tokens: -1.5558
+2024-12-04 01:05:14,216 - seen/000000001761.jpg - Average Log Probability of Bottom 20% Tokens: -1.3738
+2024-12-04 01:05:14,216 - seen/000000001761.jpg - Average Log Probability of Bottom 30% Tokens: -1.1989
+2024-12-04 01:05:14,216 - seen/000000001761.jpg - Average Log Probability of Bottom 40% Tokens: -1.0603
+2024-12-04 01:05:14,216 - seen/000000001761.jpg - Average Log Probability of Bottom 50% Tokens: -0.9375
+2024-12-04 01:05:14,216 - seen/000000001761.jpg - Average Log Probability of Bottom 60% Tokens: -0.8277
+2024-12-04 01:05:14,217 - seen/000000001761.jpg - Generated Output: 
+The image captures a moment of an airplane soaring high above the cityscape, with its wings spread wide as it glides through the sky. The plane is positioned centrally and slightly to the left side of the frame, creating a sense of balance within the composition. Below the airplane, a bridge stretches across the scene, connecting two parts of the city separated by water. On either end of the bridge are tall buildings that reach towards the clear blue sky dotted with fluffy white clouds. These elements together create a dynamic urban landscape under a serene celestial backdrop.</s>
+2024-12-04 01:05:14,217 - Processing Image: seen/000000002153.jpg
+2024-12-04 01:05:19,252 - seen/000000002153.jpg - Average Log Probability of Bottom 5% Tokens: -1.7814
+2024-12-04 01:05:19,252 - seen/000000002153.jpg - Average Log Probability of Bottom 10% Tokens: -1.6046
+2024-12-04 01:05:19,252 - seen/000000002153.jpg - Average Log Probability of Bottom 20% Tokens: -1.3379
+2024-12-04 01:05:19,252 - seen/000000002153.jpg - Average Log Probability of Bottom 30% Tokens: -1.1657
+2024-12-04 01:05:19,252 - seen/000000002153.jpg - Average Log Probability of Bottom 40% Tokens: -1.0431
+2024-12-04 01:05:19,252 - seen/000000002153.jpg - Average Log Probability of Bottom 50% Tokens: -0.9232
+2024-12-04 01:05:19,252 - seen/000000002153.jpg - Average Log Probability of Bottom 60% Tokens: -0.8169
+2024-12-04 01:05:19,254 - seen/000000002153.jpg - Generated Output: 
+The image captures a moment from a baseball game, viewed through the lens of a camera placed behind home plate. The central figure is the pitcher, who has just released his throw and stands on the mound with one leg raised as if he's about to step off it. His body language suggests that he might be winding up for another pitch or perhaps reacting to an event occurring elsewhere on the field.
+
+In front of him, crouched down at home base, is the catcher. He appears ready to receive the ball, wearing protective gear including a helmet and chest protector. Behind them both, slightly blurred due to their distance from the camera, are other players positioned around the diamond - first baseman, second baseman, third baseman, shortstop, left fielder, center fielder, right fielder, and possibly even more outfielders depending on how far they extend into
+2024-12-04 01:05:19,254 - Processing Image: seen/000000000785.jpg
+2024-12-04 01:05:24,081 - seen/000000000785.jpg - Average Log Probability of Bottom 5% Tokens: -1.7861
+2024-12-04 01:05:24,081 - seen/000000000785.jpg - Average Log Probability of Bottom 10% Tokens: -1.5941
+2024-12-04 01:05:24,081 - seen/000000000785.jpg - Average Log Probability of Bottom 20% Tokens: -1.3306
+2024-12-04 01:05:24,081 - seen/000000000785.jpg - Average Log Probability of Bottom 30% Tokens: -1.1593
+2024-12-04 01:05:24,082 - seen/000000000785.jpg - Average Log Probability of Bottom 40% Tokens: -1.0214
+2024-12-04 01:05:24,082 - seen/000000000785.jpg - Average Log Probability of Bottom 50% Tokens: -0.9034
+2024-12-04 01:05:24,082 - seen/000000000785.jpg - Average Log Probability of Bottom 60% Tokens: -0.7909
+2024-12-04 01:05:24,084 - seen/000000000785.jpg - Generated Output: 
+The image captures a moment of tranquility on a snowy mountain slope, where the main focus is an individual skiing downhill. The skier, clad in a vibrant red jacket and black pants, stands out against the pristine white backdrop of the snow-covered slopes. They are equipped with two poles for balance and propulsion as they navigate their way downwards.
+
+In the background, there's a fence running along one side of the slope, possibly marking boundaries or guiding paths. Beyond it lies another section of the mountain, its surface blanketed by freshly fallen snow that glistens under the sunlight. This suggests that the photo was taken during daytime when the light conditions were optimal for such activities.
+
+Overall, the image presents a serene winter scene filled with natural beauty and human activity coexisting harmoniously within nature's grandeur
+2024-12-04 01:05:24,084 - Processing Image: seen/000000004395.jpg
+2024-12-04 01:05:26,317 - seen/000000004395.jpg - Average Log Probability of Bottom 5% Tokens: -1.6041
+2024-12-04 01:05:26,318 - seen/000000004395.jpg - Average Log Probability of Bottom 10% Tokens: -1.4421
+2024-12-04 01:05:26,318 - seen/000000004395.jpg - Average Log Probability of Bottom 20% Tokens: -1.2910
+2024-12-04 01:05:26,318 - seen/000000004395.jpg - Average Log Probability of Bottom 30% Tokens: -1.1742
+2024-12-04 01:05:26,318 - seen/000000004395.jpg - Average Log Probability of Bottom 40% Tokens: -1.0572
+2024-12-04 01:05:26,318 - seen/000000004395.jpg - Average Log Probability of Bottom 50% Tokens: -0.9567
+2024-12-04 01:05:26,318 - seen/000000004395.jpg - Average Log Probability of Bottom 60% Tokens: -0.8673
+2024-12-04 01:05:26,319 - seen/000000004395.jpg - Generated Output: 
+This is a black and white photograph of the back view of an adult male's head, neck, shoulders, and upper torso. The man appears to be wearing a dark-colored shirt with a collar and a striped tie. His hair is short and straight, covering his ears which are visible on either side of his face. There is no text present within the image.</s>
+2024-12-04 01:05:26,319 - Processing Image: seen/000000003934.jpg
+2024-12-04 01:05:29,773 - seen/000000003934.jpg - Average Log Probability of Bottom 5% Tokens: -2.2554
+2024-12-04 01:05:29,773 - seen/000000003934.jpg - Average Log Probability of Bottom 10% Tokens: -2.0014
+2024-12-04 01:05:29,773 - seen/000000003934.jpg - Average Log Probability of Bottom 20% Tokens: -1.6483
+2024-12-04 01:05:29,773 - seen/000000003934.jpg - Average Log Probability of Bottom 30% Tokens: -1.4656
+2024-12-04 01:05:29,773 - seen/000000003934.jpg - Average Log Probability of Bottom 40% Tokens: -1.3064
+2024-12-04 01:05:29,773 - seen/000000003934.jpg - Average Log Probability of Bottom 50% Tokens: -1.1845
+2024-12-04 01:05:29,773 - seen/000000003934.jpg - Average Log Probability of Bottom 60% Tokens: -1.0665
+2024-12-04 01:05:29,775 - seen/000000003934.jpg - Generated Output: 
+This is a photograph of an indoor scene where several people are gathered, possibly for a celebration or social event. In the center stands a young girl wearing a colorful skirt with fringe detailing and holding what appears to be a lei made from flowers. To her left is another woman dressed in white attire that includes a veil; she seems to be partaking in some activity involving a large feathered object held by both individuals. On the right side of the frame, there's a man standing near two women who appear engaged in conversation. The room has wooden flooring and features staircases leading upwards on either end. There is no visible text within the image.</s>
+2024-12-04 01:05:29,775 - Processing Image: seen/000000001818.jpg
+2024-12-04 01:05:32,770 - seen/000000001818.jpg - Average Log Probability of Bottom 5% Tokens: -1.8193
+2024-12-04 01:05:32,770 - seen/000000001818.jpg - Average Log Probability of Bottom 10% Tokens: -1.6580
+2024-12-04 01:05:32,770 - seen/000000001818.jpg - Average Log Probability of Bottom 20% Tokens: -1.4332
+2024-12-04 01:05:32,770 - seen/000000001818.jpg - Average Log Probability of Bottom 30% Tokens: -1.2915
+2024-12-04 01:05:32,770 - seen/000000001818.jpg - Average Log Probability of Bottom 40% Tokens: -1.1650
+2024-12-04 01:05:32,770 - seen/000000001818.jpg - Average Log Probability of Bottom 50% Tokens: -1.0453
+2024-12-04 01:05:32,770 - seen/000000001818.jpg - Average Log Probability of Bottom 60% Tokens: -0.9207
+2024-12-04 01:05:32,772 - seen/000000001818.jpg - Generated Output: 
+This is a black and white photograph of two zebras standing close to each other on what appears to be grassy terrain. The zebra closest to the camera has its head turned away from it, revealing only one side profile with distinctive stripes that are characteristic of their species. Its body is angled towards us but not fully visible due to perspective distortion caused by the angle at which the photo was taken. Behind this first zebra stands another facing directly forward; however, both animals' faces remain hidden as they face away from the viewer. There is no text present within the image.</s>
+2024-12-04 01:05:32,772 - Processing Image: seen/000000001425.jpg
+2024-12-04 01:05:36,067 - seen/000000001425.jpg - Average Log Probability of Bottom 5% Tokens: -2.0754
+2024-12-04 01:05:36,067 - seen/000000001425.jpg - Average Log Probability of Bottom 10% Tokens: -1.7894
+2024-12-04 01:05:36,067 - seen/000000001425.jpg - Average Log Probability of Bottom 20% Tokens: -1.4301
+2024-12-04 01:05:36,067 - seen/000000001425.jpg - Average Log Probability of Bottom 30% Tokens: -1.2385
+2024-12-04 01:05:36,067 - seen/000000001425.jpg - Average Log Probability of Bottom 40% Tokens: -1.0947
+2024-12-04 01:05:36,067 - seen/000000001425.jpg - Average Log Probability of Bottom 50% Tokens: -0.9417
+2024-12-04 01:05:36,067 - seen/000000001425.jpg - Average Log Probability of Bottom 60% Tokens: -0.8132
+2024-12-04 01:05:36,069 - seen/000000001425.jpg - Generated Output: 
+The image is a black and white photograph capturing the essence of simplicity, elegance, and timelessness. It features an open-faced sandwich resting on a pristine white plate that sits atop a dark wooden table. The sandwich itself appears to be made with freshly baked bread, generously filled with succulent meat piled high, accompanied by crisp lettuce leaves adding a touch of greenery against the otherwise monochrome backdrop. In the background, slightly blurred but still discernible, there's another dish hinting at more culinary delights waiting to be savored.</s>
+2024-12-04 01:05:36,069 - Processing Image: seen/000000001584.jpg
+2024-12-04 01:05:39,284 - seen/000000001584.jpg - Average Log Probability of Bottom 5% Tokens: -1.6506
+2024-12-04 01:05:39,284 - seen/000000001584.jpg - Average Log Probability of Bottom 10% Tokens: -1.5184
+2024-12-04 01:05:39,284 - seen/000000001584.jpg - Average Log Probability of Bottom 20% Tokens: -1.3230
+2024-12-04 01:05:39,284 - seen/000000001584.jpg - Average Log Probability of Bottom 30% Tokens: -1.1870
+2024-12-04 01:05:39,284 - seen/000000001584.jpg - Average Log Probability of Bottom 40% Tokens: -1.0709
+2024-12-04 01:05:39,284 - seen/000000001584.jpg - Average Log Probability of Bottom 50% Tokens: -0.9782
+2024-12-04 01:05:39,285 - seen/000000001584.jpg - Average Log Probability of Bottom 60% Tokens: -0.8861
+2024-12-04 01:05:39,286 - seen/000000001584.jpg - Generated Output: 
+The image is a photograph of the front view of a red double-decker bus on an urban street, taken during daylight hours with clear visibility. The bus displays its route number "15 Aldwych" and destination sign that reads "Aldwych." It has two sets of doors; one set at each level for passengers to enter or exit. In the background, there are buildings under a partly cloudy sky, suggesting it might be late afternoon given the soft lighting conditions. There's also some greenery visible along the sidewalk where people can be seen walking by.</s>
+2024-12-04 01:05:39,286 - Processing Image: seen/000000003255.jpg
+2024-12-04 01:05:41,876 - seen/000000003255.jpg - Average Log Probability of Bottom 5% Tokens: -1.7662
+2024-12-04 01:05:41,877 - seen/000000003255.jpg - Average Log Probability of Bottom 10% Tokens: -1.5195
+2024-12-04 01:05:41,877 - seen/000000003255.jpg - Average Log Probability of Bottom 20% Tokens: -1.2802
+2024-12-04 01:05:41,877 - seen/000000003255.jpg - Average Log Probability of Bottom 30% Tokens: -1.1577
+2024-12-04 01:05:41,877 - seen/000000003255.jpg - Average Log Probability of Bottom 40% Tokens: -1.0610
+2024-12-04 01:05:41,877 - seen/000000003255.jpg - Average Log Probability of Bottom 50% Tokens: -0.9722
+2024-12-04 01:05:41,877 - seen/000000003255.jpg - Average Log Probability of Bottom 60% Tokens: -0.8708
+2024-12-04 01:05:41,878 - seen/000000003255.jpg - Generated Output: 
+The image captures a group of people standing on the snowy surface of a mountain peak, with majestic mountains rising behind them under a clear blue sky. The foreground is dominated by the white expanse of the snow-covered slope where the group stands. In contrast to their dark clothing and equipment, they appear as small figures against the vastness of nature around them. Their positioning suggests that they are either preparing to descend or have just reached the summit after an arduous climb up the steep slopes.</s>
+2024-12-04 01:05:41,878 - Processing Image: seen/000000001000.jpg
+2024-12-04 01:05:45,485 - seen/000000001000.jpg - Average Log Probability of Bottom 5% Tokens: -1.8792
+2024-12-04 01:05:45,486 - seen/000000001000.jpg - Average Log Probability of Bottom 10% Tokens: -1.6512
+2024-12-04 01:05:45,486 - seen/000000001000.jpg - Average Log Probability of Bottom 20% Tokens: -1.4448
+2024-12-04 01:05:45,486 - seen/000000001000.jpg - Average Log Probability of Bottom 30% Tokens: -1.2953
+2024-12-04 01:05:45,486 - seen/000000001000.jpg - Average Log Probability of Bottom 40% Tokens: -1.1641
+2024-12-04 01:05:45,486 - seen/000000001000.jpg - Average Log Probability of Bottom 50% Tokens: -1.0494
+2024-12-04 01:05:45,486 - seen/000000001000.jpg - Average Log Probability of Bottom 60% Tokens: -0.9444
+2024-12-04 01:05:45,487 - seen/000000001000.jpg - Generated Output: 
+The image is a photograph featuring five individuals, likely children and young adults, standing on an outdoor tennis court with a chain-link fence enclosing the area behind them. The group consists of three boys wearing white shirts paired with black shorts; one boy has his hands clasped together while another holds what appears to be a trophy or award. Two girls are also present among the group; they wear yellow baseball caps and carry backpacks. All participants have smiles on their faces as if posing for the photo. In front of the group stands a child holding a pink tennis racket. Behind the group, there's a tree line visible through gaps in the fencing.</s>
+2024-12-04 01:05:45,487 - Processing Image: seen/000000002006.jpg
+2024-12-04 01:05:48,777 - seen/000000002006.jpg - Average Log Probability of Bottom 5% Tokens: -2.0276
+2024-12-04 01:05:48,778 - seen/000000002006.jpg - Average Log Probability of Bottom 10% Tokens: -1.6566
+2024-12-04 01:05:48,778 - seen/000000002006.jpg - Average Log Probability of Bottom 20% Tokens: -1.3756
+2024-12-04 01:05:48,778 - seen/000000002006.jpg - Average Log Probability of Bottom 30% Tokens: -1.1857
+2024-12-04 01:05:48,778 - seen/000000002006.jpg - Average Log Probability of Bottom 40% Tokens: -1.0497
+2024-12-04 01:05:48,778 - seen/000000002006.jpg - Average Log Probability of Bottom 50% Tokens: -0.9278
+2024-12-04 01:05:48,778 - seen/000000002006.jpg - Average Log Probability of Bottom 60% Tokens: -0.8274
+2024-12-04 01:05:48,779 - seen/000000002006.jpg - Generated Output: 
+The image captures a vibrant scene on the streets of South Shields, UK. Dominating the frame is a large purple bus with white lettering that reads "Gateshead". The bus appears to be either arriving or departing from its stop at the corner of a street lined with trees and buildings. A traffic light can also be seen in the background, adding to the urban setting's authenticity. On the sidewalk next to the road, there are two individuals - one walking away while another stands still, possibly waiting for something or someone. Their presence adds life and movement to the otherwise static cityscape captured by the camera.</s>
+2024-12-04 01:05:48,779 - Processing Image: seen/000000004495.jpg
+2024-12-04 01:05:52,846 - seen/000000004495.jpg - Average Log Probability of Bottom 5% Tokens: -1.8032
+2024-12-04 01:05:52,846 - seen/000000004495.jpg - Average Log Probability of Bottom 10% Tokens: -1.6001
+2024-12-04 01:05:52,846 - seen/000000004495.jpg - Average Log Probability of Bottom 20% Tokens: -1.3455
+2024-12-04 01:05:52,846 - seen/000000004495.jpg - Average Log Probability of Bottom 30% Tokens: -1.1819
+2024-12-04 01:05:52,846 - seen/000000004495.jpg - Average Log Probability of Bottom 40% Tokens: -1.0393
+2024-12-04 01:05:52,846 - seen/000000004495.jpg - Average Log Probability of Bottom 50% Tokens: -0.9297
+2024-12-04 01:05:52,846 - seen/000000004495.jpg - Average Log Probability of Bottom 60% Tokens: -0.8279
+2024-12-04 01:05:52,847 - seen/000000004495.jpg - Generated Output: 
+The image captures a cozy living room scene, bathed in soft light that accentuates the warm tones of the furniture and decorations. Dominating one corner is an armchair upholstered in vibrant red plaid fabric, its plush cushions inviting relaxation. Adjacent to it stands a wooden TV stand, housing a television set with a screen displaying static. The walls are painted a soothing yellow color, providing a cheerful backdrop for two framed pictures hanging on them - one depicting a man and woman sharing a moment together, while the other showcases a serene landscape under a clear blue sky. A whiteboard hangs above the armchair, perhaps used for jotting down notes or reminders during quiet moments at home.</s>
+2024-12-04 01:05:52,848 - Processing Image: seen/000000001675.jpg
+2024-12-04 01:05:56,644 - seen/000000001675.jpg - Average Log Probability of Bottom 5% Tokens: -1.8661
+2024-12-04 01:05:56,644 - seen/000000001675.jpg - Average Log Probability of Bottom 10% Tokens: -1.7094
+2024-12-04 01:05:56,644 - seen/000000001675.jpg - Average Log Probability of Bottom 20% Tokens: -1.4817
+2024-12-04 01:05:56,644 - seen/000000001675.jpg - Average Log Probability of Bottom 30% Tokens: -1.3430
+2024-12-04 01:05:56,644 - seen/000000001675.jpg - Average Log Probability of Bottom 40% Tokens: -1.2060
+2024-12-04 01:05:56,645 - seen/000000001675.jpg - Average Log Probability of Bottom 50% Tokens: -1.0802
+2024-12-04 01:05:56,645 - seen/000000001675.jpg - Average Log Probability of Bottom 60% Tokens: -0.9712
+2024-12-04 01:05:56,646 - seen/000000001675.jpg - Generated Output: 
+The image is a photograph featuring an adult black cat with white whiskers and chest, lying on its side within the open compartment of what appears to be a laptop computer. The cat's fur has long strands that are predominantly dark but have some lighter areas near the ears and face. Its eyes are yellow-green, and it gazes directly at the camera with a calm expression. In front of the cat, there is a keyboard visible through the screen of the laptop; however, only part of the keys can be seen due to the angle of the shot. To the left of the frame, partially obscured by the edge of the laptop, is another object which seems to be a green pen or marker. There is no text present in the image.</s>
+2024-12-04 01:05:56,646 - Processing Image: seen/000000002592.jpg
+2024-12-04 01:05:59,212 - seen/000000002592.jpg - Average Log Probability of Bottom 5% Tokens: -1.9901
+2024-12-04 01:05:59,212 - seen/000000002592.jpg - Average Log Probability of Bottom 10% Tokens: -1.7688
+2024-12-04 01:05:59,212 - seen/000000002592.jpg - Average Log Probability of Bottom 20% Tokens: -1.5310
+2024-12-04 01:05:59,212 - seen/000000002592.jpg - Average Log Probability of Bottom 30% Tokens: -1.3976
+2024-12-04 01:05:59,212 - seen/000000002592.jpg - Average Log Probability of Bottom 40% Tokens: -1.2288
+2024-12-04 01:05:59,212 - seen/000000002592.jpg - Average Log Probability of Bottom 50% Tokens: -1.0574
+2024-12-04 01:05:59,212 - seen/000000002592.jpg - Average Log Probability of Bottom 60% Tokens: -0.9169
+2024-12-04 01:05:59,213 - seen/000000002592.jpg - Generated Output: 
+The image shows a white mug with the text "PIRATE OF WELLS" printed on it, accompanied by an illustration of a skull and crossbones symbol above two crossed swords. The mug is placed next to what appears to be a knife lying horizontally across its blade. Both objects are situated against a patterned surface that resembles a table or countertop with diagonal stripes. There's no visible background due to the close-up nature of the photograph.</s>
+2024-12-04 01:05:59,213 - Processing Image: seen/000000002685.jpg
+2024-12-04 01:06:04,177 - seen/000000002685.jpg - Average Log Probability of Bottom 5% Tokens: -1.7822
+2024-12-04 01:06:04,177 - seen/000000002685.jpg - Average Log Probability of Bottom 10% Tokens: -1.5904
+2024-12-04 01:06:04,177 - seen/000000002685.jpg - Average Log Probability of Bottom 20% Tokens: -1.3611
+2024-12-04 01:06:04,177 - seen/000000002685.jpg - Average Log Probability of Bottom 30% Tokens: -1.1983
+2024-12-04 01:06:04,177 - seen/000000002685.jpg - Average Log Probability of Bottom 40% Tokens: -1.0754
+2024-12-04 01:06:04,177 - seen/000000002685.jpg - Average Log Probability of Bottom 50% Tokens: -0.9692
+2024-12-04 01:06:04,177 - seen/000000002685.jpg - Average Log Probability of Bottom 60% Tokens: -0.8639
+2024-12-04 01:06:04,178 - seen/000000002685.jpg - Generated Output: 
+The image captures a lively scene at a bar or restaurant, where people are gathered around the counter to enjoy some wine and conversation. The bartender is standing behind the wooden counter, ready to serve drinks. He's wearing glasses that reflect his professionalism and attention to detail. His attire suggests he might be an employee of the establishment.
+In front of him on the counter are several bottles of red wine, their labels facing outwards for easy identification by customers. A few empty wine glasses also rest there, waiting to be filled with more liquid gold.
+To the left side of the photo stands another person who appears to be engaged in a discussion with someone across from them. Their body language indicates they may be sharing stories or exchanging ideas over a glass of wine.
+On the right side of the photo, two men can be seen enjoying each other's company while sipping on their drinks. They seem relaxed
+2024-12-04 01:06:04,179 - Processing Image: seen/000000004134.jpg
+2024-12-04 01:06:07,965 - seen/000000004134.jpg - Average Log Probability of Bottom 5% Tokens: -1.7125
+2024-12-04 01:06:07,965 - seen/000000004134.jpg - Average Log Probability of Bottom 10% Tokens: -1.5961
+2024-12-04 01:06:07,965 - seen/000000004134.jpg - Average Log Probability of Bottom 20% Tokens: -1.3509
+2024-12-04 01:06:07,965 - seen/000000004134.jpg - Average Log Probability of Bottom 30% Tokens: -1.2076
+2024-12-04 01:06:07,965 - seen/000000004134.jpg - Average Log Probability of Bottom 40% Tokens: -1.0952
+2024-12-04 01:06:07,965 - seen/000000004134.jpg - Average Log Probability of Bottom 50% Tokens: -0.9980
+2024-12-04 01:06:07,965 - seen/000000004134.jpg - Average Log Probability of Bottom 60% Tokens: -0.9070
+2024-12-04 01:06:07,967 - seen/000000004134.jpg - Generated Output: 
+The image is a photograph capturing an indoor scene where two men are shaking hands over a table with dining ware on it, suggesting they might be at the end of a meal or about to start one. The man on the left has short dark hair and wears glasses; he's dressed in a patterned jacket that appears to have a mix of blue and gray tones. His counterpart on the right has longer black hair and is also wearing glasses but his attire consists of a solid-colored suit without any visible patterns. Both individuals seem engaged in conversation as indicated by their smiles and focused expressions. In the background, there are other people present who appear less involved in the interaction between these two men. There are no texts visible within the image.</s>
+2024-12-04 01:06:07,967 - Processing Image: seen/000000003501.jpg
+2024-12-04 01:06:12,727 - seen/000000003501.jpg - Average Log Probability of Bottom 5% Tokens: -1.8855
+2024-12-04 01:06:12,728 - seen/000000003501.jpg - Average Log Probability of Bottom 10% Tokens: -1.7323
+2024-12-04 01:06:12,728 - seen/000000003501.jpg - Average Log Probability of Bottom 20% Tokens: -1.4827
+2024-12-04 01:06:12,728 - seen/000000003501.jpg - Average Log Probability of Bottom 30% Tokens: -1.3244
+2024-12-04 01:06:12,728 - seen/000000003501.jpg - Average Log Probability of Bottom 40% Tokens: -1.1917
+2024-12-04 01:06:12,728 - seen/000000003501.jpg - Average Log Probability of Bottom 50% Tokens: -1.0669
+2024-12-04 01:06:12,728 - seen/000000003501.jpg - Average Log Probability of Bottom 60% Tokens: -0.9528
+2024-12-04 01:06:12,729 - seen/000000003501.jpg - Generated Output: 
+The image is a close-up photograph of a bowl containing food, which appears to be a meal consisting primarily of rice and broccoli. The bowl has a white interior with a slightly darker rim at the top edge. There are two pieces of green broccoli prominently displayed on the left side of the bowl; one piece is larger than the other but both have florets that suggest they might still contain some stem or stalk. In addition to the broccoli, there seems to be another type of vegetable visible underneath it, although its specific identity cannot be determined from the angle provided by the photo. A small amount of red sauce can also be seen near the bottom right corner of the bowl. The background behind the bowl is out of focus, making it difficult to discern any additional elements present outside of the immediate frame of the dish itself.</s>
+2024-12-04 01:06:12,729 - Processing Image: seen/000000003553.jpg
+2024-12-04 01:06:15,222 - seen/000000003553.jpg - Average Log Probability of Bottom 5% Tokens: -1.6959
+2024-12-04 01:06:15,222 - seen/000000003553.jpg - Average Log Probability of Bottom 10% Tokens: -1.5516
+2024-12-04 01:06:15,223 - seen/000000003553.jpg - Average Log Probability of Bottom 20% Tokens: -1.3713
+2024-12-04 01:06:15,223 - seen/000000003553.jpg - Average Log Probability of Bottom 30% Tokens: -1.2452
+2024-12-04 01:06:15,223 - seen/000000003553.jpg - Average Log Probability of Bottom 40% Tokens: -1.1033
+2024-12-04 01:06:15,223 - seen/000000003553.jpg - Average Log Probability of Bottom 50% Tokens: -1.0053
+2024-12-04 01:06:15,223 - seen/000000003553.jpg - Average Log Probability of Bottom 60% Tokens: -0.8982
+2024-12-04 01:06:15,224 - seen/000000003553.jpg - Generated Output: 
+The image is a vertical split-screen photograph featuring two different scenes, each occupying half of the frame. On the left side, there's an outdoor setting with green grass and wooden planks or boards on which someone appears to be standing; however, only one leg can be seen from behind due to the angle at which the photo was taken. The person seems to be wearing dark pants and black shoes adorned with white patterns. There are no visible texts within the image.</s>
+2024-12-04 01:06:15,224 - Processing Image: seen/000000002923.jpg
+2024-12-04 01:06:18,050 - seen/000000002923.jpg - Average Log Probability of Bottom 5% Tokens: -1.6587
+2024-12-04 01:06:18,051 - seen/000000002923.jpg - Average Log Probability of Bottom 10% Tokens: -1.4792
+2024-12-04 01:06:18,051 - seen/000000002923.jpg - Average Log Probability of Bottom 20% Tokens: -1.2850
+2024-12-04 01:06:18,051 - seen/000000002923.jpg - Average Log Probability of Bottom 30% Tokens: -1.1492
+2024-12-04 01:06:18,051 - seen/000000002923.jpg - Average Log Probability of Bottom 40% Tokens: -1.0026
+2024-12-04 01:06:18,051 - seen/000000002923.jpg - Average Log Probability of Bottom 50% Tokens: -0.8957
+2024-12-04 01:06:18,051 - seen/000000002923.jpg - Average Log Probability of Bottom 60% Tokens: -0.8009
+2024-12-04 01:06:18,052 - seen/000000002923.jpg - Generated Output: 
+The image captures a serene scene of nature, dominated by the vast expanse of green grass that stretches out to meet the horizon line at the bottom right corner. The sky above is filled with clouds, casting an overcast mood on the landscape below. In contrast to the natural elements, there are man-made structures visible - boats docked near what appears to be a pier or jetty structure. A lone bird can also be seen flying high up in the sky, adding life and movement to the otherwise tranquil setting.</s>
+2024-12-04 01:06:18,052 - Processing Image: seen/000000002587.jpg
+2024-12-04 01:06:20,735 - seen/000000002587.jpg - Average Log Probability of Bottom 5% Tokens: -1.9198
+2024-12-04 01:06:20,735 - seen/000000002587.jpg - Average Log Probability of Bottom 10% Tokens: -1.7438
+2024-12-04 01:06:20,735 - seen/000000002587.jpg - Average Log Probability of Bottom 20% Tokens: -1.5628
+2024-12-04 01:06:20,735 - seen/000000002587.jpg - Average Log Probability of Bottom 30% Tokens: -1.4050
+2024-12-04 01:06:20,735 - seen/000000002587.jpg - Average Log Probability of Bottom 40% Tokens: -1.2699
+2024-12-04 01:06:20,735 - seen/000000002587.jpg - Average Log Probability of Bottom 50% Tokens: -1.1558
+2024-12-04 01:06:20,735 - seen/000000002587.jpg - Average Log Probability of Bottom 60% Tokens: -1.0465
+2024-12-04 01:06:20,736 - seen/000000002587.jpg - Generated Output: 
+The image is a close-up photograph of two fruits, one being a banana and the other an apple. The banana appears to be ripe with yellow skin, while the apple has red skin that suggests it might not yet be fully ripened or could possibly have been affected by some external factor such as sunlight exposure. Both fruits are placed on what seems like a piece of paper or plastic wrap, which provides a contrasting background due to its white color. There's no visible text within the image.</s>
+2024-12-04 01:06:20,736 - Processing Image: seen/000000003845.jpg
+2024-12-04 01:06:24,376 - seen/000000003845.jpg - Average Log Probability of Bottom 5% Tokens: -1.9426
+2024-12-04 01:06:24,376 - seen/000000003845.jpg - Average Log Probability of Bottom 10% Tokens: -1.6775
+2024-12-04 01:06:24,376 - seen/000000003845.jpg - Average Log Probability of Bottom 20% Tokens: -1.4216
+2024-12-04 01:06:24,376 - seen/000000003845.jpg - Average Log Probability of Bottom 30% Tokens: -1.2388
+2024-12-04 01:06:24,376 - seen/000000003845.jpg - Average Log Probability of Bottom 40% Tokens: -1.0839
+2024-12-04 01:06:24,376 - seen/000000003845.jpg - Average Log Probability of Bottom 50% Tokens: -0.9485
+2024-12-04 01:06:24,376 - seen/000000003845.jpg - Average Log Probability of Bottom 60% Tokens: -0.8391
+2024-12-04 01:06:24,378 - seen/000000003845.jpg - Generated Output: 
+The image captures a vibrant and appetizing meal served on a plate with a floral pattern, placed on a wooden table. The main components of the dish are chicken pieces coated in brown sauce, accompanied by an array of vegetables including broccoli florets, carrot slices, cauliflower, and corn kernels. A fork is also present next to the plate, ready for use. In addition to these, there's a glass filled with water positioned at one corner of the frame. The overall scene suggests a well-prepared and balanced meal, possibly from a Chinese cuisine given the presence of soy sauce as part of the cooking process.</s>
+2024-12-04 01:06:24,378 - Processing Image: seen/000000002473.jpg
+2024-12-04 01:06:28,698 - seen/000000002473.jpg - Average Log Probability of Bottom 5% Tokens: -1.7739
+2024-12-04 01:06:28,698 - seen/000000002473.jpg - Average Log Probability of Bottom 10% Tokens: -1.5406
+2024-12-04 01:06:28,698 - seen/000000002473.jpg - Average Log Probability of Bottom 20% Tokens: -1.3304
+2024-12-04 01:06:28,698 - seen/000000002473.jpg - Average Log Probability of Bottom 30% Tokens: -1.1828
+2024-12-04 01:06:28,698 - seen/000000002473.jpg - Average Log Probability of Bottom 40% Tokens: -1.0643
+2024-12-04 01:06:28,698 - seen/000000002473.jpg - Average Log Probability of Bottom 50% Tokens: -0.9638
+2024-12-04 01:06:28,698 - seen/000000002473.jpg - Average Log Probability of Bottom 60% Tokens: -0.8722
+2024-12-04 01:06:28,699 - seen/000000002473.jpg - Generated Output: 
+The image captures a dynamic scene on a snowy mountain slope under the clear blue sky. At the center of attention is an individual, dressed in vibrant colors and holding ski poles, soaring through the air with their skis crossed over each other. The person's body leans forward as if they are about to land or have just taken off from a jump. Their position suggests movement and energy.
+In contrast to the main subject, there are two smaller figures standing at the bottom of the hill. They appear to be spectators watching the aerial display above them. One figure seems to be taking pictures while the other stands still, possibly enjoying the view or waiting for someone else.
+The background features trees lining both sides of the slope, adding depth to the landscape. Above it all, the vast expanse of the blue sky stretches out, completing the winter sports setting.</s>
+2024-12-04 01:06:28,700 - Processing Image: seen/000000001296.jpg
+2024-12-04 01:06:31,764 - seen/000000001296.jpg - Average Log Probability of Bottom 5% Tokens: -1.5320
+2024-12-04 01:06:31,764 - seen/000000001296.jpg - Average Log Probability of Bottom 10% Tokens: -1.3629
+2024-12-04 01:06:31,764 - seen/000000001296.jpg - Average Log Probability of Bottom 20% Tokens: -1.1953
+2024-12-04 01:06:31,764 - seen/000000001296.jpg - Average Log Probability of Bottom 30% Tokens: -1.0795
+2024-12-04 01:06:31,764 - seen/000000001296.jpg - Average Log Probability of Bottom 40% Tokens: -0.9869
+2024-12-04 01:06:31,764 - seen/000000001296.jpg - Average Log Probability of Bottom 50% Tokens: -0.8850
+2024-12-04 01:06:31,764 - seen/000000001296.jpg - Average Log Probability of Bottom 60% Tokens: -0.7931
+2024-12-04 01:06:31,765 - seen/000000001296.jpg - Generated Output: 
+The image is a close-up photograph of an individual, likely taken at an event or gathering due to the blurred background which suggests movement and activity beyond what can be seen directly. The person appears to have dark hair styled with bangs that fall over their forehead. They are wearing makeup including eyeliner and lipstick. On one wrist, there's visible jewelry consisting of multiple bracelets stacked together. Their expression seems contemplative as they gaze off to the side rather than looking directly into the camera lens. There is no text present on the image.</s>
+2024-12-04 01:06:31,765 - Processing Image: seen/000000003156.jpg
+2024-12-04 01:06:35,428 - seen/000000003156.jpg - Average Log Probability of Bottom 5% Tokens: -1.8861
+2024-12-04 01:06:35,429 - seen/000000003156.jpg - Average Log Probability of Bottom 10% Tokens: -1.7389
+2024-12-04 01:06:35,429 - seen/000000003156.jpg - Average Log Probability of Bottom 20% Tokens: -1.5387
+2024-12-04 01:06:35,429 - seen/000000003156.jpg - Average Log Probability of Bottom 30% Tokens: -1.3933
+2024-12-04 01:06:35,429 - seen/000000003156.jpg - Average Log Probability of Bottom 40% Tokens: -1.2689
+2024-12-04 01:06:35,429 - seen/000000003156.jpg - Average Log Probability of Bottom 50% Tokens: -1.1406
+2024-12-04 01:06:35,429 - seen/000000003156.jpg - Average Log Probability of Bottom 60% Tokens: -1.0222
+2024-12-04 01:06:35,430 - seen/000000003156.jpg - Generated Output: 
+The image is a black and white photograph capturing an intimate moment of someone using the restroom facilities at night, as indicated by the darkened surroundings. The central figure appears to be crouched or kneeling down with their head turned away from the camera's viewpoint, suggesting they are engaged in some activity that requires privacy. They are wearing a short-sleeved polo shirt and jeans, which appear worn and slightly disheveled. A small patch on one side of the pants suggests it might have been repaired recently. There is no visible text within the image. In the background, there is a checkered pattern wall tiles, typical for public bathrooms, adding context to the setting.</s>
+2024-12-04 01:06:35,430 - Processing Image: seen/000000002149.jpg
+2024-12-04 01:06:38,231 - seen/000000002149.jpg - Average Log Probability of Bottom 5% Tokens: -1.7878
+2024-12-04 01:06:38,231 - seen/000000002149.jpg - Average Log Probability of Bottom 10% Tokens: -1.5924
+2024-12-04 01:06:38,231 - seen/000000002149.jpg - Average Log Probability of Bottom 20% Tokens: -1.3802
+2024-12-04 01:06:38,231 - seen/000000002149.jpg - Average Log Probability of Bottom 30% Tokens: -1.2291
+2024-12-04 01:06:38,232 - seen/000000002149.jpg - Average Log Probability of Bottom 40% Tokens: -1.0837
+2024-12-04 01:06:38,232 - seen/000000002149.jpg - Average Log Probability of Bottom 50% Tokens: -0.9676
+2024-12-04 01:06:38,232 - seen/000000002149.jpg - Average Log Probability of Bottom 60% Tokens: -0.8593
+2024-12-04 01:06:38,232 - seen/000000002149.jpg - Generated Output: 
+The image is a close-up photograph of several green apples arranged on the surface of what appears to be a white bowl or plate, which fills most of the frame from left to right and top to bottom. The lighting casts soft shadows beneath each apple, indicating that they are not perfectly aligned with their surroundings but rather tilted slightly towards us as viewers. Each apple has visible lenticels (pores) along its stem, suggesting it may have been recently picked from an orchard tree. There's no text present within the image.</s>
+2024-12-04 01:06:38,233 - Processing Image: seen/000000000885.jpg
+2024-12-04 01:06:42,206 - seen/000000000885.jpg - Average Log Probability of Bottom 5% Tokens: -1.8075
+2024-12-04 01:06:42,207 - seen/000000000885.jpg - Average Log Probability of Bottom 10% Tokens: -1.6423
+2024-12-04 01:06:42,207 - seen/000000000885.jpg - Average Log Probability of Bottom 20% Tokens: -1.4723
+2024-12-04 01:06:42,207 - seen/000000000885.jpg - Average Log Probability of Bottom 30% Tokens: -1.3432
+2024-12-04 01:06:42,207 - seen/000000000885.jpg - Average Log Probability of Bottom 40% Tokens: -1.2322
+2024-12-04 01:06:42,207 - seen/000000000885.jpg - Average Log Probability of Bottom 50% Tokens: -1.1278
+2024-12-04 01:06:42,207 - seen/000000000885.jpg - Average Log Probability of Bottom 60% Tokens: -1.0286
+2024-12-04 01:06:42,208 - seen/000000000885.jpg - Generated Output: 
+The image is a photograph capturing an action moment during what appears to be a tennis match, as indicated by the presence of a player and a ball on the court. The central figure is a male athlete dressed in white athletic attire; he has his body twisted sideways with one leg extended behind him while holding onto something that seems to be part of his outfit or equipment. His posture suggests movement and agility typical for sports like tennis. In front of him, there's a blue wall displaying text "JP Morgan" prominently across its width. To the left of the frame, partially obscured but still visible, are spectators seated along the edge of the court. There is no additional context provided about the event itself, such as the name of the tournament or the identities of the players involved.</s>
+2024-12-04 01:06:42,208 - Processing Image: seen/000000001503.jpg
+2024-12-04 01:06:45,659 - seen/000000001503.jpg - Average Log Probability of Bottom 5% Tokens: -2.0589
+2024-12-04 01:06:45,660 - seen/000000001503.jpg - Average Log Probability of Bottom 10% Tokens: -1.8702
+2024-12-04 01:06:45,660 - seen/000000001503.jpg - Average Log Probability of Bottom 20% Tokens: -1.6360
+2024-12-04 01:06:45,660 - seen/000000001503.jpg - Average Log Probability of Bottom 30% Tokens: -1.4599
+2024-12-04 01:06:45,660 - seen/000000001503.jpg - Average Log Probability of Bottom 40% Tokens: -1.3255
+2024-12-04 01:06:45,660 - seen/000000001503.jpg - Average Log Probability of Bottom 50% Tokens: -1.2079
+2024-12-04 01:06:45,660 - seen/000000001503.jpg - Average Log Probability of Bottom 60% Tokens: -1.0926
+2024-12-04 01:06:45,661 - seen/000000001503.jpg - Generated Output: 
+The image shows a workspace with two laptops on the desk, one is open and appears to be an Apple MacBook Pro, while the other laptop has its screen closed. The desktop computer monitor sits behind them both. To the right of these devices are various cables connected to the computers, including what looks like power adapters for charging or data transfer. There's also a small white fan placed near the center of the desk. In front of the monitors, there seems to be a mouse pad with a wrist rest attached to it. Above the desk, there's a window covered by horizontal blinds that allow some light into the room. The overall style of the photograph suggests it might have been taken during daylight hours due to the natural light coming through the window.</s>
+2024-12-04 01:06:45,661 - Processing Image: seen/000000003661.jpg
+2024-12-04 01:06:48,716 - seen/000000003661.jpg - Average Log Probability of Bottom 5% Tokens: -2.1194
+2024-12-04 01:06:48,716 - seen/000000003661.jpg - Average Log Probability of Bottom 10% Tokens: -1.9363
+2024-12-04 01:06:48,716 - seen/000000003661.jpg - Average Log Probability of Bottom 20% Tokens: -1.7348
+2024-12-04 01:06:48,717 - seen/000000003661.jpg - Average Log Probability of Bottom 30% Tokens: -1.5889
+2024-12-04 01:06:48,717 - seen/000000003661.jpg - Average Log Probability of Bottom 40% Tokens: -1.4656
+2024-12-04 01:06:48,717 - seen/000000003661.jpg - Average Log Probability of Bottom 50% Tokens: -1.3534
+2024-12-04 01:06:48,717 - seen/000000003661.jpg - Average Log Probability of Bottom 60% Tokens: -1.2448
+2024-12-04 01:06:48,717 - seen/000000003661.jpg - Generated Output: 
+The image is a vertical photograph showing two bananas with their peels partially removed, revealing the fruit inside. The topmost banana has its stem facing upwards and appears to be slightly overripe or bruised on one side; it also shows signs of insect activity near the bottom end where the skin has been bitten through. Below that, there's another banana lying horizontally across the frame from left to right, displaying more visible marks and spots than the upper one but still mostly intact. Both bananas are placed against what seems like an office desk background featuring a computer monitor and keyboard.</s>
+2024-12-04 01:06:48,718 - Processing Image: seen/000000002532.jpg
+2024-12-04 01:06:52,472 - seen/000000002532.jpg - Average Log Probability of Bottom 5% Tokens: -2.0036
+2024-12-04 01:06:52,472 - seen/000000002532.jpg - Average Log Probability of Bottom 10% Tokens: -1.8180
+2024-12-04 01:06:52,472 - seen/000000002532.jpg - Average Log Probability of Bottom 20% Tokens: -1.5802
+2024-12-04 01:06:52,472 - seen/000000002532.jpg - Average Log Probability of Bottom 30% Tokens: -1.4360
+2024-12-04 01:06:52,472 - seen/000000002532.jpg - Average Log Probability of Bottom 40% Tokens: -1.2916
+2024-12-04 01:06:52,472 - seen/000000002532.jpg - Average Log Probability of Bottom 50% Tokens: -1.1504
+2024-12-04 01:06:52,472 - seen/000000002532.jpg - Average Log Probability of Bottom 60% Tokens: -1.0292
+2024-12-04 01:06:52,473 - seen/000000002532.jpg - Generated Output: 
+The image is a vertical panorama, divided into two halves by the central figure of an individual standing on snow-covered ground with their back to us and facing away from the camera's viewpoint. The person appears to be wearing dark clothing and has ski poles planted upright in the snow beside them. They are positioned near what seems to be a rocky outcrop or small hill covered with patches of bare earth showing through the snow. In the background, there is a clear blue sky above distant mountains that have some clouds scattered across it. Below these mountains, there is more rugged terrain visible underneath the snow cover. There are no texts present within the image.</s>
+2024-12-04 01:06:52,473 - Processing Image: seen/000000001532.jpg
+2024-12-04 01:06:57,004 - seen/000000001532.jpg - Average Log Probability of Bottom 5% Tokens: -1.9422
+2024-12-04 01:06:57,005 - seen/000000001532.jpg - Average Log Probability of Bottom 10% Tokens: -1.7702
+2024-12-04 01:06:57,005 - seen/000000001532.jpg - Average Log Probability of Bottom 20% Tokens: -1.5622
+2024-12-04 01:06:57,005 - seen/000000001532.jpg - Average Log Probability of Bottom 30% Tokens: -1.4347
+2024-12-04 01:06:57,005 - seen/000000001532.jpg - Average Log Probability of Bottom 40% Tokens: -1.3067
+2024-12-04 01:06:57,005 - seen/000000001532.jpg - Average Log Probability of Bottom 50% Tokens: -1.1928
+2024-12-04 01:06:57,005 - seen/000000001532.jpg - Average Log Probability of Bottom 60% Tokens: -1.0708
+2024-12-04 01:06:57,006 - seen/000000001532.jpg - Generated Output: 
+The image is a photograph showing an overpass with multiple lanes of traffic passing underneath it, and two green highway signs mounted on the side of the bridge. The sign at the top reads "NORTH" followed by "101 VENTURA," indicating that Ventura Freeway (Interstate 101) is to the north from where the photo was taken. Below it, another sign states "SOUTH NORTH." This suggests there are three directions available for travelers; North towards Ventura, South towards Los Angeles or San Diego, and North again back towards Los Angeles or San Diego. In addition to these directional signs, there's also one labeled "EAST" pointing rightwards, which likely indicates the eastbound lanes of I-5. There are no visible people or distinctive landmarks within the frame, focusing attention primarily on the roadway infrastructure above.</s>
+2024-12-04 01:06:57,006 - Processing Image: seen/000000000872.jpg
+2024-12-04 01:07:00,737 - seen/000000000872.jpg - Average Log Probability of Bottom 5% Tokens: -2.2870
+2024-12-04 01:07:00,737 - seen/000000000872.jpg - Average Log Probability of Bottom 10% Tokens: -2.0087
+2024-12-04 01:07:00,737 - seen/000000000872.jpg - Average Log Probability of Bottom 20% Tokens: -1.7163
+2024-12-04 01:07:00,737 - seen/000000000872.jpg - Average Log Probability of Bottom 30% Tokens: -1.5487
+2024-12-04 01:07:00,737 - seen/000000000872.jpg - Average Log Probability of Bottom 40% Tokens: -1.4013
+2024-12-04 01:07:00,737 - seen/000000000872.jpg - Average Log Probability of Bottom 50% Tokens: -1.2801
+2024-12-04 01:07:00,737 - seen/000000000872.jpg - Average Log Probability of Bottom 60% Tokens: -1.1640
+2024-12-04 01:07:00,738 - seen/000000000872.jpg - Generated Output: 
+The image is a photograph capturing an individual engaged in baseball activity on what appears to be a field with grass and trees surrounding it. The person, who seems to be male based on the visible clothing, is wearing a white uniform consisting of pants, a shirt, gloves, and cleats. He has short hair and is looking downward as if focusing or preparing for action. His posture suggests movement, possibly running towards home plate during a game. In front of him are two black rectangles that appear to represent either a digital overlay or a cutout from another photo or graphic element within the main frame. There's no text present in the image.</s>
+2024-12-04 01:07:00,739 - Processing Image: unseen/IMG_4407.JPG
+2024-12-04 01:07:04,485 - unseen/IMG_4407.JPG - Average Log Probability of Bottom 5% Tokens: -1.7817
+2024-12-04 01:07:04,485 - unseen/IMG_4407.JPG - Average Log Probability of Bottom 10% Tokens: -1.5512
+2024-12-04 01:07:04,485 - unseen/IMG_4407.JPG - Average Log Probability of Bottom 20% Tokens: -1.3151
+2024-12-04 01:07:04,485 - unseen/IMG_4407.JPG - Average Log Probability of Bottom 30% Tokens: -1.1817
+2024-12-04 01:07:04,485 - unseen/IMG_4407.JPG - Average Log Probability of Bottom 40% Tokens: -1.0718
+2024-12-04 01:07:04,485 - unseen/IMG_4407.JPG - Average Log Probability of Bottom 50% Tokens: -0.9749
+2024-12-04 01:07:04,485 - unseen/IMG_4407.JPG - Average Log Probability of Bottom 60% Tokens: -0.8864
+2024-12-04 01:07:04,486 - unseen/IMG_4407.JPG - Generated Output: 
+The image captures a serene winter scene of a small stream flowing through the woods. The water, appearing as ice due to its cold temperature and lack of movement, is surrounded by rocks that add texture to the landscape. On either side of the stream are trees with bare branches, their leafless state indicating it's likely late autumn or early spring when deciduous plants have shed their leaves for the season. In the background, there appears to be a hillside covered in snow, suggesting recent snowfall has blanketed the area. Above all these elements, the sky stretches out in an expanse of blue, providing a beautiful contrast against the white snow on the ground below.</s>
+2024-12-04 01:07:04,486 - Processing Image: unseen/IMG_6300.JPG
+2024-12-04 01:07:07,494 - unseen/IMG_6300.JPG - Average Log Probability of Bottom 5% Tokens: -2.1532
+2024-12-04 01:07:07,494 - unseen/IMG_6300.JPG - Average Log Probability of Bottom 10% Tokens: -1.9020
+2024-12-04 01:07:07,494 - unseen/IMG_6300.JPG - Average Log Probability of Bottom 20% Tokens: -1.6236
+2024-12-04 01:07:07,494 - unseen/IMG_6300.JPG - Average Log Probability of Bottom 30% Tokens: -1.4304
+2024-12-04 01:07:07,494 - unseen/IMG_6300.JPG - Average Log Probability of Bottom 40% Tokens: -1.2646
+2024-12-04 01:07:07,494 - unseen/IMG_6300.JPG - Average Log Probability of Bottom 50% Tokens: -1.1395
+2024-12-04 01:07:07,494 - unseen/IMG_6300.JPG - Average Log Probability of Bottom 60% Tokens: -1.0252
+2024-12-04 01:07:07,495 - unseen/IMG_6300.JPG - Generated Output: 
+The image shows a collection of old, weathered cylindrical objects that appear to be made from metal or similar material with blue and green hues. They are stacked haphazardly on what looks like an outdoor surface, possibly concrete or stone pavement, given the texture visible at the bottom left corner of the photo. The background is blurred but suggests an urban environment with red brick walls and vegetation growing up through cracks in the ground. There's no text present within the image.</s>
+2024-12-04 01:07:07,495 - Processing Image: unseen/IMG_6313.JPG
+2024-12-04 01:07:12,448 - unseen/IMG_6313.JPG - Average Log Probability of Bottom 5% Tokens: -1.9337
+2024-12-04 01:07:12,448 - unseen/IMG_6313.JPG - Average Log Probability of Bottom 10% Tokens: -1.7502
+2024-12-04 01:07:12,448 - unseen/IMG_6313.JPG - Average Log Probability of Bottom 20% Tokens: -1.5070
+2024-12-04 01:07:12,448 - unseen/IMG_6313.JPG - Average Log Probability of Bottom 30% Tokens: -1.3279
+2024-12-04 01:07:12,448 - unseen/IMG_6313.JPG - Average Log Probability of Bottom 40% Tokens: -1.1903
+2024-12-04 01:07:12,448 - unseen/IMG_6313.JPG - Average Log Probability of Bottom 50% Tokens: -1.0720
+2024-12-04 01:07:12,448 - unseen/IMG_6313.JPG - Average Log Probability of Bottom 60% Tokens: -0.9555
+2024-12-04 01:07:12,450 - unseen/IMG_6313.JPG - Generated Output: 
+The image captures a moment on the streets of China, where traditional and modern elements coexist harmoniously. The vantage point is from inside a car, offering an interesting perspective that blends into the scene itself.
+
+In the foreground, there's a black windshield wiper, its presence subtly reminding us of our journey through these bustling Chinese roads. Beyond it, we see a white SUV driving away, adding to the dynamic nature of the city life captured here.
+
+On either side of the street are buildings adorned with blue roof tiles, their color contrasting beautifully against the clear sky above. These structures stand as silent witnesses to countless stories unfolding within them every day.
+
+Above all this activity, a large green archway stretches across the top left corner of the photo. It serves as both a gateway and a symbol of cultural heritage amidst the urban landscape
+2024-12-04 01:07:12,450 - Processing Image: unseen/IMG_6295.JPG
+2024-12-04 01:07:17,016 - unseen/IMG_6295.JPG - Average Log Probability of Bottom 5% Tokens: -1.7856
+2024-12-04 01:07:17,016 - unseen/IMG_6295.JPG - Average Log Probability of Bottom 10% Tokens: -1.6382
+2024-12-04 01:07:17,016 - unseen/IMG_6295.JPG - Average Log Probability of Bottom 20% Tokens: -1.4937
+2024-12-04 01:07:17,016 - unseen/IMG_6295.JPG - Average Log Probability of Bottom 30% Tokens: -1.3684
+2024-12-04 01:07:17,016 - unseen/IMG_6295.JPG - Average Log Probability of Bottom 40% Tokens: -1.2680
+2024-12-04 01:07:17,016 - unseen/IMG_6295.JPG - Average Log Probability of Bottom 50% Tokens: -1.1718
+2024-12-04 01:07:17,016 - unseen/IMG_6295.JPG - Average Log Probability of Bottom 60% Tokens: -1.0714
+2024-12-04 01:07:17,018 - unseen/IMG_6295.JPG - Generated Output: 
+The image is a composite of two photographs, one on the left and another on the right side. The left photo shows an outdoor scene with various stone structures that appear to be part of an old building or ruins. There are stacked stones forming what looks like walls or pillars, some of which have carved designs. In front of these structures stands a large cement basin filled with water; inside it floats a small white object labeled "A" by blue writing. To the left of the basin, there's a metal faucet attached to a pipe running into the wall. On the ground near the basin, there appears to be a red substance scattered around.
+
+On the right side of the image, we see a black background without any visible content. This portion of the image does not contain any objects or text.</s>
+2024-12-04 01:07:17,018 - Processing Image: unseen/IMG_3581.JPG
+2024-12-04 01:07:20,666 - unseen/IMG_3581.JPG - Average Log Probability of Bottom 5% Tokens: -1.9314
+2024-12-04 01:07:20,667 - unseen/IMG_3581.JPG - Average Log Probability of Bottom 10% Tokens: -1.7778
+2024-12-04 01:07:20,667 - unseen/IMG_3581.JPG - Average Log Probability of Bottom 20% Tokens: -1.5273
+2024-12-04 01:07:20,667 - unseen/IMG_3581.JPG - Average Log Probability of Bottom 30% Tokens: -1.3540
+2024-12-04 01:07:20,667 - unseen/IMG_3581.JPG - Average Log Probability of Bottom 40% Tokens: -1.2029
+2024-12-04 01:07:20,667 - unseen/IMG_3581.JPG - Average Log Probability of Bottom 50% Tokens: -1.0707
+2024-12-04 01:07:20,667 - unseen/IMG_3581.JPG - Average Log Probability of Bottom 60% Tokens: -0.9559
+2024-12-04 01:07:20,668 - unseen/IMG_3581.JPG - Generated Output: 
+The image captures a serene scene of an old city, possibly located in China or Japan due to the architectural style and design elements such as tiled roofs and wooden structures with intricate carvings on them. The buildings are closely packed together, creating a sense of density that is characteristic of traditional East Asian cities. A stone tower stands out among these low-rise structures, adding a touch of historical significance to the landscape. In front of one building, there's a small garden area adorned with trees and shrubs, providing a contrasting element of nature amidst the urban setting. The sky above is overcast, casting a soft light over everything below.</s>
+2024-12-04 01:07:20,668 - Processing Image: unseen/IMG_6748.JPG
+2024-12-04 01:07:25,181 - unseen/IMG_6748.JPG - Average Log Probability of Bottom 5% Tokens: -2.0802
+2024-12-04 01:07:25,181 - unseen/IMG_6748.JPG - Average Log Probability of Bottom 10% Tokens: -1.9167
+2024-12-04 01:07:25,181 - unseen/IMG_6748.JPG - Average Log Probability of Bottom 20% Tokens: -1.7123
+2024-12-04 01:07:25,181 - unseen/IMG_6748.JPG - Average Log Probability of Bottom 30% Tokens: -1.5770
+2024-12-04 01:07:25,181 - unseen/IMG_6748.JPG - Average Log Probability of Bottom 40% Tokens: -1.4554
+2024-12-04 01:07:25,181 - unseen/IMG_6748.JPG - Average Log Probability of Bottom 50% Tokens: -1.3476
+2024-12-04 01:07:25,181 - unseen/IMG_6748.JPG - Average Log Probability of Bottom 60% Tokens: -1.2519
+2024-12-04 01:07:25,182 - unseen/IMG_6748.JPG - Generated Output: 
+The image is a photograph of fish displayed for sale at what appears to be an outdoor market or seafood stall, given the presence of other items and text that suggest it's a commercial setting. The focus is on several whole fish with visible scales and gills, lying side by side on ice packed inside plastic containers labeled "88%." These labels are likely indicating the price per kilogram, which suggests these might be freshly caught fish intended for consumption rather than being sold as bait.
+
+In addition to the main subject, there are smaller images within the larger photo showing more fish laid out similarly, suggesting they may also be available for purchase. There is no visible branding or logos associated with any specific businesses or products. The style of the image is straightforward and documentary, capturing the scene without artistic embellishment.</s>
+2024-12-04 01:07:25,183 - Processing Image: unseen/IMG_4395.JPG
+2024-12-04 01:07:30,142 - unseen/IMG_4395.JPG - Average Log Probability of Bottom 5% Tokens: -1.9114
+2024-12-04 01:07:30,142 - unseen/IMG_4395.JPG - Average Log Probability of Bottom 10% Tokens: -1.6938
+2024-12-04 01:07:30,142 - unseen/IMG_4395.JPG - Average Log Probability of Bottom 20% Tokens: -1.4367
+2024-12-04 01:07:30,142 - unseen/IMG_4395.JPG - Average Log Probability of Bottom 30% Tokens: -1.2652
+2024-12-04 01:07:30,142 - unseen/IMG_4395.JPG - Average Log Probability of Bottom 40% Tokens: -1.1358
+2024-12-04 01:07:30,142 - unseen/IMG_4395.JPG - Average Log Probability of Bottom 50% Tokens: -1.0179
+2024-12-04 01:07:30,142 - unseen/IMG_4395.JPG - Average Log Probability of Bottom 60% Tokens: -0.9006
+2024-12-04 01:07:30,143 - unseen/IMG_4395.JPG - Generated Output: 
+The image captures a serene landscape, dominated by the tranquil presence of water and earthy tones. The foreground is adorned with dry grasses that add texture to the scene. A small pile of rocks lies on the ground near these grasses, perhaps remnants from an unseen event or simply part of nature's cycle.
+
+In the middle ground, there's a body of water reflecting the clear blue sky above it. This calm expanse mirrors the vastness of its surroundings, creating a sense of harmony between land and sea. Nearby stands a solitary tree, its branches reaching out as if trying to touch something beyond our view. Its position suggests it might be a silent observer of all that transpires within its vicinity.
+
+Further back, a hill rises against the horizon line. It appears rugged yet inviting, offering potential vantage points overlooking the
+2024-12-04 01:07:30,143 - Processing Image: unseen/IMG_4340.JPG
+2024-12-04 01:07:33,528 - unseen/IMG_4340.JPG - Average Log Probability of Bottom 5% Tokens: -1.7741
+2024-12-04 01:07:33,528 - unseen/IMG_4340.JPG - Average Log Probability of Bottom 10% Tokens: -1.5915
+2024-12-04 01:07:33,528 - unseen/IMG_4340.JPG - Average Log Probability of Bottom 20% Tokens: -1.3724
+2024-12-04 01:07:33,528 - unseen/IMG_4340.JPG - Average Log Probability of Bottom 30% Tokens: -1.2132
+2024-12-04 01:07:33,528 - unseen/IMG_4340.JPG - Average Log Probability of Bottom 40% Tokens: -1.0940
+2024-12-04 01:07:33,528 - unseen/IMG_4340.JPG - Average Log Probability of Bottom 50% Tokens: -0.9891
+2024-12-04 01:07:33,528 - unseen/IMG_4340.JPG - Average Log Probability of Bottom 60% Tokens: -0.8935
+2024-12-04 01:07:33,529 - unseen/IMG_4340.JPG - Generated Output: 
+The image is a vertical split, with the left side showing an indoor setting and the right side being black. On the left side of the photo, there's a wooden table that has two oranges on it. The oranges are round and have green leaves attached to them. There are also some bowls placed next to each other on the table. One of these bowls appears to be made from wood as well. In the background behind the table, you can see part of what looks like a bookshelf filled with various items such as books and possibly decorative objects. To the far left corner of the frame, there seems to be another object which could either be a small plant or a piece of artwork.</s>
+2024-12-04 01:07:33,529 - Processing Image: unseen/IMG_6831.JPG
+2024-12-04 01:07:36,237 - unseen/IMG_6831.JPG - Average Log Probability of Bottom 5% Tokens: -1.5663
+2024-12-04 01:07:36,237 - unseen/IMG_6831.JPG - Average Log Probability of Bottom 10% Tokens: -1.4335
+2024-12-04 01:07:36,237 - unseen/IMG_6831.JPG - Average Log Probability of Bottom 20% Tokens: -1.2702
+2024-12-04 01:07:36,237 - unseen/IMG_6831.JPG - Average Log Probability of Bottom 30% Tokens: -1.1531
+2024-12-04 01:07:36,237 - unseen/IMG_6831.JPG - Average Log Probability of Bottom 40% Tokens: -1.0396
+2024-12-04 01:07:36,237 - unseen/IMG_6831.JPG - Average Log Probability of Bottom 50% Tokens: -0.9405
+2024-12-04 01:07:36,237 - unseen/IMG_6831.JPG - Average Log Probability of Bottom 60% Tokens: -0.8435
+2024-12-04 01:07:36,238 - unseen/IMG_6831.JPG - Generated Output: 
+The image shows a cooked crab on a white plate, which is placed on what appears to be a countertop or table surface with a tiled pattern underneath. The crab has an orange-brown color and its claws are extended outwards as if it were alive. There's no visible text within the image. The style of the photograph seems candid, possibly taken by someone who was about to eat the crab or documenting their meal preparation.</s>
+2024-12-04 01:07:36,238 - Processing Image: unseen/IMG_6750.JPG
+2024-12-04 01:07:39,147 - unseen/IMG_6750.JPG - Average Log Probability of Bottom 5% Tokens: -2.0221
+2024-12-04 01:07:39,147 - unseen/IMG_6750.JPG - Average Log Probability of Bottom 10% Tokens: -1.8202
+2024-12-04 01:07:39,147 - unseen/IMG_6750.JPG - Average Log Probability of Bottom 20% Tokens: -1.6356
+2024-12-04 01:07:39,147 - unseen/IMG_6750.JPG - Average Log Probability of Bottom 30% Tokens: -1.4848
+2024-12-04 01:07:39,147 - unseen/IMG_6750.JPG - Average Log Probability of Bottom 40% Tokens: -1.3595
+2024-12-04 01:07:39,147 - unseen/IMG_6750.JPG - Average Log Probability of Bottom 50% Tokens: -1.2430
+2024-12-04 01:07:39,147 - unseen/IMG_6750.JPG - Average Log Probability of Bottom 60% Tokens: -1.1348
+2024-12-04 01:07:39,148 - unseen/IMG_6750.JPG - Generated Output: 
+The image is a photograph that captures an indoor scene at night, with the focus on a person's hand and fingers pointing towards something outside of the frame. The lighting inside appears to be artificial due to the presence of fluorescent lights overhead. There are various objects scattered around the room; some appear to be bags or containers, while others might be personal items such as clothing or shoes. A reflection can be seen on what seems like a metal surface near the bottom left corner of the photo, possibly from a flashlight or another source of illumination.</s>
+2024-12-04 01:07:39,148 - Processing Image: unseen/IMG_5816.JPG
+2024-12-04 01:07:42,732 - unseen/IMG_5816.JPG - Average Log Probability of Bottom 5% Tokens: -1.8689
+2024-12-04 01:07:42,733 - unseen/IMG_5816.JPG - Average Log Probability of Bottom 10% Tokens: -1.7364
+2024-12-04 01:07:42,733 - unseen/IMG_5816.JPG - Average Log Probability of Bottom 20% Tokens: -1.5116
+2024-12-04 01:07:42,733 - unseen/IMG_5816.JPG - Average Log Probability of Bottom 30% Tokens: -1.3384
+2024-12-04 01:07:42,733 - unseen/IMG_5816.JPG - Average Log Probability of Bottom 40% Tokens: -1.2119
+2024-12-04 01:07:42,733 - unseen/IMG_5816.JPG - Average Log Probability of Bottom 50% Tokens: -1.1063
+2024-12-04 01:07:42,733 - unseen/IMG_5816.JPG - Average Log Probability of Bottom 60% Tokens: -0.9985
+2024-12-04 01:07:42,734 - unseen/IMG_5816.JPG - Generated Output: 
+The image is a nighttime photograph showing an outdoor scene with limited visibility due to darkness and the camera's flash illuminating part of it. The central focus appears to be on a person riding a bicycle, which has its headlight turned on, casting light onto the road ahead. This cyclist is wearing dark clothing that contrasts against the brightly lit pathway they are traveling along. To the left side of the frame, there seems to be some vegetation or trees partially obscuring the view. On the right side, there is a blurred area indicating motion or distance from the camera. There is no text present within the image.</s>
+2024-12-04 01:07:42,734 - Processing Image: unseen/IMG_6870.JPG
+2024-12-04 01:07:47,251 - unseen/IMG_6870.JPG - Average Log Probability of Bottom 5% Tokens: -2.0392
+2024-12-04 01:07:47,251 - unseen/IMG_6870.JPG - Average Log Probability of Bottom 10% Tokens: -1.8993
+2024-12-04 01:07:47,251 - unseen/IMG_6870.JPG - Average Log Probability of Bottom 20% Tokens: -1.6529
+2024-12-04 01:07:47,251 - unseen/IMG_6870.JPG - Average Log Probability of Bottom 30% Tokens: -1.4917
+2024-12-04 01:07:47,251 - unseen/IMG_6870.JPG - Average Log Probability of Bottom 40% Tokens: -1.3561
+2024-12-04 01:07:47,251 - unseen/IMG_6870.JPG - Average Log Probability of Bottom 50% Tokens: -1.2329
+2024-12-04 01:07:47,251 - unseen/IMG_6870.JPG - Average Log Probability of Bottom 60% Tokens: -1.1223
+2024-12-04 01:07:47,252 - unseen/IMG_6870.JPG - Generated Output: 
+The image is a photograph taken from the perspective of someone looking through bars at various items on display, likely within an indoor setting such as a store or exhibition space. The foreground shows part of a person's hand and arm holding up what appears to be a blue bag with a cartoon character printed on it; there are also tags attached to the bag that include text and barcodes. Behind these items, other bags can be seen resting against the wall, some partially obscured by the first set of displayed goods. To the right side of the photo, there seems to be another individual whose face is not visible due to the angle and distance between them and the camera lens. In the background, beyond the immediate view into which we look, more people appear to be present but their features are blurred out, emphasizing the focus on the objects being held nearer to the viewer.</s>
+2024-12-04 01:07:47,252 - Processing Image: unseen/IMG_5974.JPG
+2024-12-04 01:07:52,146 - unseen/IMG_5974.JPG - Average Log Probability of Bottom 5% Tokens: -2.1208
+2024-12-04 01:07:52,146 - unseen/IMG_5974.JPG - Average Log Probability of Bottom 10% Tokens: -1.9437
+2024-12-04 01:07:52,146 - unseen/IMG_5974.JPG - Average Log Probability of Bottom 20% Tokens: -1.7580
+2024-12-04 01:07:52,146 - unseen/IMG_5974.JPG - Average Log Probability of Bottom 30% Tokens: -1.5898
+2024-12-04 01:07:52,146 - unseen/IMG_5974.JPG - Average Log Probability of Bottom 40% Tokens: -1.4566
+2024-12-04 01:07:52,146 - unseen/IMG_5974.JPG - Average Log Probability of Bottom 50% Tokens: -1.3293
+2024-12-04 01:07:52,146 - unseen/IMG_5974.JPG - Average Log Probability of Bottom 60% Tokens: -1.1986
+2024-12-04 01:07:52,148 - unseen/IMG_5974.JPG - Generated Output: 
+The image is a photograph that captures two plates of food on what appears to be a wooden table with dark wood grain patterns, suggesting an indoor setting such as a restaurant or home dining area. The plate in the foreground has a white ceramic surface and contains noodles mixed with pieces of meat, possibly pork, garnished with green vegetables like scallions (also known as spring onions). There are also some orange-colored sauces drizzled over the top of the noodle mixture. To the left side of the frame, there's another bowl containing more of these noodles, which seem to have been prepared separately from those on the main plate. This second bowl is placed next to a small round plate holding additional sauce. In the background, partially obscured by the focus on the front plate, there is a larger circular plate with similar contents but without any visible sauce. Above
+2024-12-04 01:07:52,148 - Processing Image: unseen/IMG_6779.JPG
+2024-12-04 01:07:55,570 - unseen/IMG_6779.JPG - Average Log Probability of Bottom 5% Tokens: -1.9071
+2024-12-04 01:07:55,570 - unseen/IMG_6779.JPG - Average Log Probability of Bottom 10% Tokens: -1.7074
+2024-12-04 01:07:55,570 - unseen/IMG_6779.JPG - Average Log Probability of Bottom 20% Tokens: -1.5112
+2024-12-04 01:07:55,570 - unseen/IMG_6779.JPG - Average Log Probability of Bottom 30% Tokens: -1.3539
+2024-12-04 01:07:55,570 - unseen/IMG_6779.JPG - Average Log Probability of Bottom 40% Tokens: -1.2447
+2024-12-04 01:07:55,570 - unseen/IMG_6779.JPG - Average Log Probability of Bottom 50% Tokens: -1.1429
+2024-12-04 01:07:55,570 - unseen/IMG_6779.JPG - Average Log Probability of Bottom 60% Tokens: -1.0511
+2024-12-04 01:07:55,571 - unseen/IMG_6779.JPG - Generated Output: 
+The image is a photograph taken from an angle that obscures the view of some objects, creating a sense of depth and perspective. In the foreground, there's a white vase with black floral patterns on its surface; it has Chinese characters printed at the bottom right corner. The background features what appears to be a bar setting with various bottles lined up along a shelf or wall, illuminated by warm lighting. There are also glasses placed near the front edge of the frame. A person can be partially seen on the left side of the photo, but their face isn't visible due to the angle and distance.</s>
+2024-12-04 01:07:55,571 - Processing Image: unseen/IMG_5965.JPG
+2024-12-04 01:07:59,015 - unseen/IMG_5965.JPG - Average Log Probability of Bottom 5% Tokens: -1.9678
+2024-12-04 01:07:59,015 - unseen/IMG_5965.JPG - Average Log Probability of Bottom 10% Tokens: -1.7431
+2024-12-04 01:07:59,015 - unseen/IMG_5965.JPG - Average Log Probability of Bottom 20% Tokens: -1.5577
+2024-12-04 01:07:59,015 - unseen/IMG_5965.JPG - Average Log Probability of Bottom 30% Tokens: -1.4436
+2024-12-04 01:07:59,015 - unseen/IMG_5965.JPG - Average Log Probability of Bottom 40% Tokens: -1.3089
+2024-12-04 01:07:59,015 - unseen/IMG_5965.JPG - Average Log Probability of Bottom 50% Tokens: -1.1798
+2024-12-04 01:07:59,015 - unseen/IMG_5965.JPG - Average Log Probability of Bottom 60% Tokens: -1.0614
+2024-12-04 01:07:59,016 - unseen/IMG_5965.JPG - Generated Output: 
+The image shows a refrigerator stocked with various beverages, predominantly bottled drinks and canned soft drinks. The fridge is divided into two sections; the top section has shelves that hold multiple rows of water bottles, while the bottom section features wire racks holding different types of soda pop. Each row contains several items, suggesting variety within each category. There are also some signs visible on the front of the fridge, but their content isn't clear from the photo provided. The overall style of the photograph appears to be straightforward without any artistic filters or effects applied.</s>
+2024-12-04 01:07:59,016 - Processing Image: unseen/IMG_4156.JPG
+2024-12-04 01:08:01,800 - unseen/IMG_4156.JPG - Average Log Probability of Bottom 5% Tokens: -1.8820
+2024-12-04 01:08:01,800 - unseen/IMG_4156.JPG - Average Log Probability of Bottom 10% Tokens: -1.7320
+2024-12-04 01:08:01,800 - unseen/IMG_4156.JPG - Average Log Probability of Bottom 20% Tokens: -1.5158
+2024-12-04 01:08:01,800 - unseen/IMG_4156.JPG - Average Log Probability of Bottom 30% Tokens: -1.3747
+2024-12-04 01:08:01,800 - unseen/IMG_4156.JPG - Average Log Probability of Bottom 40% Tokens: -1.2583
+2024-12-04 01:08:01,800 - unseen/IMG_4156.JPG - Average Log Probability of Bottom 50% Tokens: -1.1403
+2024-12-04 01:08:01,800 - unseen/IMG_4156.JPG - Average Log Probability of Bottom 60% Tokens: -1.0335
+2024-12-04 01:08:01,801 - unseen/IMG_4156.JPG - Generated Output: 
+The image is a close-up photograph of someone's hand holding an object with text on it, which appears to be a metal plate or coin. The person's fingers are visible and they seem to have short nails. There is no distinct background due to the focus being solely on the object held by the individual. The lighting suggests that there might be artificial lights present, as indicated by reflections on what seems like tiled flooring. The overall style of the photo is candid and informal, capturing a moment without any staging or artistic embellishment.</s>
+2024-12-04 01:08:01,801 - Processing Image: unseen/IMG_4054.JPG
+2024-12-04 01:08:06,754 - unseen/IMG_4054.JPG - Average Log Probability of Bottom 5% Tokens: -1.7216
+2024-12-04 01:08:06,754 - unseen/IMG_4054.JPG - Average Log Probability of Bottom 10% Tokens: -1.5631
+2024-12-04 01:08:06,754 - unseen/IMG_4054.JPG - Average Log Probability of Bottom 20% Tokens: -1.3410
+2024-12-04 01:08:06,754 - unseen/IMG_4054.JPG - Average Log Probability of Bottom 30% Tokens: -1.1893
+2024-12-04 01:08:06,754 - unseen/IMG_4054.JPG - Average Log Probability of Bottom 40% Tokens: -1.0764
+2024-12-04 01:08:06,754 - unseen/IMG_4054.JPG - Average Log Probability of Bottom 50% Tokens: -0.9678
+2024-12-04 01:08:06,754 - unseen/IMG_4054.JPG - Average Log Probability of Bottom 60% Tokens: -0.8578
+2024-12-04 01:08:06,755 - unseen/IMG_4054.JPG - Generated Output: 
+The image captures a lively scene at the park during wintertime. The ground is blanketed with fresh snow, creating an ideal setting for outdoor activities like building snowmen and having fun on sleds. There are several people present in the picture, all bundled up against the cold weather. They seem to be enjoying their time amidst the white canvas of snow.
+
+In the center of the frame stands a large pile of snow, perhaps waiting to become part of another playful creation or simply serving as a temporary storage area for some unused snowballs. Nearby, there's a smaller mound of snow that might have been used recently by someone playing around.
+
+On one side of the photo, you can see two individuals who appear to be engaged in conversation while standing near each other. Their positioning suggests they could be friends or family members spending quality time together despite the chilly conditions outside.
+
+Overall,
+2024-12-04 01:08:06,756 - Processing Image: unseen/IMG_6451.JPG
+2024-12-04 01:08:10,464 - unseen/IMG_6451.JPG - Average Log Probability of Bottom 5% Tokens: -2.0805
+2024-12-04 01:08:10,465 - unseen/IMG_6451.JPG - Average Log Probability of Bottom 10% Tokens: -1.8455
+2024-12-04 01:08:10,465 - unseen/IMG_6451.JPG - Average Log Probability of Bottom 20% Tokens: -1.6010
+2024-12-04 01:08:10,465 - unseen/IMG_6451.JPG - Average Log Probability of Bottom 30% Tokens: -1.4328
+2024-12-04 01:08:10,465 - unseen/IMG_6451.JPG - Average Log Probability of Bottom 40% Tokens: -1.3049
+2024-12-04 01:08:10,465 - unseen/IMG_6451.JPG - Average Log Probability of Bottom 50% Tokens: -1.1842
+2024-12-04 01:08:10,465 - unseen/IMG_6451.JPG - Average Log Probability of Bottom 60% Tokens: -1.0731
+2024-12-04 01:08:10,466 - unseen/IMG_6451.JPG - Generated Output: 
+The image is a photograph that captures an expansive landscape view, likely taken from atop a hill or mountain ridge due to the perspective and angle of the shot. The foreground features a series of stone structures with flat roofs, which appear to be part of a historical site or ruins. These structures are constructed from what looks like large stones stacked vertically, giving them a robust appearance. Beyond these man-made elements, there's a lush green field extending into the distance where it meets rolling hills covered with dense vegetation. Above, the sky is partly cloudy but mostly clear, suggesting fair weather conditions. There are no visible texts on the image.</s>
+2024-12-04 01:08:10,466 - Processing Image: unseen/IMG_6533.JPG
+2024-12-04 01:08:14,371 - unseen/IMG_6533.JPG - Average Log Probability of Bottom 5% Tokens: -1.9849
+2024-12-04 01:08:14,371 - unseen/IMG_6533.JPG - Average Log Probability of Bottom 10% Tokens: -1.7696
+2024-12-04 01:08:14,371 - unseen/IMG_6533.JPG - Average Log Probability of Bottom 20% Tokens: -1.4851
+2024-12-04 01:08:14,371 - unseen/IMG_6533.JPG - Average Log Probability of Bottom 30% Tokens: -1.3221
+2024-12-04 01:08:14,371 - unseen/IMG_6533.JPG - Average Log Probability of Bottom 40% Tokens: -1.1955
+2024-12-04 01:08:14,371 - unseen/IMG_6533.JPG - Average Log Probability of Bottom 50% Tokens: -1.0737
+2024-12-04 01:08:14,371 - unseen/IMG_6533.JPG - Average Log Probability of Bottom 60% Tokens: -0.9690
+2024-12-04 01:08:14,372 - unseen/IMG_6533.JPG - Generated Output: 
+The image is a photograph showing an aerial view of a landscape with various elements. In the foreground, there are dense green trees and shrubs that occupy most of the lower part of the frame. Beyond these vegetated areas, there's a clearing where several buildings can be seen, including what appears to be a large structure resembling a stadium or sports arena. The architecture suggests it might have been constructed during the early-to-mid 20th century. To the left side of the photo, there seems to be another building complex, possibly residential given its layout. Above all these structures, rolling hills rise up into the background under a partly cloudy sky. There are no visible texts on the image.</s>
+2024-12-04 01:08:14,372 - Processing Image: unseen/IMG_4066.JPG
+2024-12-04 01:08:18,796 - unseen/IMG_4066.JPG - Average Log Probability of Bottom 5% Tokens: -1.9149
+2024-12-04 01:08:18,796 - unseen/IMG_4066.JPG - Average Log Probability of Bottom 10% Tokens: -1.7135
+2024-12-04 01:08:18,796 - unseen/IMG_4066.JPG - Average Log Probability of Bottom 20% Tokens: -1.4745
+2024-12-04 01:08:18,796 - unseen/IMG_4066.JPG - Average Log Probability of Bottom 30% Tokens: -1.3213
+2024-12-04 01:08:18,796 - unseen/IMG_4066.JPG - Average Log Probability of Bottom 40% Tokens: -1.2012
+2024-12-04 01:08:18,796 - unseen/IMG_4066.JPG - Average Log Probability of Bottom 50% Tokens: -1.0924
+2024-12-04 01:08:18,796 - unseen/IMG_4066.JPG - Average Log Probability of Bottom 60% Tokens: -0.9794
+2024-12-04 01:08:18,798 - unseen/IMG_4066.JPG - Generated Output: 
+The image captures a serene winter scene, where the ground is blanketed with pristine white snow. A group of people are enjoying their time on this snowy landscape, some walking and others standing still. The sky above them is clear blue, suggesting it's a bright sunny day.
+In the foreground, there's an interesting sight - a large mound of freshly fallen snow has been transformed into a makeshift shelter or tunnel by someone. This structure stands out against the otherwise untouched snow. Inside this snow-made creation, you can see two red fire extinguishers resting side by side, perhaps indicating that safety measures have been taken despite the fun activities happening outside.
+Further back, beyond the immediate vicinity of the snow-shelter, lies a modern building with glass windows reflecting the surrounding beauty. Its presence adds a touch of urbanity to this otherwise natural setting.
+Overall
+2024-12-04 01:08:18,798 - Processing Image: unseen/IMG_6724.JPG
+2024-12-04 01:08:23,769 - unseen/IMG_6724.JPG - Average Log Probability of Bottom 5% Tokens: -1.7976
+2024-12-04 01:08:23,769 - unseen/IMG_6724.JPG - Average Log Probability of Bottom 10% Tokens: -1.6705
+2024-12-04 01:08:23,769 - unseen/IMG_6724.JPG - Average Log Probability of Bottom 20% Tokens: -1.4863
+2024-12-04 01:08:23,769 - unseen/IMG_6724.JPG - Average Log Probability of Bottom 30% Tokens: -1.3478
+2024-12-04 01:08:23,769 - unseen/IMG_6724.JPG - Average Log Probability of Bottom 40% Tokens: -1.2314
+2024-12-04 01:08:23,769 - unseen/IMG_6724.JPG - Average Log Probability of Bottom 50% Tokens: -1.1269
+2024-12-04 01:08:23,769 - unseen/IMG_6724.JPG - Average Log Probability of Bottom 60% Tokens: -1.0264
+2024-12-04 01:08:23,770 - unseen/IMG_6724.JPG - Generated Output: 
+The image is a composite of two photographs, one on the left and another on the right side. The left photo shows an open box with colorful artwork inside; it appears to be a decorative item or possibly a gift box for Bowmore whisky. A hand can be seen holding the lid closed over the top part of the bottle that extends from within the box. On the label visible through the glass neck of the bottle, there are texts indicating "Bowmore" at the top followed by "Est. 1773," which suggests the establishment year of the brand. Below this information, additional text reads "ISLAY SCOTCH WHISKY." There's also a number "18" printed below the name "BOWMORE." In the background behind the box, partially obscured but still discernible, is what seems like a computer keyboard and monitor screen displaying blue lighting effects.
+
+On the right side
+2024-12-04 01:08:23,771 - Processing Image: unseen/IMG_6745.JPG
+2024-12-04 01:08:27,473 - unseen/IMG_6745.JPG - Average Log Probability of Bottom 5% Tokens: -1.8348
+2024-12-04 01:08:27,473 - unseen/IMG_6745.JPG - Average Log Probability of Bottom 10% Tokens: -1.6120
+2024-12-04 01:08:27,473 - unseen/IMG_6745.JPG - Average Log Probability of Bottom 20% Tokens: -1.3517
+2024-12-04 01:08:27,473 - unseen/IMG_6745.JPG - Average Log Probability of Bottom 30% Tokens: -1.2022
+2024-12-04 01:08:27,473 - unseen/IMG_6745.JPG - Average Log Probability of Bottom 40% Tokens: -1.0864
+2024-12-04 01:08:27,473 - unseen/IMG_6745.JPG - Average Log Probability of Bottom 50% Tokens: -0.9798
+2024-12-04 01:08:27,473 - unseen/IMG_6745.JPG - Average Log Probability of Bottom 60% Tokens: -0.8842
+2024-12-04 01:08:27,474 - unseen/IMG_6745.JPG - Generated Output: 
+The image is a photograph that captures an indoor scene, likely taken from the perspective of someone standing behind another person who is seated at a desk with a computer monitor and keyboard on it. The individual sitting appears to be focused on something displayed on the screen of the computer monitor. They are wearing glasses and have short dark hair. To their right, there's a blue box hanging on the wall above what seems like a shelf or storage area containing various items such as books, bottles, and other miscellaneous objects. On the left side of the frame, part of a camouflage patterned jacket can be seen, suggesting that the person taking the photo might also be present in the room but not visible within the frame due to the angle of the shot.</s>
+2024-12-04 01:08:27,474 - Processing Image: unseen/IMG_6310.JPG
+2024-12-04 01:08:32,357 - unseen/IMG_6310.JPG - Average Log Probability of Bottom 5% Tokens: -2.0000
+2024-12-04 01:08:32,357 - unseen/IMG_6310.JPG - Average Log Probability of Bottom 10% Tokens: -1.7617
+2024-12-04 01:08:32,357 - unseen/IMG_6310.JPG - Average Log Probability of Bottom 20% Tokens: -1.4876
+2024-12-04 01:08:32,357 - unseen/IMG_6310.JPG - Average Log Probability of Bottom 30% Tokens: -1.3219
+2024-12-04 01:08:32,357 - unseen/IMG_6310.JPG - Average Log Probability of Bottom 40% Tokens: -1.1891
+2024-12-04 01:08:32,357 - unseen/IMG_6310.JPG - Average Log Probability of Bottom 50% Tokens: -1.0690
+2024-12-04 01:08:32,357 - unseen/IMG_6310.JPG - Average Log Probability of Bottom 60% Tokens: -0.9547
+2024-12-04 01:08:32,359 - unseen/IMG_6310.JPG - Generated Output: 
+The image is a photograph taken from the perspective of someone inside a vehicle, looking out through what appears to be a windshield or car window at an urban street scene on a cloudy day with patches of blue sky visible above. The photo captures various elements typical of city streets and architecture. In the foreground, there are trees lining both sides of the road, providing greenery amidst the built environment. A building with traditional Chinese architectural features stands prominently; it has multiple eaves supported by brackets and ornate decorations that suggest historical significance. There's also another modern structure nearby, which contrasts with the older style due to its different design language. On the right side of the frame, there's a pedestrian walkway leading towards the traditional building, indicating accessibility between public spaces. Cars can be seen parked along one side of the street, while others appear to be moving down the road. People are present as well
+2024-12-04 01:08:32,359 - Processing Image: unseen/IMG_5943.JPG
+2024-12-04 01:08:37,230 - unseen/IMG_5943.JPG - Average Log Probability of Bottom 5% Tokens: -2.2294
+2024-12-04 01:08:37,230 - unseen/IMG_5943.JPG - Average Log Probability of Bottom 10% Tokens: -1.9718
+2024-12-04 01:08:37,230 - unseen/IMG_5943.JPG - Average Log Probability of Bottom 20% Tokens: -1.7206
+2024-12-04 01:08:37,230 - unseen/IMG_5943.JPG - Average Log Probability of Bottom 30% Tokens: -1.5521
+2024-12-04 01:08:37,230 - unseen/IMG_5943.JPG - Average Log Probability of Bottom 40% Tokens: -1.4100
+2024-12-04 01:08:37,230 - unseen/IMG_5943.JPG - Average Log Probability of Bottom 50% Tokens: -1.2877
+2024-12-04 01:08:37,230 - unseen/IMG_5943.JPG - Average Log Probability of Bottom 60% Tokens: -1.1759
+2024-12-04 01:08:37,232 - unseen/IMG_5943.JPG - Generated Output: 
+The image is a photograph of an indoor setting, likely a room with shelves and storage spaces. In the foreground on the left side, there are two bags hanging from hooks or pegs; one appears to be made of fabric while the other has a hard shell design resembling that of a tennis racket case. Below these items, partially obscured by them, is what seems like a small bag or satchel resting against something out of frame. To the right of the bags, there's a wooden bookshelf filled with books and various objects such as bottles and decorative items. The wall behind the bookshelf features a curtain panel with a patterned blue-gray color scheme. On top of the bookshelf, there are additional items including another bag, possibly containing clothing or accessories, and some miscellaneous objects which might include electronics or personal belongings. There is no visible text
+2024-12-04 01:08:37,232 - Processing Image: unseen/IMG_6570.JPG
+2024-12-04 01:08:40,960 - unseen/IMG_6570.JPG - Average Log Probability of Bottom 5% Tokens: -1.7839
+2024-12-04 01:08:40,960 - unseen/IMG_6570.JPG - Average Log Probability of Bottom 10% Tokens: -1.6655
+2024-12-04 01:08:40,960 - unseen/IMG_6570.JPG - Average Log Probability of Bottom 20% Tokens: -1.4601
+2024-12-04 01:08:40,960 - unseen/IMG_6570.JPG - Average Log Probability of Bottom 30% Tokens: -1.3214
+2024-12-04 01:08:40,960 - unseen/IMG_6570.JPG - Average Log Probability of Bottom 40% Tokens: -1.1992
+2024-12-04 01:08:40,960 - unseen/IMG_6570.JPG - Average Log Probability of Bottom 50% Tokens: -1.0809
+2024-12-04 01:08:40,960 - unseen/IMG_6570.JPG - Average Log Probability of Bottom 60% Tokens: -0.9745
+2024-12-04 01:08:40,961 - unseen/IMG_6570.JPG - Generated Output: 
+The image is a panoramic photograph that captures the view from atop an ancient stone wall or bridge, which appears to be constructed of large rectangular stones stacked vertically and horizontally. The perspective suggests it was taken with a wide-angle lens or by stitching multiple images together. In the foreground, there's a person standing on one leg while wearing light-colored shoes; their feet are positioned near the edge of the structure, indicating they might be posing for the photo. Beyond the wall/bridge, the landscape unfolds into rolling hills covered with greenery under a partly cloudy sky. There are no visible texts within the image itself.</s>
+2024-12-04 01:08:40,961 - Processing Image: unseen/8c395c61a58407163ae106dd5011d569.JPG
+2024-12-04 01:08:45,165 - unseen/8c395c61a58407163ae106dd5011d569.JPG - Average Log Probability of Bottom 5% Tokens: -1.9370
+2024-12-04 01:08:45,165 - unseen/8c395c61a58407163ae106dd5011d569.JPG - Average Log Probability of Bottom 10% Tokens: -1.7319
+2024-12-04 01:08:45,165 - unseen/8c395c61a58407163ae106dd5011d569.JPG - Average Log Probability of Bottom 20% Tokens: -1.5121
+2024-12-04 01:08:45,165 - unseen/8c395c61a58407163ae106dd5011d569.JPG - Average Log Probability of Bottom 30% Tokens: -1.3687
+2024-12-04 01:08:45,165 - unseen/8c395c61a58407163ae106dd5011d569.JPG - Average Log Probability of Bottom 40% Tokens: -1.2457
+2024-12-04 01:08:45,165 - unseen/8c395c61a58407163ae106dd5011d569.JPG - Average Log Probability of Bottom 50% Tokens: -1.1327
+2024-12-04 01:08:45,166 - unseen/8c395c61a58407163ae106dd5011d569.JPG - Average Log Probability of Bottom 60% Tokens: -1.0195
+2024-12-04 01:08:45,167 - unseen/8c395c61a58407163ae106dd5011d569.JPG - Generated Output: 
+The image is a photograph of an interior space, likely taken from the perspective of someone standing near the center of the room looking towards the left side of the frame. The focus is on a table with various items placed upon it. On the right side of the photo, there's a tall vase containing branches and leaves that appear to be artificial or preserved due to their uniform coloration and texture. In front of the vase sits what appears to be a small box filled with red flowers, possibly roses given their shape and size. To the left of these objects lies an open book lying flat across its spine; however, only one page can be seen clearly showing text and images related to furniture design. Above the table hangs a lamp with a white shade casting light onto the surface below. Behind the table, partially obscured by vertical blinds, are windows allowing natural light into the room.</s>
+2024-12-04 01:08:45,167 - Processing Image: unseen/IMG_4342.JPG
+2024-12-04 01:08:49,474 - unseen/IMG_4342.JPG - Average Log Probability of Bottom 5% Tokens: -1.9506
+2024-12-04 01:08:49,474 - unseen/IMG_4342.JPG - Average Log Probability of Bottom 10% Tokens: -1.6644
+2024-12-04 01:08:49,474 - unseen/IMG_4342.JPG - Average Log Probability of Bottom 20% Tokens: -1.4440
+2024-12-04 01:08:49,474 - unseen/IMG_4342.JPG - Average Log Probability of Bottom 30% Tokens: -1.2899
+2024-12-04 01:08:49,474 - unseen/IMG_4342.JPG - Average Log Probability of Bottom 40% Tokens: -1.1609
+2024-12-04 01:08:49,474 - unseen/IMG_4342.JPG - Average Log Probability of Bottom 50% Tokens: -1.0355
+2024-12-04 01:08:49,474 - unseen/IMG_4342.JPG - Average Log Probability of Bottom 60% Tokens: -0.9346
+2024-12-04 01:08:49,475 - unseen/IMG_4342.JPG - Generated Output: 
+The image is a photograph that captures the top half of an oriental soup bowl placed on a white surface, which appears to be marble based on its pattern and color variations. The bowl has a blue-gray floral design with intricate patterns around its rim. Inside the bowl, there are visible ingredients including noodles or rice, green vegetables such as spinach leaves, slices of red bell pepper, and what seems like shrimp pieces. A pair of wooden chopsticks rests across the bowl's opening, indicating it is ready for consumption. There is also a bottle partially visible at the edge of the frame; however, only part of its label can be seen, suggesting it might contain soy sauce or another condiment commonly used in Asian cuisine.</s>
+2024-12-04 01:08:49,475 - Processing Image: unseen/IMG_4279.JPG
+2024-12-04 01:08:52,298 - unseen/IMG_4279.JPG - Average Log Probability of Bottom 5% Tokens: -2.0134
+2024-12-04 01:08:52,298 - unseen/IMG_4279.JPG - Average Log Probability of Bottom 10% Tokens: -1.8786
+2024-12-04 01:08:52,298 - unseen/IMG_4279.JPG - Average Log Probability of Bottom 20% Tokens: -1.6499
+2024-12-04 01:08:52,298 - unseen/IMG_4279.JPG - Average Log Probability of Bottom 30% Tokens: -1.5041
+2024-12-04 01:08:52,298 - unseen/IMG_4279.JPG - Average Log Probability of Bottom 40% Tokens: -1.3771
+2024-12-04 01:08:52,298 - unseen/IMG_4279.JPG - Average Log Probability of Bottom 50% Tokens: -1.2457
+2024-12-04 01:08:52,298 - unseen/IMG_4279.JPG - Average Log Probability of Bottom 60% Tokens: -1.1231
+2024-12-04 01:08:52,299 - unseen/IMG_4279.JPG - Generated Output: 
+The image is a photograph that captures an insect, specifically a cicada nymph or its exoskeleton, resting on the surface of what appears to be a metal plate with a yellow background. The insect has a dark brown coloration and exhibits various textural patterns across its body, including ridges and grooves typical for such arthropods. It lies flat along one side of the plate, facing towards the right edge of the frame. There are no visible texts within the image.</s>
+2024-12-04 01:08:52,299 - Processing Image: unseen/IMG_4415.JPG
+2024-12-04 01:08:57,234 - unseen/IMG_4415.JPG - Average Log Probability of Bottom 5% Tokens: -1.8391
+2024-12-04 01:08:57,234 - unseen/IMG_4415.JPG - Average Log Probability of Bottom 10% Tokens: -1.6763
+2024-12-04 01:08:57,235 - unseen/IMG_4415.JPG - Average Log Probability of Bottom 20% Tokens: -1.4530
+2024-12-04 01:08:57,235 - unseen/IMG_4415.JPG - Average Log Probability of Bottom 30% Tokens: -1.2826
+2024-12-04 01:08:57,235 - unseen/IMG_4415.JPG - Average Log Probability of Bottom 40% Tokens: -1.1497
+2024-12-04 01:08:57,235 - unseen/IMG_4415.JPG - Average Log Probability of Bottom 50% Tokens: -1.0287
+2024-12-04 01:08:57,235 - unseen/IMG_4415.JPG - Average Log Probability of Bottom 60% Tokens: -0.9261
+2024-12-04 01:08:57,236 - unseen/IMG_4415.JPG - Generated Output: 
+The image captures a serene moment at the beach, where one foot is seen resting on the sandy shore of what appears to be an ocean or sea. The water's surface is disturbed by small ripples that add texture and movement to the scene. These ripples are scattered across the foreground, creating a sense of depth and perspective.
+
+In contrast to the calmness of the water, there's a stark black background which provides a striking visual element. This could symbolize the vastness of nature beyond our immediate surroundings. It also serves as a reminder of how small we are compared to the natural world around us.
+
+Adding life to this tranquil setting is a single white flower blooming amidst the green foliage. Its presence brings a touch of color and beauty into the otherwise monochromatic palette dominated by shades of brown (the sand) and blue-green (the water
+2024-12-04 01:08:57,236 - Processing Image: unseen/a3d0b0120e828cb387f3925f289eaa8b.JPG
+2024-12-04 01:09:01,870 - unseen/a3d0b0120e828cb387f3925f289eaa8b.JPG - Average Log Probability of Bottom 5% Tokens: -2.2259
+2024-12-04 01:09:01,870 - unseen/a3d0b0120e828cb387f3925f289eaa8b.JPG - Average Log Probability of Bottom 10% Tokens: -1.9422
+2024-12-04 01:09:01,870 - unseen/a3d0b0120e828cb387f3925f289eaa8b.JPG - Average Log Probability of Bottom 20% Tokens: -1.6874
+2024-12-04 01:09:01,870 - unseen/a3d0b0120e828cb387f3925f289eaa8b.JPG - Average Log Probability of Bottom 30% Tokens: -1.5199
+2024-12-04 01:09:01,870 - unseen/a3d0b0120e828cb387f3925f289eaa8b.JPG - Average Log Probability of Bottom 40% Tokens: -1.3814
+2024-12-04 01:09:01,870 - unseen/a3d0b0120e828cb387f3925f289eaa8b.JPG - Average Log Probability of Bottom 50% Tokens: -1.2577
+2024-12-04 01:09:01,870 - unseen/a3d0b0120e828cb387f3925f289eaa8b.JPG - Average Log Probability of Bottom 60% Tokens: -1.1501
+2024-12-04 01:09:01,871 - unseen/a3d0b0120e828cb387f3925f289eaa8b.JPG - Generated Output: 
+The image is a nighttime photograph featuring an outdoor scene with artificial snow covering the ground and some structures, creating a winter atmosphere. In the foreground on the left side of the photo, there's a large mound or pile of white snow that appears to be shaped like a cave-like structure, possibly resembling a hut or igloo. The lighting suggests it might have been recently created by spraying water onto dry ice or similar material. Behind this snowy formation stands another building with multiple windows illuminated from within; its architecture seems modern compared to the traditional design of the snow sculpture. To the right of the main subject, partially obscured due to perspective distortion, is what looks like a smaller figure made of snow, which could either be part of the same installation as the larger one or simply a separate creation nearby. There are no visible texts or distinctive brand markings in the image.</s>
+2024-12-04 01:09:01,872 - Processing Image: unseen/IMG_4371.JPG
+2024-12-04 01:09:06,170 - unseen/IMG_4371.JPG - Average Log Probability of Bottom 5% Tokens: -1.9535
+2024-12-04 01:09:06,170 - unseen/IMG_4371.JPG - Average Log Probability of Bottom 10% Tokens: -1.7416
+2024-12-04 01:09:06,170 - unseen/IMG_4371.JPG - Average Log Probability of Bottom 20% Tokens: -1.5501
+2024-12-04 01:09:06,170 - unseen/IMG_4371.JPG - Average Log Probability of Bottom 30% Tokens: -1.4112
+2024-12-04 01:09:06,170 - unseen/IMG_4371.JPG - Average Log Probability of Bottom 40% Tokens: -1.2718
+2024-12-04 01:09:06,170 - unseen/IMG_4371.JPG - Average Log Probability of Bottom 50% Tokens: -1.1568
+2024-12-04 01:09:06,170 - unseen/IMG_4371.JPG - Average Log Probability of Bottom 60% Tokens: -1.0507
+2024-12-04 01:09:06,171 - unseen/IMG_4371.JPG - Generated Output: 
+The image is a close-up photograph of a bowl containing what appears to be fish soup or stew, with the focus on one side of the dish where there's more detail visible due to the angle and lighting conditions. The bowl has a white interior and is placed against a textured background that could possibly be fabric or wallpaper. Inside the bowl, there are pieces of cooked meat, which look like they might be from a large fish such as tuna or salmon, given their size and shape. There is also some broth present within the bowl, suggesting it may have been boiled for an extended period. On the right edge of the frame, there seems to be a black object partially obscuring part of the bowl; however, its nature isn't clear from the image provided.</s>
+2024-12-04 01:09:06,171 - Processing Image: unseen/IMG_6107.JPG
+2024-12-04 01:09:11,056 - unseen/IMG_6107.JPG - Average Log Probability of Bottom 5% Tokens: -1.7854
+2024-12-04 01:09:11,056 - unseen/IMG_6107.JPG - Average Log Probability of Bottom 10% Tokens: -1.6036
+2024-12-04 01:09:11,056 - unseen/IMG_6107.JPG - Average Log Probability of Bottom 20% Tokens: -1.3854
+2024-12-04 01:09:11,056 - unseen/IMG_6107.JPG - Average Log Probability of Bottom 30% Tokens: -1.2206
+2024-12-04 01:09:11,056 - unseen/IMG_6107.JPG - Average Log Probability of Bottom 40% Tokens: -1.0735
+2024-12-04 01:09:11,056 - unseen/IMG_6107.JPG - Average Log Probability of Bottom 50% Tokens: -0.9444
+2024-12-04 01:09:11,056 - unseen/IMG_6107.JPG - Average Log Probability of Bottom 60% Tokens: -0.8340
+2024-12-04 01:09:11,057 - unseen/IMG_6107.JPG - Generated Output: 
+The image captures a tranquil scene at the entrance of an old wooden building, possibly a temple or museum. The man is seated on the steps leading up to the doorway, engrossed in his phone which he holds securely with both hands. His attire consists of casual clothing and sneakers, suggesting that he might be a visitor exploring the place.
+
+Above him hangs a large metal lantern, its intricate design adding character to the setting. It's suspended from what appears to be a beam running across the width of the entrance. This suggests that it could serve as a source of light during nighttime hours when natural light isn't available.
+
+In front of the entrance stands a red rope barrier, indicating some level of restriction for visitors beyond this point. Its vibrant color contrasts sharply against the muted tones of the surrounding environment.
+
+Overall, the image
+2024-12-04 01:09:11,058 - Processing Image: unseen/IMG_5939.JPG
+2024-12-04 01:09:14,407 - unseen/IMG_5939.JPG - Average Log Probability of Bottom 5% Tokens: -2.1620
+2024-12-04 01:09:14,407 - unseen/IMG_5939.JPG - Average Log Probability of Bottom 10% Tokens: -1.9246
+2024-12-04 01:09:14,407 - unseen/IMG_5939.JPG - Average Log Probability of Bottom 20% Tokens: -1.6933
+2024-12-04 01:09:14,407 - unseen/IMG_5939.JPG - Average Log Probability of Bottom 30% Tokens: -1.5291
+2024-12-04 01:09:14,407 - unseen/IMG_5939.JPG - Average Log Probability of Bottom 40% Tokens: -1.3914
+2024-12-04 01:09:14,407 - unseen/IMG_5939.JPG - Average Log Probability of Bottom 50% Tokens: -1.2751
+2024-12-04 01:09:14,407 - unseen/IMG_5939.JPG - Average Log Probability of Bottom 60% Tokens: -1.1681
+2024-12-04 01:09:14,408 - unseen/IMG_5939.JPG - Generated Output: 
+The image is a photograph showing an outdoor area with numerous bicycles parked closely together, creating a dense cluster of frames and wheels. The bikes vary slightly in design but are primarily road or hybrid types, indicated by their drop handlebars and visible gears on the rear wheel hubs. Some have attached accessories such as water bottle cages and bike locks. In front of the bicycle rack stands a white truck with its door open; it appears to be unloading items from the back into the building behind the fence. There's no text present within the image itself.</s>
+2024-12-04 01:09:14,408 - Processing Image: unseen/IMG_6012.JPG
+2024-12-04 01:09:17,445 - unseen/IMG_6012.JPG - Average Log Probability of Bottom 5% Tokens: -1.7956
+2024-12-04 01:09:17,445 - unseen/IMG_6012.JPG - Average Log Probability of Bottom 10% Tokens: -1.6006
+2024-12-04 01:09:17,445 - unseen/IMG_6012.JPG - Average Log Probability of Bottom 20% Tokens: -1.3362
+2024-12-04 01:09:17,445 - unseen/IMG_6012.JPG - Average Log Probability of Bottom 30% Tokens: -1.1879
+2024-12-04 01:09:17,445 - unseen/IMG_6012.JPG - Average Log Probability of Bottom 40% Tokens: -1.0923
+2024-12-04 01:09:17,446 - unseen/IMG_6012.JPG - Average Log Probability of Bottom 50% Tokens: -0.9909
+2024-12-04 01:09:17,446 - unseen/IMG_6012.JPG - Average Log Probability of Bottom 60% Tokens: -0.9062
+2024-12-04 01:09:17,446 - unseen/IMG_6012.JPG - Generated Output: 
+The image is a photograph taken from the perspective of an interior car dashboard, looking out onto a street scene. The photo captures a black sedan driving on the road with its headlights illuminated and taillights visible at the rear end. There are trees lining both sides of the street, suggesting it might be a residential area or suburban setting. In the background, there's another vehicle that appears to be stationary due to traffic congestion. Above, the sky is clear blue without any clouds, indicating fair weather conditions.</s>
+2024-12-04 01:09:17,447 - Processing Image: unseen/IMG_5985.JPG
+2024-12-04 01:09:22,332 - unseen/IMG_5985.JPG - Average Log Probability of Bottom 5% Tokens: -1.7432
+2024-12-04 01:09:22,332 - unseen/IMG_5985.JPG - Average Log Probability of Bottom 10% Tokens: -1.6544
+2024-12-04 01:09:22,332 - unseen/IMG_5985.JPG - Average Log Probability of Bottom 20% Tokens: -1.4566
+2024-12-04 01:09:22,332 - unseen/IMG_5985.JPG - Average Log Probability of Bottom 30% Tokens: -1.3016
+2024-12-04 01:09:22,332 - unseen/IMG_5985.JPG - Average Log Probability of Bottom 40% Tokens: -1.1783
+2024-12-04 01:09:22,332 - unseen/IMG_5985.JPG - Average Log Probability of Bottom 50% Tokens: -1.0703
+2024-12-04 01:09:22,332 - unseen/IMG_5985.JPG - Average Log Probability of Bottom 60% Tokens: -0.9720
+2024-12-04 01:09:22,333 - unseen/IMG_5985.JPG - Generated Output: 
+The image is a photograph that captures two distinct scenes side by side, creating an interesting contrast between the foreground and background elements of the composition. The left half of the photo shows a close-up view of a whole fish with its skin removed, revealing white flesh underneath. A silver serving tray holds the fish, which appears to be freshly caught or prepared for cooking. On top of the fish rests a single fork, suggesting it's ready to be served. In the blurred background on the left, there are wooden tabletops and what seems like a cardboard box, indicating a rustic setting perhaps related to food preparation or storage.
+
+On the right side of the image, we see another scene where only part of a person can be seen from behind; their face isn't visible due to the angle at which they appear within the frame. This individual has dark hair and is dressed casually. They seem to be
+2024-12-04 01:09:22,334 - Processing Image: unseen/IMG_6758.JPG
+2024-12-04 01:09:26,084 - unseen/IMG_6758.JPG - Average Log Probability of Bottom 5% Tokens: -1.8591
+2024-12-04 01:09:26,084 - unseen/IMG_6758.JPG - Average Log Probability of Bottom 10% Tokens: -1.7031
+2024-12-04 01:09:26,084 - unseen/IMG_6758.JPG - Average Log Probability of Bottom 20% Tokens: -1.4360
+2024-12-04 01:09:26,084 - unseen/IMG_6758.JPG - Average Log Probability of Bottom 30% Tokens: -1.2558
+2024-12-04 01:09:26,084 - unseen/IMG_6758.JPG - Average Log Probability of Bottom 40% Tokens: -1.1144
+2024-12-04 01:09:26,085 - unseen/IMG_6758.JPG - Average Log Probability of Bottom 50% Tokens: -1.0127
+2024-12-04 01:09:26,085 - unseen/IMG_6758.JPG - Average Log Probability of Bottom 60% Tokens: -0.9164
+2024-12-04 01:09:26,085 - unseen/IMG_6758.JPG - Generated Output: 
+The image is a photograph taken at night, featuring an individual standing outside what appears to be a store or kiosk with Asian characters on the signage above its entrance. The person is wearing dark clothing and has their hands tucked into pockets; they are looking directly towards the camera. To the left of the frame stands another figure partially visible behind the first one, also dressed in black attire but without any distinctive features that can be discerned from this angle. In front of the building, there's a green line painted on the ground which might indicate some form of boundary or direction for pedestrians. There are no texts overlaid onto the image itself.</s>
+2024-12-04 01:09:26,086 - Processing Image: unseen/IMG_6649.JPG
+2024-12-04 01:09:29,677 - unseen/IMG_6649.JPG - Average Log Probability of Bottom 5% Tokens: -2.0614
+2024-12-04 01:09:29,677 - unseen/IMG_6649.JPG - Average Log Probability of Bottom 10% Tokens: -1.8714
+2024-12-04 01:09:29,677 - unseen/IMG_6649.JPG - Average Log Probability of Bottom 20% Tokens: -1.6410
+2024-12-04 01:09:29,677 - unseen/IMG_6649.JPG - Average Log Probability of Bottom 30% Tokens: -1.4771
+2024-12-04 01:09:29,677 - unseen/IMG_6649.JPG - Average Log Probability of Bottom 40% Tokens: -1.3368
+2024-12-04 01:09:29,677 - unseen/IMG_6649.JPG - Average Log Probability of Bottom 50% Tokens: -1.2030
+2024-12-04 01:09:29,677 - unseen/IMG_6649.JPG - Average Log Probability of Bottom 60% Tokens: -1.0846
+2024-12-04 01:09:29,678 - unseen/IMG_6649.JPG - Generated Output: 
+The image captures a serene night scene at the beach, where the main focus is on two distinct elements - water and sand. The foreground of the photo presents an intriguing sight with its dark brown color, possibly due to algae or other natural causes. This gives way to the lighter shades of gray that dominate the middle ground, likely representing the calm ocean waters. In contrast, the background features white foam from waves crashing onto the shore, adding a dynamic element to the otherwise tranquil setting. Above all these, the sky stretches out into darkness, punctuated by distant lights that hint at life beyond the frame of the picture.</s>
+2024-12-04 01:09:29,679 - Processing Image: unseen/IMG_5842.JPG
+2024-12-04 01:09:34,549 - unseen/IMG_5842.JPG - Average Log Probability of Bottom 5% Tokens: -2.0347
+2024-12-04 01:09:34,550 - unseen/IMG_5842.JPG - Average Log Probability of Bottom 10% Tokens: -1.8645
+2024-12-04 01:09:34,550 - unseen/IMG_5842.JPG - Average Log Probability of Bottom 20% Tokens: -1.6467
+2024-12-04 01:09:34,550 - unseen/IMG_5842.JPG - Average Log Probability of Bottom 30% Tokens: -1.4851
+2024-12-04 01:09:34,550 - unseen/IMG_5842.JPG - Average Log Probability of Bottom 40% Tokens: -1.3491
+2024-12-04 01:09:34,550 - unseen/IMG_5842.JPG - Average Log Probability of Bottom 50% Tokens: -1.2265
+2024-12-04 01:09:34,550 - unseen/IMG_5842.JPG - Average Log Probability of Bottom 60% Tokens: -1.1226
+2024-12-04 01:09:34,551 - unseen/IMG_5842.JPG - Generated Output: 
+The image is a nighttime photograph of an urban street scene with traditional Chinese architecture. The sky above the buildings has a dark hue, suggesting it's either late evening or early morning. A full moon hangs low on the horizon to the left side of the frame, casting light and shadows across the scene. On the right side of the photo, there are power lines running parallel to each other against the night sky. Below these lines, there appears to be some sort of structure that could possibly be part of the building facade or another architectural feature. In front of the camera, there is a crosswalk painted white with dashed lines indicating pedestrian crossing areas. To the left of the crosswalk, there is a small area fenced off by yellow poles connected together at their bases; however, due to the angle and distance from which the picture was taken, its purpose isn't clear. There is no visible text within the image providing additional context about the
+2024-12-04 01:09:34,551 - Processing Image: unseen/IMG_5944.JPG
+2024-12-04 01:09:39,295 - unseen/IMG_5944.JPG - Average Log Probability of Bottom 5% Tokens: -2.2470
+2024-12-04 01:09:39,295 - unseen/IMG_5944.JPG - Average Log Probability of Bottom 10% Tokens: -2.0009
+2024-12-04 01:09:39,295 - unseen/IMG_5944.JPG - Average Log Probability of Bottom 20% Tokens: -1.7361
+2024-12-04 01:09:39,295 - unseen/IMG_5944.JPG - Average Log Probability of Bottom 30% Tokens: -1.5878
+2024-12-04 01:09:39,295 - unseen/IMG_5944.JPG - Average Log Probability of Bottom 40% Tokens: -1.4648
+2024-12-04 01:09:39,295 - unseen/IMG_5944.JPG - Average Log Probability of Bottom 50% Tokens: -1.3436
+2024-12-04 01:09:39,295 - unseen/IMG_5944.JPG - Average Log Probability of Bottom 60% Tokens: -1.2311
+2024-12-04 01:09:39,297 - unseen/IMG_5944.JPG - Generated Output: 
+The image is a photograph of an interior space, likely a bedroom or storage area given the presence of hanging clothes and bags on hooks attached to walls. The room has white walls with two doors visible; one appears to be open while the other is closed. Above each door hangs a curtain panel that matches the color scheme of blue and white stripes. There are no people present in the photo. On the left side of the frame, there's a partial view of what seems like a metal rack holding various items such as clothing and possibly some kitchenware due to its shape resembling a colander. To the right, there is a black wall where more clothes are hung out for drying. In front of these clothes, there is a pile of folded laundry sitting directly underneath them. The lighting in the room suggests it might be daytime outside.</s>
+2024-12-04 01:09:39,297 - Processing Image: unseen/IMG_6841.JPG
+2024-12-04 01:09:43,990 - unseen/IMG_6841.JPG - Average Log Probability of Bottom 5% Tokens: -1.6842
+2024-12-04 01:09:43,990 - unseen/IMG_6841.JPG - Average Log Probability of Bottom 10% Tokens: -1.5708
+2024-12-04 01:09:43,990 - unseen/IMG_6841.JPG - Average Log Probability of Bottom 20% Tokens: -1.3916
+2024-12-04 01:09:43,990 - unseen/IMG_6841.JPG - Average Log Probability of Bottom 30% Tokens: -1.2780
+2024-12-04 01:09:43,990 - unseen/IMG_6841.JPG - Average Log Probability of Bottom 40% Tokens: -1.1687
+2024-12-04 01:09:43,990 - unseen/IMG_6841.JPG - Average Log Probability of Bottom 50% Tokens: -1.0734
+2024-12-04 01:09:43,990 - unseen/IMG_6841.JPG - Average Log Probability of Bottom 60% Tokens: -0.9783
+2024-12-04 01:09:43,993 - unseen/IMG_6841.JPG - Generated Output: 
+The image is a photograph that captures two individuals engaged in an activity at nighttime, as indicated by the darkness visible around them and the illuminated interior of their setting. The person on the left appears to be taking a selfie with another individual who stands behind her; both are holding smartphones up towards each other's faces. The person being photographed has dark hair and wears glasses. In front of him, he holds what seems to be a small cake or pastry decorated with candles. Behind these two figures, there is a dining table set for one, featuring cups, bowls, and cutlery arranged neatly. To the right side of the frame, partially obscured from view due to perspective distortion caused by the camera angle, is another figure whose face is not clearly seen but suggests they might also be participating in the event. There are no texts present within the image.</s>

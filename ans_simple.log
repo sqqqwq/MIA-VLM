@@ -1,0 +1,800 @@
+2024-12-03 23:37:05,470 - Processing Image: seen/000000002261.jpg
+2024-12-03 23:37:06,558 - seen/000000002261.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:06,559 - seen/000000002261.jpg - Average Log Probability of Bottom 10% Tokens: -1.4474
+2024-12-03 23:37:06,559 - seen/000000002261.jpg - Average Log Probability of Bottom 20% Tokens: -1.3739
+2024-12-03 23:37:06,559 - seen/000000002261.jpg - Average Log Probability of Bottom 30% Tokens: -1.3007
+2024-12-03 23:37:06,559 - seen/000000002261.jpg - Average Log Probability of Bottom 40% Tokens: -1.2150
+2024-12-03 23:37:06,559 - seen/000000002261.jpg - Average Log Probability of Bottom 50% Tokens: -1.0804
+2024-12-03 23:37:06,559 - seen/000000002261.jpg - Average Log Probability of Bottom 60% Tokens: -0.9649
+2024-12-03 23:37:06,559 - seen/000000002261.jpg - Generated Output: 
+A person surfing on a wave.</s>
+2024-12-03 23:37:06,559 - Processing Image: seen/000000001268.jpg
+2024-12-03 23:37:07,062 - seen/000000001268.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:07,062 - seen/000000001268.jpg - Average Log Probability of Bottom 10% Tokens: -1.5026
+2024-12-03 23:37:07,062 - seen/000000001268.jpg - Average Log Probability of Bottom 20% Tokens: -1.4421
+2024-12-03 23:37:07,062 - seen/000000001268.jpg - Average Log Probability of Bottom 30% Tokens: -1.3593
+2024-12-03 23:37:07,063 - seen/000000001268.jpg - Average Log Probability of Bottom 40% Tokens: -1.2413
+2024-12-03 23:37:07,063 - seen/000000001268.jpg - Average Log Probability of Bottom 50% Tokens: -1.1503
+2024-12-03 23:37:07,063 - seen/000000001268.jpg - Average Log Probability of Bottom 60% Tokens: -1.0812
+2024-12-03 23:37:07,063 - seen/000000001268.jpg - Generated Output: 
+A woman taking a picture of the water.</s>
+2024-12-03 23:37:07,063 - Processing Image: seen/000000000802.jpg
+2024-12-03 23:37:07,386 - seen/000000000802.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:07,386 - seen/000000000802.jpg - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:37:07,386 - seen/000000000802.jpg - Average Log Probability of Bottom 20% Tokens: nan
+2024-12-03 23:37:07,386 - seen/000000000802.jpg - Average Log Probability of Bottom 30% Tokens: -1.0483
+2024-12-03 23:37:07,386 - seen/000000000802.jpg - Average Log Probability of Bottom 40% Tokens: -1.0483
+2024-12-03 23:37:07,386 - seen/000000000802.jpg - Average Log Probability of Bottom 50% Tokens: -0.8982
+2024-12-03 23:37:07,386 - seen/000000000802.jpg - Average Log Probability of Bottom 60% Tokens: -0.8982
+2024-12-03 23:37:07,386 - seen/000000000802.jpg - Generated Output: 
+A kitchen</s>
+2024-12-03 23:37:07,386 - Processing Image: seen/000000001490.jpg
+2024-12-03 23:37:07,964 - seen/000000001490.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:07,965 - seen/000000001490.jpg - Average Log Probability of Bottom 10% Tokens: -1.3209
+2024-12-03 23:37:07,965 - seen/000000001490.jpg - Average Log Probability of Bottom 20% Tokens: -1.0650
+2024-12-03 23:37:07,965 - seen/000000001490.jpg - Average Log Probability of Bottom 30% Tokens: -0.9567
+2024-12-03 23:37:07,965 - seen/000000001490.jpg - Average Log Probability of Bottom 40% Tokens: -0.8785
+2024-12-03 23:37:07,965 - seen/000000001490.jpg - Average Log Probability of Bottom 50% Tokens: -0.8161
+2024-12-03 23:37:07,965 - seen/000000001490.jpg - Average Log Probability of Bottom 60% Tokens: -0.7541
+2024-12-03 23:37:07,965 - seen/000000001490.jpg - Generated Output: 
+A person wearing a wetsuit and paddleboarding on the ocean.</s>
+2024-12-03 23:37:07,965 - Processing Image: seen/000000002157.jpg
+2024-12-03 23:37:08,495 - seen/000000002157.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:08,495 - seen/000000002157.jpg - Average Log Probability of Bottom 10% Tokens: -2.0865
+2024-12-03 23:37:08,495 - seen/000000002157.jpg - Average Log Probability of Bottom 20% Tokens: -1.8045
+2024-12-03 23:37:08,495 - seen/000000002157.jpg - Average Log Probability of Bottom 30% Tokens: -1.5911
+2024-12-03 23:37:08,495 - seen/000000002157.jpg - Average Log Probability of Bottom 40% Tokens: -1.3329
+2024-12-03 23:37:08,495 - seen/000000002157.jpg - Average Log Probability of Bottom 50% Tokens: -1.2606
+2024-12-03 23:37:08,495 - seen/000000002157.jpg - Average Log Probability of Bottom 60% Tokens: -1.1990
+2024-12-03 23:37:08,495 - seen/000000002157.jpg - Generated Output: 
+A table with a cake and fruit on it.</s>
+2024-12-03 23:37:08,496 - Processing Image: seen/000000002431.jpg
+2024-12-03 23:37:09,000 - seen/000000002431.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:09,001 - seen/000000002431.jpg - Average Log Probability of Bottom 10% Tokens: -1.3282
+2024-12-03 23:37:09,001 - seen/000000002431.jpg - Average Log Probability of Bottom 20% Tokens: -1.2555
+2024-12-03 23:37:09,001 - seen/000000002431.jpg - Average Log Probability of Bottom 30% Tokens: -1.2210
+2024-12-03 23:37:09,001 - seen/000000002431.jpg - Average Log Probability of Bottom 40% Tokens: -1.2023
+2024-12-03 23:37:09,001 - seen/000000002431.jpg - Average Log Probability of Bottom 50% Tokens: -1.1708
+2024-12-03 23:37:09,001 - seen/000000002431.jpg - Average Log Probability of Bottom 60% Tokens: -1.1280
+2024-12-03 23:37:09,001 - seen/000000002431.jpg - Generated Output: 
+A plate of bread and a bowl.</s>
+2024-12-03 23:37:09,001 - Processing Image: seen/000000001993.jpg
+2024-12-03 23:37:09,470 - seen/000000001993.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:09,470 - seen/000000001993.jpg - Average Log Probability of Bottom 10% Tokens: -1.7627
+2024-12-03 23:37:09,470 - seen/000000001993.jpg - Average Log Probability of Bottom 20% Tokens: -1.3993
+2024-12-03 23:37:09,470 - seen/000000001993.jpg - Average Log Probability of Bottom 30% Tokens: -1.2563
+2024-12-03 23:37:09,470 - seen/000000001993.jpg - Average Log Probability of Bottom 40% Tokens: -1.1783
+2024-12-03 23:37:09,470 - seen/000000001993.jpg - Average Log Probability of Bottom 50% Tokens: -1.1283
+2024-12-03 23:37:09,470 - seen/000000001993.jpg - Average Log Probability of Bottom 60% Tokens: -1.0750
+2024-12-03 23:37:09,470 - seen/000000001993.jpg - Generated Output: 
+A bedroom with a purple wall.</s>
+2024-12-03 23:37:09,470 - Processing Image: seen/000000001353.jpg
+2024-12-03 23:37:10,098 - seen/000000001353.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:10,099 - seen/000000001353.jpg - Average Log Probability of Bottom 10% Tokens: -1.4563
+2024-12-03 23:37:10,099 - seen/000000001353.jpg - Average Log Probability of Bottom 20% Tokens: -1.0701
+2024-12-03 23:37:10,099 - seen/000000001353.jpg - Average Log Probability of Bottom 30% Tokens: -0.9404
+2024-12-03 23:37:10,099 - seen/000000001353.jpg - Average Log Probability of Bottom 40% Tokens: -0.8439
+2024-12-03 23:37:10,099 - seen/000000001353.jpg - Average Log Probability of Bottom 50% Tokens: -0.7075
+2024-12-03 23:37:10,099 - seen/000000001353.jpg - Average Log Probability of Bottom 60% Tokens: -0.5876
+2024-12-03 23:37:10,099 - seen/000000001353.jpg - Generated Output: 
+A group of children riding on a merry-go-round.</s>
+2024-12-03 23:37:10,099 - Processing Image: seen/000000002299.jpg
+2024-12-03 23:37:10,506 - seen/000000002299.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:10,506 - seen/000000002299.jpg - Average Log Probability of Bottom 10% Tokens: -1.1998
+2024-12-03 23:37:10,506 - seen/000000002299.jpg - Average Log Probability of Bottom 20% Tokens: -1.1173
+2024-12-03 23:37:10,506 - seen/000000002299.jpg - Average Log Probability of Bottom 30% Tokens: -1.0202
+2024-12-03 23:37:10,506 - seen/000000002299.jpg - Average Log Probability of Bottom 40% Tokens: -0.9630
+2024-12-03 23:37:10,506 - seen/000000002299.jpg - Average Log Probability of Bottom 50% Tokens: -0.8761
+2024-12-03 23:37:10,506 - seen/000000002299.jpg - Average Log Probability of Bottom 60% Tokens: -0.7944
+2024-12-03 23:37:10,506 - seen/000000002299.jpg - Generated Output: 
+A group of children posing for a picture.</s>
+2024-12-03 23:37:10,507 - Processing Image: seen/000000001761.jpg
+2024-12-03 23:37:11,305 - No token found after two occurrences of padding tokens!
+2024-12-03 23:37:11,305 - seen/000000001761.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:11,305 - seen/000000001761.jpg - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:37:11,305 - seen/000000001761.jpg - Average Log Probability of Bottom 20% Tokens: nan
+2024-12-03 23:37:11,305 - seen/000000001761.jpg - Average Log Probability of Bottom 30% Tokens: nan
+2024-12-03 23:37:11,305 - seen/000000001761.jpg - Average Log Probability of Bottom 40% Tokens: nan
+2024-12-03 23:37:11,306 - seen/000000001761.jpg - Average Log Probability of Bottom 50% Tokens: nan
+2024-12-03 23:37:11,306 - seen/000000001761.jpg - Average Log Probability of Bottom 60% Tokens: nan
+2024-12-03 23:37:11,306 - seen/000000001761.jpg - Generated Output: 
+2024-12-03 23:37:11,306 - Processing Image: seen/000000002153.jpg
+2024-12-03 23:37:11,690 - seen/000000002153.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:11,690 - seen/000000002153.jpg - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:37:11,690 - seen/000000002153.jpg - Average Log Probability of Bottom 20% Tokens: -1.1515
+2024-12-03 23:37:11,690 - seen/000000002153.jpg - Average Log Probability of Bottom 30% Tokens: -1.1515
+2024-12-03 23:37:11,690 - seen/000000002153.jpg - Average Log Probability of Bottom 40% Tokens: -0.9929
+2024-12-03 23:37:11,690 - seen/000000002153.jpg - Average Log Probability of Bottom 50% Tokens: -0.9065
+2024-12-03 23:37:11,690 - seen/000000002153.jpg - Average Log Probability of Bottom 60% Tokens: -0.9065
+2024-12-03 23:37:11,690 - seen/000000002153.jpg - Generated Output: 
+A baseball game.</s>
+2024-12-03 23:37:11,691 - Processing Image: seen/000000000785.jpg
+2024-12-03 23:37:12,191 - seen/000000000785.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:12,191 - seen/000000000785.jpg - Average Log Probability of Bottom 10% Tokens: -1.0032
+2024-12-03 23:37:12,191 - seen/000000000785.jpg - Average Log Probability of Bottom 20% Tokens: -0.9976
+2024-12-03 23:37:12,191 - seen/000000000785.jpg - Average Log Probability of Bottom 30% Tokens: -0.9500
+2024-12-03 23:37:12,191 - seen/000000000785.jpg - Average Log Probability of Bottom 40% Tokens: -0.8974
+2024-12-03 23:37:12,191 - seen/000000000785.jpg - Average Log Probability of Bottom 50% Tokens: -0.7606
+2024-12-03 23:37:12,191 - seen/000000000785.jpg - Average Log Probability of Bottom 60% Tokens: -0.7131
+2024-12-03 23:37:12,192 - seen/000000000785.jpg - Generated Output: 
+A woman skiing down a snowy hill.</s>
+2024-12-03 23:37:12,192 - Processing Image: seen/000000004395.jpg
+2024-12-03 23:37:13,991 - seen/000000004395.jpg - Average Log Probability of Bottom 5% Tokens: -1.5921
+2024-12-03 23:37:13,991 - seen/000000004395.jpg - Average Log Probability of Bottom 10% Tokens: -1.4176
+2024-12-03 23:37:13,991 - seen/000000004395.jpg - Average Log Probability of Bottom 20% Tokens: -1.2766
+2024-12-03 23:37:13,991 - seen/000000004395.jpg - Average Log Probability of Bottom 30% Tokens: -1.1556
+2024-12-03 23:37:13,991 - seen/000000004395.jpg - Average Log Probability of Bottom 40% Tokens: -1.0604
+2024-12-03 23:37:13,991 - seen/000000004395.jpg - Average Log Probability of Bottom 50% Tokens: -0.9484
+2024-12-03 23:37:13,991 - seen/000000004395.jpg - Average Log Probability of Bottom 60% Tokens: -0.8699
+2024-12-03 23:37:13,992 - seen/000000004395.jpg - Generated Output: 
+The image shows a man wearing a white shirt and tie. He appears to be looking off into the distance with his mouth slightly open, as if he's deep in thought or perhaps listening intently to something not visible in the photo. The background suggests an indoor setting, possibly a room with windows that allow natural light to enter.</s>
+2024-12-03 23:37:13,992 - Processing Image: seen/000000003934.jpg
+2024-12-03 23:37:14,470 - seen/000000003934.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:14,470 - seen/000000003934.jpg - Average Log Probability of Bottom 10% Tokens: -1.3385
+2024-12-03 23:37:14,470 - seen/000000003934.jpg - Average Log Probability of Bottom 20% Tokens: -1.1019
+2024-12-03 23:37:14,470 - seen/000000003934.jpg - Average Log Probability of Bottom 30% Tokens: -1.0095
+2024-12-03 23:37:14,470 - seen/000000003934.jpg - Average Log Probability of Bottom 40% Tokens: -0.9584
+2024-12-03 23:37:14,470 - seen/000000003934.jpg - Average Log Probability of Bottom 50% Tokens: -0.8952
+2024-12-03 23:37:14,470 - seen/000000003934.jpg - Average Log Probability of Bottom 60% Tokens: -0.8328
+2024-12-03 23:37:14,470 - seen/000000003934.jpg - Generated Output: 
+A young girl playing a video game.</s>
+2024-12-03 23:37:14,470 - Processing Image: seen/000000001818.jpg
+2024-12-03 23:37:14,967 - No token found after two occurrences of padding tokens!
+2024-12-03 23:37:14,968 - seen/000000001818.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:14,968 - seen/000000001818.jpg - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:37:14,968 - seen/000000001818.jpg - Average Log Probability of Bottom 20% Tokens: nan
+2024-12-03 23:37:14,968 - seen/000000001818.jpg - Average Log Probability of Bottom 30% Tokens: nan
+2024-12-03 23:37:14,969 - seen/000000001818.jpg - Average Log Probability of Bottom 40% Tokens: nan
+2024-12-03 23:37:14,969 - seen/000000001818.jpg - Average Log Probability of Bottom 50% Tokens: nan
+2024-12-03 23:37:14,969 - seen/000000001818.jpg - Average Log Probability of Bottom 60% Tokens: nan
+2024-12-03 23:37:14,969 - seen/000000001818.jpg - Generated Output: 
+2024-12-03 23:37:14,970 - Processing Image: seen/000000001425.jpg
+2024-12-03 23:37:15,488 - seen/000000001425.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:15,489 - seen/000000001425.jpg - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:37:15,489 - seen/000000001425.jpg - Average Log Probability of Bottom 20% Tokens: -1.6388
+2024-12-03 23:37:15,489 - seen/000000001425.jpg - Average Log Probability of Bottom 30% Tokens: -1.3869
+2024-12-03 23:37:15,489 - seen/000000001425.jpg - Average Log Probability of Bottom 40% Tokens: -1.1993
+2024-12-03 23:37:15,489 - seen/000000001425.jpg - Average Log Probability of Bottom 50% Tokens: -1.0931
+2024-12-03 23:37:15,489 - seen/000000001425.jpg - Average Log Probability of Bottom 60% Tokens: -0.9564
+2024-12-03 23:37:15,489 - seen/000000001425.jpg - Generated Output: 
+A sandwich on a plate.</s>
+2024-12-03 23:37:15,489 - Processing Image: seen/000000001584.jpg
+2024-12-03 23:37:16,223 - seen/000000001584.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:16,223 - seen/000000001584.jpg - Average Log Probability of Bottom 10% Tokens: -0.9882
+2024-12-03 23:37:16,224 - seen/000000001584.jpg - Average Log Probability of Bottom 20% Tokens: -0.9155
+2024-12-03 23:37:16,224 - seen/000000001584.jpg - Average Log Probability of Bottom 30% Tokens: -0.7892
+2024-12-03 23:37:16,224 - seen/000000001584.jpg - Average Log Probability of Bottom 40% Tokens: -0.7206
+2024-12-03 23:37:16,224 - seen/000000001584.jpg - Average Log Probability of Bottom 50% Tokens: -0.6285
+2024-12-03 23:37:16,224 - seen/000000001584.jpg - Average Log Probability of Bottom 60% Tokens: -0.5441
+2024-12-03 23:37:16,224 - seen/000000001584.jpg - Generated Output: 
+The image shows a red double-decker bus driving down the street.</s>
+2024-12-03 23:37:16,224 - Processing Image: seen/000000003255.jpg
+2024-12-03 23:37:16,715 - seen/000000003255.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:16,715 - seen/000000003255.jpg - Average Log Probability of Bottom 10% Tokens: -0.8946
+2024-12-03 23:37:16,715 - seen/000000003255.jpg - Average Log Probability of Bottom 20% Tokens: -0.8847
+2024-12-03 23:37:16,715 - seen/000000003255.jpg - Average Log Probability of Bottom 30% Tokens: -0.8598
+2024-12-03 23:37:16,715 - seen/000000003255.jpg - Average Log Probability of Bottom 40% Tokens: -0.8085
+2024-12-03 23:37:16,715 - seen/000000003255.jpg - Average Log Probability of Bottom 50% Tokens: -0.7547
+2024-12-03 23:37:16,715 - seen/000000003255.jpg - Average Log Probability of Bottom 60% Tokens: -0.7148
+2024-12-03 23:37:16,716 - seen/000000003255.jpg - Generated Output: 
+A group of people standing on a snowy mountain.</s>
+2024-12-03 23:37:16,716 - Processing Image: seen/000000001000.jpg
+2024-12-03 23:37:17,826 - seen/000000001000.jpg - Average Log Probability of Bottom 5% Tokens: -1.3209
+2024-12-03 23:37:17,826 - seen/000000001000.jpg - Average Log Probability of Bottom 10% Tokens: -1.2652
+2024-12-03 23:37:17,826 - seen/000000001000.jpg - Average Log Probability of Bottom 20% Tokens: -1.1547
+2024-12-03 23:37:17,826 - seen/000000001000.jpg - Average Log Probability of Bottom 30% Tokens: -1.0671
+2024-12-03 23:37:17,826 - seen/000000001000.jpg - Average Log Probability of Bottom 40% Tokens: -0.9820
+2024-12-03 23:37:17,826 - seen/000000001000.jpg - Average Log Probability of Bottom 50% Tokens: -0.9067
+2024-12-03 23:37:17,826 - seen/000000001000.jpg - Average Log Probability of Bottom 60% Tokens: -0.8226
+2024-12-03 23:37:17,826 - seen/000000001000.jpg - Generated Output: 
+A group of children and a man are standing on the tennis court. The man appears to be holding an award or trophy, suggesting that he may have won something related to tennis.</s>
+2024-12-03 23:37:17,827 - Processing Image: seen/000000002006.jpg
+2024-12-03 23:37:18,341 - seen/000000002006.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:18,341 - seen/000000002006.jpg - Average Log Probability of Bottom 10% Tokens: -1.6317
+2024-12-03 23:37:18,341 - seen/000000002006.jpg - Average Log Probability of Bottom 20% Tokens: -1.5170
+2024-12-03 23:37:18,341 - seen/000000002006.jpg - Average Log Probability of Bottom 30% Tokens: -1.3361
+2024-12-03 23:37:18,341 - seen/000000002006.jpg - Average Log Probability of Bottom 40% Tokens: -1.2381
+2024-12-03 23:37:18,341 - seen/000000002006.jpg - Average Log Probability of Bottom 50% Tokens: -1.1179
+2024-12-03 23:37:18,341 - seen/000000002006.jpg - Average Log Probability of Bottom 60% Tokens: -1.0339
+2024-12-03 23:37:18,342 - seen/000000002006.jpg - Generated Output: 
+A purple bus driving down a street.</s>
+2024-12-03 23:37:18,342 - Processing Image: seen/000000004495.jpg
+2024-12-03 23:37:18,970 - seen/000000004495.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:18,970 - seen/000000004495.jpg - Average Log Probability of Bottom 10% Tokens: -1.6620
+2024-12-03 23:37:18,970 - seen/000000004495.jpg - Average Log Probability of Bottom 20% Tokens: -1.5099
+2024-12-03 23:37:18,970 - seen/000000004495.jpg - Average Log Probability of Bottom 30% Tokens: -1.3794
+2024-12-03 23:37:18,970 - seen/000000004495.jpg - Average Log Probability of Bottom 40% Tokens: -1.3296
+2024-12-03 23:37:18,970 - seen/000000004495.jpg - Average Log Probability of Bottom 50% Tokens: -1.2247
+2024-12-03 23:37:18,970 - seen/000000004495.jpg - Average Log Probability of Bottom 60% Tokens: -1.1236
+2024-12-03 23:37:18,971 - seen/000000004495.jpg - Generated Output: 
+A living room with a television, two chairs and a couch.</s>
+2024-12-03 23:37:18,971 - Processing Image: seen/000000001675.jpg
+2024-12-03 23:37:19,425 - seen/000000001675.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:19,425 - seen/000000001675.jpg - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:37:19,425 - seen/000000001675.jpg - Average Log Probability of Bottom 20% Tokens: -1.6402
+2024-12-03 23:37:19,425 - seen/000000001675.jpg - Average Log Probability of Bottom 30% Tokens: -1.3922
+2024-12-03 23:37:19,425 - seen/000000001675.jpg - Average Log Probability of Bottom 40% Tokens: -1.2621
+2024-12-03 23:37:19,425 - seen/000000001675.jpg - Average Log Probability of Bottom 50% Tokens: -1.1269
+2024-12-03 23:37:19,425 - seen/000000001675.jpg - Average Log Probability of Bottom 60% Tokens: -1.0235
+2024-12-03 23:37:19,425 - seen/000000001675.jpg - Generated Output: 
+A cat lying on a laptop.</s>
+2024-12-03 23:37:19,426 - Processing Image: seen/000000002592.jpg
+2024-12-03 23:37:19,876 - seen/000000002592.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:19,876 - seen/000000002592.jpg - Average Log Probability of Bottom 10% Tokens: -1.5012
+2024-12-03 23:37:19,876 - seen/000000002592.jpg - Average Log Probability of Bottom 20% Tokens: -1.1931
+2024-12-03 23:37:19,876 - seen/000000002592.jpg - Average Log Probability of Bottom 30% Tokens: -1.0420
+2024-12-03 23:37:19,876 - seen/000000002592.jpg - Average Log Probability of Bottom 40% Tokens: -0.9660
+2024-12-03 23:37:19,876 - seen/000000002592.jpg - Average Log Probability of Bottom 50% Tokens: -0.9140
+2024-12-03 23:37:19,876 - seen/000000002592.jpg - Average Log Probability of Bottom 60% Tokens: -0.8579
+2024-12-03 23:37:19,877 - seen/000000002592.jpg - Generated Output: 
+A knife and a coffee mug.</s>
+2024-12-03 23:37:19,877 - Processing Image: seen/000000002685.jpg
+2024-12-03 23:37:20,418 - seen/000000002685.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:20,419 - seen/000000002685.jpg - Average Log Probability of Bottom 10% Tokens: -1.2048
+2024-12-03 23:37:20,419 - seen/000000002685.jpg - Average Log Probability of Bottom 20% Tokens: -1.1750
+2024-12-03 23:37:20,419 - seen/000000002685.jpg - Average Log Probability of Bottom 30% Tokens: -1.0933
+2024-12-03 23:37:20,419 - seen/000000002685.jpg - Average Log Probability of Bottom 40% Tokens: -1.0067
+2024-12-03 23:37:20,419 - seen/000000002685.jpg - Average Log Probability of Bottom 50% Tokens: -0.9344
+2024-12-03 23:37:20,419 - seen/000000002685.jpg - Average Log Probability of Bottom 60% Tokens: -0.8518
+2024-12-03 23:37:20,419 - seen/000000002685.jpg - Generated Output: 
+A group of people standing around a bar.</s>
+2024-12-03 23:37:20,419 - Processing Image: seen/000000004134.jpg
+2024-12-03 23:37:20,814 - No token found after two occurrences of padding tokens!
+2024-12-03 23:37:20,814 - seen/000000004134.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:20,814 - seen/000000004134.jpg - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:37:20,814 - seen/000000004134.jpg - Average Log Probability of Bottom 20% Tokens: nan
+2024-12-03 23:37:20,814 - seen/000000004134.jpg - Average Log Probability of Bottom 30% Tokens: nan
+2024-12-03 23:37:20,814 - seen/000000004134.jpg - Average Log Probability of Bottom 40% Tokens: nan
+2024-12-03 23:37:20,814 - seen/000000004134.jpg - Average Log Probability of Bottom 50% Tokens: nan
+2024-12-03 23:37:20,814 - seen/000000004134.jpg - Average Log Probability of Bottom 60% Tokens: nan
+2024-12-03 23:37:20,815 - seen/000000004134.jpg - Generated Output: 
+2024-12-03 23:37:20,815 - Processing Image: seen/000000003501.jpg
+2024-12-03 23:37:21,319 - seen/000000003501.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:21,319 - seen/000000003501.jpg - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:37:21,319 - seen/000000003501.jpg - Average Log Probability of Bottom 20% Tokens: -1.0981
+2024-12-03 23:37:21,319 - seen/000000003501.jpg - Average Log Probability of Bottom 30% Tokens: -1.0247
+2024-12-03 23:37:21,319 - seen/000000003501.jpg - Average Log Probability of Bottom 40% Tokens: -0.9842
+2024-12-03 23:37:21,319 - seen/000000003501.jpg - Average Log Probability of Bottom 50% Tokens: -0.9259
+2024-12-03 23:37:21,320 - seen/000000003501.jpg - Average Log Probability of Bottom 60% Tokens: -0.9259
+2024-12-03 23:37:21,320 - seen/000000003501.jpg - Generated Output: 
+A bowl of food.</s>
+2024-12-03 23:37:21,320 - Processing Image: seen/000000003553.jpg
+2024-12-03 23:37:21,845 - seen/000000003553.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:21,845 - seen/000000003553.jpg - Average Log Probability of Bottom 10% Tokens: -1.2269
+2024-12-03 23:37:21,845 - seen/000000003553.jpg - Average Log Probability of Bottom 20% Tokens: -1.0914
+2024-12-03 23:37:21,845 - seen/000000003553.jpg - Average Log Probability of Bottom 30% Tokens: -1.0317
+2024-12-03 23:37:21,845 - seen/000000003553.jpg - Average Log Probability of Bottom 40% Tokens: -0.9350
+2024-12-03 23:37:21,845 - seen/000000003553.jpg - Average Log Probability of Bottom 50% Tokens: -0.8350
+2024-12-03 23:37:21,845 - seen/000000003553.jpg - Average Log Probability of Bottom 60% Tokens: -0.7055
+2024-12-03 23:37:21,846 - seen/000000003553.jpg - Generated Output: 
+A person riding a skateboard.</s>
+2024-12-03 23:37:21,846 - Processing Image: seen/000000002923.jpg
+2024-12-03 23:37:22,284 - seen/000000002923.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:22,284 - seen/000000002923.jpg - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:37:22,284 - seen/000000002923.jpg - Average Log Probability of Bottom 20% Tokens: -1.9686
+2024-12-03 23:37:22,284 - seen/000000002923.jpg - Average Log Probability of Bottom 30% Tokens: -1.6971
+2024-12-03 23:37:22,284 - seen/000000002923.jpg - Average Log Probability of Bottom 40% Tokens: -1.5944
+2024-12-03 23:37:22,284 - seen/000000002923.jpg - Average Log Probability of Bottom 50% Tokens: -1.4964
+2024-12-03 23:37:22,284 - seen/000000002923.jpg - Average Log Probability of Bottom 60% Tokens: -1.4964
+2024-12-03 23:37:22,284 - seen/000000002923.jpg - Generated Output: 
+A marina with boats.</s>
+2024-12-03 23:37:22,285 - Processing Image: seen/000000002587.jpg
+2024-12-03 23:37:22,987 - seen/000000002587.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:22,987 - seen/000000002587.jpg - Average Log Probability of Bottom 10% Tokens: -1.6760
+2024-12-03 23:37:22,987 - seen/000000002587.jpg - Average Log Probability of Bottom 20% Tokens: -1.3719
+2024-12-03 23:37:22,987 - seen/000000002587.jpg - Average Log Probability of Bottom 30% Tokens: -1.3123
+2024-12-03 23:37:22,987 - seen/000000002587.jpg - Average Log Probability of Bottom 40% Tokens: -1.1446
+2024-12-03 23:37:22,987 - seen/000000002587.jpg - Average Log Probability of Bottom 50% Tokens: -1.0183
+2024-12-03 23:37:22,987 - seen/000000002587.jpg - Average Log Probability of Bottom 60% Tokens: -0.9457
+2024-12-03 23:37:22,988 - seen/000000002587.jpg - Generated Output: 
+A banana and a donut are placed next to each other.</s>
+2024-12-03 23:37:22,988 - Processing Image: seen/000000003845.jpg
+2024-12-03 23:37:23,400 - seen/000000003845.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:23,400 - seen/000000003845.jpg - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:37:23,400 - seen/000000003845.jpg - Average Log Probability of Bottom 20% Tokens: -1.2086
+2024-12-03 23:37:23,400 - seen/000000003845.jpg - Average Log Probability of Bottom 30% Tokens: -1.0518
+2024-12-03 23:37:23,400 - seen/000000003845.jpg - Average Log Probability of Bottom 40% Tokens: -1.0518
+2024-12-03 23:37:23,400 - seen/000000003845.jpg - Average Log Probability of Bottom 50% Tokens: -0.9027
+2024-12-03 23:37:23,400 - seen/000000003845.jpg - Average Log Probability of Bottom 60% Tokens: -0.7858
+2024-12-03 23:37:23,400 - seen/000000003845.jpg - Generated Output: 
+A plate of food.</s>
+2024-12-03 23:37:23,401 - Processing Image: seen/000000002473.jpg
+2024-12-03 23:37:23,944 - seen/000000002473.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:23,944 - seen/000000002473.jpg - Average Log Probability of Bottom 10% Tokens: -1.6138
+2024-12-03 23:37:23,944 - seen/000000002473.jpg - Average Log Probability of Bottom 20% Tokens: -1.5989
+2024-12-03 23:37:23,944 - seen/000000002473.jpg - Average Log Probability of Bottom 30% Tokens: -1.4274
+2024-12-03 23:37:23,944 - seen/000000002473.jpg - Average Log Probability of Bottom 40% Tokens: -1.3195
+2024-12-03 23:37:23,944 - seen/000000002473.jpg - Average Log Probability of Bottom 50% Tokens: -1.1402
+2024-12-03 23:37:23,944 - seen/000000002473.jpg - Average Log Probability of Bottom 60% Tokens: -1.0630
+2024-12-03 23:37:23,944 - seen/000000002473.jpg - Generated Output: 
+A person skiing and jumping high into the air.</s>
+2024-12-03 23:37:23,944 - Processing Image: seen/000000001296.jpg
+2024-12-03 23:37:24,407 - seen/000000001296.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:24,407 - seen/000000001296.jpg - Average Log Probability of Bottom 10% Tokens: -1.2213
+2024-12-03 23:37:24,407 - seen/000000001296.jpg - Average Log Probability of Bottom 20% Tokens: -1.1984
+2024-12-03 23:37:24,407 - seen/000000001296.jpg - Average Log Probability of Bottom 30% Tokens: -1.0457
+2024-12-03 23:37:24,407 - seen/000000001296.jpg - Average Log Probability of Bottom 40% Tokens: -0.9311
+2024-12-03 23:37:24,407 - seen/000000001296.jpg - Average Log Probability of Bottom 50% Tokens: -0.8371
+2024-12-03 23:37:24,407 - seen/000000001296.jpg - Average Log Probability of Bottom 60% Tokens: -0.7594
+2024-12-03 23:37:24,407 - seen/000000001296.jpg - Generated Output: 
+A woman looking at her cell phone.</s>
+2024-12-03 23:37:24,408 - Processing Image: seen/000000003156.jpg
+2024-12-03 23:37:24,895 - seen/000000003156.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:24,895 - seen/000000003156.jpg - Average Log Probability of Bottom 10% Tokens: -1.7830
+2024-12-03 23:37:24,896 - seen/000000003156.jpg - Average Log Probability of Bottom 20% Tokens: -1.5200
+2024-12-03 23:37:24,896 - seen/000000003156.jpg - Average Log Probability of Bottom 30% Tokens: -1.2126
+2024-12-03 23:37:24,896 - seen/000000003156.jpg - Average Log Probability of Bottom 40% Tokens: -0.9936
+2024-12-03 23:37:24,896 - seen/000000003156.jpg - Average Log Probability of Bottom 50% Tokens: -0.8617
+2024-12-03 23:37:24,896 - seen/000000003156.jpg - Average Log Probability of Bottom 60% Tokens: -0.7535
+2024-12-03 23:37:24,896 - seen/000000003156.jpg - Generated Output: 
+A man working on a toilet.</s>
+2024-12-03 23:37:24,896 - Processing Image: seen/000000002149.jpg
+2024-12-03 23:37:25,349 - seen/000000002149.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:25,349 - seen/000000002149.jpg - Average Log Probability of Bottom 10% Tokens: -1.0238
+2024-12-03 23:37:25,350 - seen/000000002149.jpg - Average Log Probability of Bottom 20% Tokens: -1.0226
+2024-12-03 23:37:25,350 - seen/000000002149.jpg - Average Log Probability of Bottom 30% Tokens: -0.8670
+2024-12-03 23:37:25,350 - seen/000000002149.jpg - Average Log Probability of Bottom 40% Tokens: -0.7805
+2024-12-03 23:37:25,350 - seen/000000002149.jpg - Average Log Probability of Bottom 50% Tokens: -0.7006
+2024-12-03 23:37:25,350 - seen/000000002149.jpg - Average Log Probability of Bottom 60% Tokens: -0.6273
+2024-12-03 23:37:25,350 - seen/000000002149.jpg - Generated Output: 
+A bowl of green apples.</s>
+2024-12-03 23:37:25,350 - Processing Image: seen/000000000885.jpg
+2024-12-03 23:37:25,744 - seen/000000000885.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:25,744 - seen/000000000885.jpg - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:37:25,744 - seen/000000000885.jpg - Average Log Probability of Bottom 20% Tokens: -0.9213
+2024-12-03 23:37:25,744 - seen/000000000885.jpg - Average Log Probability of Bottom 30% Tokens: -0.9037
+2024-12-03 23:37:25,744 - seen/000000000885.jpg - Average Log Probability of Bottom 40% Tokens: -0.9037
+2024-12-03 23:37:25,744 - seen/000000000885.jpg - Average Log Probability of Bottom 50% Tokens: -0.8828
+2024-12-03 23:37:25,744 - seen/000000000885.jpg - Average Log Probability of Bottom 60% Tokens: -0.7889
+2024-12-03 23:37:25,744 - seen/000000000885.jpg - Generated Output: 
+A man playing tennis.</s>
+2024-12-03 23:37:25,744 - Processing Image: seen/000000001503.jpg
+2024-12-03 23:37:26,173 - seen/000000001503.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:26,173 - seen/000000001503.jpg - Average Log Probability of Bottom 10% Tokens: -1.2992
+2024-12-03 23:37:26,173 - seen/000000001503.jpg - Average Log Probability of Bottom 20% Tokens: -1.2493
+2024-12-03 23:37:26,173 - seen/000000001503.jpg - Average Log Probability of Bottom 30% Tokens: -1.0404
+2024-12-03 23:37:26,173 - seen/000000001503.jpg - Average Log Probability of Bottom 40% Tokens: -0.9919
+2024-12-03 23:37:26,173 - seen/000000001503.jpg - Average Log Probability of Bottom 50% Tokens: -0.8934
+2024-12-03 23:37:26,173 - seen/000000001503.jpg - Average Log Probability of Bottom 60% Tokens: -0.8541
+2024-12-03 23:37:26,173 - seen/000000001503.jpg - Generated Output: 
+A computer desk with a laptop and two monitors.</s>
+2024-12-03 23:37:26,174 - Processing Image: seen/000000003661.jpg
+2024-12-03 23:37:26,559 - seen/000000003661.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:26,559 - seen/000000003661.jpg - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:37:26,559 - seen/000000003661.jpg - Average Log Probability of Bottom 20% Tokens: -1.4502
+2024-12-03 23:37:26,559 - seen/000000003661.jpg - Average Log Probability of Bottom 30% Tokens: -1.3550
+2024-12-03 23:37:26,559 - seen/000000003661.jpg - Average Log Probability of Bottom 40% Tokens: -1.1545
+2024-12-03 23:37:26,559 - seen/000000003661.jpg - Average Log Probability of Bottom 50% Tokens: -1.0466
+2024-12-03 23:37:26,559 - seen/000000003661.jpg - Average Log Probability of Bottom 60% Tokens: -1.0466
+2024-12-03 23:37:26,559 - seen/000000003661.jpg - Generated Output: 
+A bunch of bananas.</s>
+2024-12-03 23:37:26,559 - Processing Image: seen/000000002532.jpg
+2024-12-03 23:37:28,697 - seen/000000002532.jpg - Average Log Probability of Bottom 5% Tokens: -1.8971
+2024-12-03 23:37:28,697 - seen/000000002532.jpg - Average Log Probability of Bottom 10% Tokens: -1.6662
+2024-12-03 23:37:28,698 - seen/000000002532.jpg - Average Log Probability of Bottom 20% Tokens: -1.4447
+2024-12-03 23:37:28,698 - seen/000000002532.jpg - Average Log Probability of Bottom 30% Tokens: -1.2610
+2024-12-03 23:37:28,698 - seen/000000002532.jpg - Average Log Probability of Bottom 40% Tokens: -1.1456
+2024-12-03 23:37:28,698 - seen/000000002532.jpg - Average Log Probability of Bottom 50% Tokens: -1.0319
+2024-12-03 23:37:28,698 - seen/000000002532.jpg - Average Log Probability of Bottom 60% Tokens: -0.9260
+2024-12-03 23:37:28,698 - seen/000000002532.jpg - Generated Output: 
+The image shows a person standing on snow-covered ground, holding ski poles. The sky above them has some clouds and the sunlight appears to be shining through those clouds. In the background, there are mountains with patchy snow coverage, suggesting that it might not have been recently snowing or that the weather conditions were changing at the time of the photo.</s>
+2024-12-03 23:37:28,699 - Processing Image: seen/000000001532.jpg
+2024-12-03 23:37:29,112 - seen/000000001532.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:29,112 - seen/000000001532.jpg - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:37:29,112 - seen/000000001532.jpg - Average Log Probability of Bottom 20% Tokens: -1.4538
+2024-12-03 23:37:29,112 - seen/000000001532.jpg - Average Log Probability of Bottom 30% Tokens: -1.3069
+2024-12-03 23:37:29,112 - seen/000000001532.jpg - Average Log Probability of Bottom 40% Tokens: -1.3069
+2024-12-03 23:37:29,112 - seen/000000001532.jpg - Average Log Probability of Bottom 50% Tokens: -1.2111
+2024-12-03 23:37:29,112 - seen/000000001532.jpg - Average Log Probability of Bottom 60% Tokens: -1.1248
+2024-12-03 23:37:29,112 - seen/000000001532.jpg - Generated Output: 
+A highway overpass.</s>
+2024-12-03 23:37:29,113 - Processing Image: seen/000000000872.jpg
+2024-12-03 23:37:29,630 - No token found after two occurrences of padding tokens!
+2024-12-03 23:37:29,630 - seen/000000000872.jpg - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:29,630 - seen/000000000872.jpg - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:37:29,630 - seen/000000000872.jpg - Average Log Probability of Bottom 20% Tokens: nan
+2024-12-03 23:37:29,630 - seen/000000000872.jpg - Average Log Probability of Bottom 30% Tokens: nan
+2024-12-03 23:37:29,630 - seen/000000000872.jpg - Average Log Probability of Bottom 40% Tokens: nan
+2024-12-03 23:37:29,630 - seen/000000000872.jpg - Average Log Probability of Bottom 50% Tokens: nan
+2024-12-03 23:37:29,630 - seen/000000000872.jpg - Average Log Probability of Bottom 60% Tokens: nan
+2024-12-03 23:37:29,630 - seen/000000000872.jpg - Generated Output: 
+2024-12-03 23:37:29,630 - Processing Image: unseen/IMG_4407.JPG
+2024-12-03 23:37:30,502 - unseen/IMG_4407.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:30,503 - unseen/IMG_4407.JPG - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:37:30,503 - unseen/IMG_4407.JPG - Average Log Probability of Bottom 20% Tokens: -1.5326
+2024-12-03 23:37:30,503 - unseen/IMG_4407.JPG - Average Log Probability of Bottom 30% Tokens: -1.4047
+2024-12-03 23:37:30,503 - unseen/IMG_4407.JPG - Average Log Probability of Bottom 40% Tokens: -1.3415
+2024-12-03 23:37:30,503 - unseen/IMG_4407.JPG - Average Log Probability of Bottom 50% Tokens: -1.2977
+2024-12-03 23:37:30,503 - unseen/IMG_4407.JPG - Average Log Probability of Bottom 60% Tokens: -1.2599
+2024-12-03 23:37:30,503 - unseen/IMG_4407.JPG - Generated Output: 
+A river with rocks and snow.</s>
+2024-12-03 23:37:30,503 - Processing Image: unseen/IMG_6300.JPG
+2024-12-03 23:37:31,488 - unseen/IMG_6300.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:31,488 - unseen/IMG_6300.JPG - Average Log Probability of Bottom 10% Tokens: -2.3788
+2024-12-03 23:37:31,488 - unseen/IMG_6300.JPG - Average Log Probability of Bottom 20% Tokens: -1.6026
+2024-12-03 23:37:31,488 - unseen/IMG_6300.JPG - Average Log Probability of Bottom 30% Tokens: -1.4604
+2024-12-03 23:37:31,488 - unseen/IMG_6300.JPG - Average Log Probability of Bottom 40% Tokens: -1.2932
+2024-12-03 23:37:31,488 - unseen/IMG_6300.JPG - Average Log Probability of Bottom 50% Tokens: -1.1751
+2024-12-03 23:37:31,488 - unseen/IMG_6300.JPG - Average Log Probability of Bottom 60% Tokens: -1.1092
+2024-12-03 23:37:31,488 - unseen/IMG_6300.JPG - Generated Output: 
+The image shows a pile of old, broken glass bottles.</s>
+2024-12-03 23:37:31,488 - Processing Image: unseen/IMG_6313.JPG
+2024-12-03 23:37:33,882 - unseen/IMG_6313.JPG - Average Log Probability of Bottom 5% Tokens: -2.0607
+2024-12-03 23:37:33,882 - unseen/IMG_6313.JPG - Average Log Probability of Bottom 10% Tokens: -1.8667
+2024-12-03 23:37:33,882 - unseen/IMG_6313.JPG - Average Log Probability of Bottom 20% Tokens: -1.6433
+2024-12-03 23:37:33,883 - unseen/IMG_6313.JPG - Average Log Probability of Bottom 30% Tokens: -1.4971
+2024-12-03 23:37:33,883 - unseen/IMG_6313.JPG - Average Log Probability of Bottom 40% Tokens: -1.3392
+2024-12-03 23:37:33,883 - unseen/IMG_6313.JPG - Average Log Probability of Bottom 50% Tokens: -1.2267
+2024-12-03 23:37:33,883 - unseen/IMG_6313.JPG - Average Log Probability of Bottom 60% Tokens: -1.1269
+2024-12-03 23:37:33,883 - unseen/IMG_6313.JPG - Generated Output: 
+The image shows a street scene with an ornate, traditional Chinese archway. The archway features intricate blue and gold designs on its roof structure. In the foreground of the photo, there's a partial view through what appears to be a car windshield or rear window, showing part of another vehicle behind it. There are also some people visible walking underneath the archway.</s>
+2024-12-03 23:37:33,884 - Processing Image: unseen/IMG_6295.JPG
+2024-12-03 23:37:36,668 - unseen/IMG_6295.JPG - Average Log Probability of Bottom 5% Tokens: -2.3042
+2024-12-03 23:37:36,668 - unseen/IMG_6295.JPG - Average Log Probability of Bottom 10% Tokens: -2.0685
+2024-12-03 23:37:36,668 - unseen/IMG_6295.JPG - Average Log Probability of Bottom 20% Tokens: -1.7604
+2024-12-03 23:37:36,668 - unseen/IMG_6295.JPG - Average Log Probability of Bottom 30% Tokens: -1.5086
+2024-12-03 23:37:36,668 - unseen/IMG_6295.JPG - Average Log Probability of Bottom 40% Tokens: -1.3548
+2024-12-03 23:37:36,668 - unseen/IMG_6295.JPG - Average Log Probability of Bottom 50% Tokens: -1.2227
+2024-12-03 23:37:36,668 - unseen/IMG_6295.JPG - Average Log Probability of Bottom 60% Tokens: -1.1072
+2024-12-03 23:37:36,669 - unseen/IMG_6295.JPG - Generated Output: 
+The image shows a stone structure, possibly an ancient monument or ruins. There are several stacks of stones and some broken pieces scattered around the area. The ground appears to be dry with patches of dirt visible between the rocks. In the foreground on the left side, there's a large concrete planter containing what looks like soil and plants growing inside it. On the right side, there's a red fence running parallel to the stone structure.</s>
+2024-12-03 23:37:36,669 - Processing Image: unseen/IMG_3581.JPG
+2024-12-03 23:37:39,186 - unseen/IMG_3581.JPG - Average Log Probability of Bottom 5% Tokens: -2.1864
+2024-12-03 23:37:39,186 - unseen/IMG_3581.JPG - Average Log Probability of Bottom 10% Tokens: -1.9078
+2024-12-03 23:37:39,186 - unseen/IMG_3581.JPG - Average Log Probability of Bottom 20% Tokens: -1.6116
+2024-12-03 23:37:39,186 - unseen/IMG_3581.JPG - Average Log Probability of Bottom 30% Tokens: -1.4214
+2024-12-03 23:37:39,186 - unseen/IMG_3581.JPG - Average Log Probability of Bottom 40% Tokens: -1.2875
+2024-12-03 23:37:39,186 - unseen/IMG_3581.JPG - Average Log Probability of Bottom 50% Tokens: -1.1589
+2024-12-03 23:37:39,186 - unseen/IMG_3581.JPG - Average Log Probability of Bottom 60% Tokens: -1.0519
+2024-12-03 23:37:39,187 - unseen/IMG_3581.JPG - Generated Output: 
+The image shows a traditional Chinese village with old buildings, many of which have tiled roofs. The architecture suggests that the photo was taken from an elevated perspective looking down on the town. There are people walking around and enjoying their time outdoors. In front of one building, there's a display of flags, possibly indicating some sort of celebration or event taking place within the community.</s>
+2024-12-03 23:37:39,187 - Processing Image: unseen/IMG_6748.JPG
+2024-12-03 23:37:40,069 - unseen/IMG_6748.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:40,069 - unseen/IMG_6748.JPG - Average Log Probability of Bottom 10% Tokens: -1.6165
+2024-12-03 23:37:40,069 - unseen/IMG_6748.JPG - Average Log Probability of Bottom 20% Tokens: -1.4645
+2024-12-03 23:37:40,069 - unseen/IMG_6748.JPG - Average Log Probability of Bottom 30% Tokens: -1.3516
+2024-12-03 23:37:40,069 - unseen/IMG_6748.JPG - Average Log Probability of Bottom 40% Tokens: -1.2766
+2024-12-03 23:37:40,069 - unseen/IMG_6748.JPG - Average Log Probability of Bottom 50% Tokens: -1.2015
+2024-12-03 23:37:40,069 - unseen/IMG_6748.JPG - Average Log Probability of Bottom 60% Tokens: -1.1469
+2024-12-03 23:37:40,069 - unseen/IMG_6748.JPG - Generated Output: 
+A variety of fish are displayed for sale.</s>
+2024-12-03 23:37:40,069 - Processing Image: unseen/IMG_4395.JPG
+2024-12-03 23:37:41,062 - unseen/IMG_4395.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:41,062 - unseen/IMG_4395.JPG - Average Log Probability of Bottom 10% Tokens: -2.1001
+2024-12-03 23:37:41,062 - unseen/IMG_4395.JPG - Average Log Probability of Bottom 20% Tokens: -1.9043
+2024-12-03 23:37:41,062 - unseen/IMG_4395.JPG - Average Log Probability of Bottom 30% Tokens: -1.7303
+2024-12-03 23:37:41,062 - unseen/IMG_4395.JPG - Average Log Probability of Bottom 40% Tokens: -1.5381
+2024-12-03 23:37:41,062 - unseen/IMG_4395.JPG - Average Log Probability of Bottom 50% Tokens: -1.4106
+2024-12-03 23:37:41,062 - unseen/IMG_4395.JPG - Average Log Probability of Bottom 60% Tokens: -1.2891
+2024-12-03 23:37:41,062 - unseen/IMG_4395.JPG - Generated Output: 
+The image shows a frozen pond with bare trees and mountains in the background.</s>
+2024-12-03 23:37:41,063 - Processing Image: unseen/IMG_4340.JPG
+2024-12-03 23:37:42,689 - unseen/IMG_4340.JPG - Average Log Probability of Bottom 5% Tokens: -1.6918
+2024-12-03 23:37:42,689 - unseen/IMG_4340.JPG - Average Log Probability of Bottom 10% Tokens: -1.5554
+2024-12-03 23:37:42,689 - unseen/IMG_4340.JPG - Average Log Probability of Bottom 20% Tokens: -1.3466
+2024-12-03 23:37:42,689 - unseen/IMG_4340.JPG - Average Log Probability of Bottom 30% Tokens: -1.2135
+2024-12-03 23:37:42,689 - unseen/IMG_4340.JPG - Average Log Probability of Bottom 40% Tokens: -1.0746
+2024-12-03 23:37:42,689 - unseen/IMG_4340.JPG - Average Log Probability of Bottom 50% Tokens: -0.9830
+2024-12-03 23:37:42,689 - unseen/IMG_4340.JPG - Average Log Probability of Bottom 60% Tokens: -0.8860
+2024-12-03 23:37:42,690 - unseen/IMG_4340.JPG - Generated Output: 
+The image shows a table with various items on it. There's an orange, some bowls and cups, and what appears to be a bottle of wine or liquor. The setting looks like someone might have been enjoying a meal or drink at the table when they left for a moment.</s>
+2024-12-03 23:37:42,690 - Processing Image: unseen/IMG_6831.JPG
+2024-12-03 23:37:43,500 - unseen/IMG_6831.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:43,500 - unseen/IMG_6831.JPG - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:37:43,500 - unseen/IMG_6831.JPG - Average Log Probability of Bottom 20% Tokens: -1.6935
+2024-12-03 23:37:43,500 - unseen/IMG_6831.JPG - Average Log Probability of Bottom 30% Tokens: -1.4686
+2024-12-03 23:37:43,500 - unseen/IMG_6831.JPG - Average Log Probability of Bottom 40% Tokens: -1.3534
+2024-12-03 23:37:43,500 - unseen/IMG_6831.JPG - Average Log Probability of Bottom 50% Tokens: -1.1695
+2024-12-03 23:37:43,500 - unseen/IMG_6831.JPG - Average Log Probability of Bottom 60% Tokens: -1.0541
+2024-12-03 23:37:43,501 - unseen/IMG_6831.JPG - Generated Output: 
+A crab on a plate.</s>
+2024-12-03 23:37:43,501 - Processing Image: unseen/IMG_6750.JPG
+2024-12-03 23:37:45,332 - unseen/IMG_6750.JPG - Average Log Probability of Bottom 5% Tokens: -1.9323
+2024-12-03 23:37:45,332 - unseen/IMG_6750.JPG - Average Log Probability of Bottom 10% Tokens: -1.6490
+2024-12-03 23:37:45,332 - unseen/IMG_6750.JPG - Average Log Probability of Bottom 20% Tokens: -1.4407
+2024-12-03 23:37:45,332 - unseen/IMG_6750.JPG - Average Log Probability of Bottom 30% Tokens: -1.3009
+2024-12-03 23:37:45,332 - unseen/IMG_6750.JPG - Average Log Probability of Bottom 40% Tokens: -1.1689
+2024-12-03 23:37:45,332 - unseen/IMG_6750.JPG - Average Log Probability of Bottom 50% Tokens: -1.0555
+2024-12-03 23:37:45,332 - unseen/IMG_6750.JPG - Average Log Probability of Bottom 60% Tokens: -0.9569
+2024-12-03 23:37:45,333 - unseen/IMG_6750.JPG - Generated Output: 
+The image shows a person's hand pointing at something, with the focus on their index finger. The background appears to be an indoor area filled with various items such as bags and boxes, suggesting that it might be a storage room or some kind of warehouse setting. There are also lights illuminating the scene from above.</s>
+2024-12-03 23:37:45,333 - Processing Image: unseen/IMG_5816.JPG
+2024-12-03 23:37:47,385 - unseen/IMG_5816.JPG - Average Log Probability of Bottom 5% Tokens: -1.8809
+2024-12-03 23:37:47,385 - unseen/IMG_5816.JPG - Average Log Probability of Bottom 10% Tokens: -1.6782
+2024-12-03 23:37:47,385 - unseen/IMG_5816.JPG - Average Log Probability of Bottom 20% Tokens: -1.4412
+2024-12-03 23:37:47,385 - unseen/IMG_5816.JPG - Average Log Probability of Bottom 30% Tokens: -1.3007
+2024-12-03 23:37:47,385 - unseen/IMG_5816.JPG - Average Log Probability of Bottom 40% Tokens: -1.1846
+2024-12-03 23:37:47,385 - unseen/IMG_5816.JPG - Average Log Probability of Bottom 50% Tokens: -1.0769
+2024-12-03 23:37:47,385 - unseen/IMG_5816.JPG - Average Log Probability of Bottom 60% Tokens: -0.9752
+2024-12-03 23:37:47,386 - unseen/IMG_5816.JPG - Generated Output: 
+The image shows a person riding on the back of another vehicle, which appears to be moving down a road at night. The surrounding area has trees and bushes lining both sides of the street, creating an enclosed feeling as if it's a tunnel or pathway through nature.</s>
+2024-12-03 23:37:47,386 - Processing Image: unseen/IMG_6870.JPG
+2024-12-03 23:37:49,240 - unseen/IMG_6870.JPG - Average Log Probability of Bottom 5% Tokens: -1.8027
+2024-12-03 23:37:49,240 - unseen/IMG_6870.JPG - Average Log Probability of Bottom 10% Tokens: -1.6561
+2024-12-03 23:37:49,240 - unseen/IMG_6870.JPG - Average Log Probability of Bottom 20% Tokens: -1.5032
+2024-12-03 23:37:49,240 - unseen/IMG_6870.JPG - Average Log Probability of Bottom 30% Tokens: -1.3788
+2024-12-03 23:37:49,240 - unseen/IMG_6870.JPG - Average Log Probability of Bottom 40% Tokens: -1.2698
+2024-12-03 23:37:49,240 - unseen/IMG_6870.JPG - Average Log Probability of Bottom 50% Tokens: -1.1490
+2024-12-03 23:37:49,240 - unseen/IMG_6870.JPG - Average Log Probability of Bottom 60% Tokens: -1.0486
+2024-12-03 23:37:49,241 - unseen/IMG_6870.JPG - Generated Output: 
+The image shows a person's hand pointing at something, with various bags and packages visible behind the glass. The items include what appears to be food packaging from McDonald's, as indicated by the red logo on one of the packages. There are also other types of bags and boxes that seem to contain different products or materials.</s>
+2024-12-03 23:37:49,241 - Processing Image: unseen/IMG_5974.JPG
+2024-12-03 23:37:50,023 - unseen/IMG_5974.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:50,023 - unseen/IMG_5974.JPG - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:37:50,023 - unseen/IMG_5974.JPG - Average Log Probability of Bottom 20% Tokens: -1.2716
+2024-12-03 23:37:50,023 - unseen/IMG_5974.JPG - Average Log Probability of Bottom 30% Tokens: -1.1600
+2024-12-03 23:37:50,023 - unseen/IMG_5974.JPG - Average Log Probability of Bottom 40% Tokens: -1.1600
+2024-12-03 23:37:50,023 - unseen/IMG_5974.JPG - Average Log Probability of Bottom 50% Tokens: -1.0246
+2024-12-03 23:37:50,023 - unseen/IMG_5974.JPG - Average Log Probability of Bottom 60% Tokens: -0.9435
+2024-12-03 23:37:50,023 - unseen/IMG_5974.JPG - Generated Output: 
+A plate of food.</s>
+2024-12-03 23:37:50,024 - Processing Image: unseen/IMG_6779.JPG
+2024-12-03 23:37:52,278 - unseen/IMG_6779.JPG - Average Log Probability of Bottom 5% Tokens: -2.0905
+2024-12-03 23:37:52,278 - unseen/IMG_6779.JPG - Average Log Probability of Bottom 10% Tokens: -1.7941
+2024-12-03 23:37:52,278 - unseen/IMG_6779.JPG - Average Log Probability of Bottom 20% Tokens: -1.5426
+2024-12-03 23:37:52,278 - unseen/IMG_6779.JPG - Average Log Probability of Bottom 30% Tokens: -1.3596
+2024-12-03 23:37:52,278 - unseen/IMG_6779.JPG - Average Log Probability of Bottom 40% Tokens: -1.1939
+2024-12-03 23:37:52,278 - unseen/IMG_6779.JPG - Average Log Probability of Bottom 50% Tokens: -1.0641
+2024-12-03 23:37:52,278 - unseen/IMG_6779.JPG - Average Log Probability of Bottom 60% Tokens: -0.9647
+2024-12-03 23:37:52,279 - unseen/IMG_6779.JPG - Generated Output: 
+The image shows a bottle of alcohol, specifically sake. The label on the bottle has Chinese characters and English text, indicating that it's likely made for export or intended to appeal to an international market. There are also some glasses visible at the bottom right corner of the photo, suggesting that the setting might be a bar or restaurant where drinking takes place.</s>
+2024-12-03 23:37:52,279 - Processing Image: unseen/IMG_5965.JPG
+2024-12-03 23:37:53,315 - unseen/IMG_5965.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:53,315 - unseen/IMG_5965.JPG - Average Log Probability of Bottom 10% Tokens: -1.2773
+2024-12-03 23:37:53,315 - unseen/IMG_5965.JPG - Average Log Probability of Bottom 20% Tokens: -1.0852
+2024-12-03 23:37:53,315 - unseen/IMG_5965.JPG - Average Log Probability of Bottom 30% Tokens: -0.8980
+2024-12-03 23:37:53,315 - unseen/IMG_5965.JPG - Average Log Probability of Bottom 40% Tokens: -0.7548
+2024-12-03 23:37:53,315 - unseen/IMG_5965.JPG - Average Log Probability of Bottom 50% Tokens: -0.6623
+2024-12-03 23:37:53,315 - unseen/IMG_5965.JPG - Average Log Probability of Bottom 60% Tokens: -0.6243
+2024-12-03 23:37:53,315 - unseen/IMG_5965.JPG - Generated Output: 
+The image shows a refrigerator stocked with various beverages.</s>
+2024-12-03 23:37:53,316 - Processing Image: unseen/IMG_4156.JPG
+2024-12-03 23:37:53,746 - unseen/IMG_4156.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:53,746 - unseen/IMG_4156.JPG - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:37:53,747 - unseen/IMG_4156.JPG - Average Log Probability of Bottom 20% Tokens: -1.3516
+2024-12-03 23:37:53,747 - unseen/IMG_4156.JPG - Average Log Probability of Bottom 30% Tokens: -1.0878
+2024-12-03 23:37:53,747 - unseen/IMG_4156.JPG - Average Log Probability of Bottom 40% Tokens: -0.9808
+2024-12-03 23:37:53,747 - unseen/IMG_4156.JPG - Average Log Probability of Bottom 50% Tokens: -0.9008
+2024-12-03 23:37:53,747 - unseen/IMG_4156.JPG - Average Log Probability of Bottom 60% Tokens: -0.9008
+2024-12-03 23:37:53,747 - unseen/IMG_4156.JPG - Generated Output: 
+A person holding a coin.</s>
+2024-12-03 23:37:53,747 - Processing Image: unseen/IMG_4054.JPG
+2024-12-03 23:37:54,573 - unseen/IMG_4054.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:54,573 - unseen/IMG_4054.JPG - Average Log Probability of Bottom 10% Tokens: -1.4786
+2024-12-03 23:37:54,573 - unseen/IMG_4054.JPG - Average Log Probability of Bottom 20% Tokens: -1.2427
+2024-12-03 23:37:54,573 - unseen/IMG_4054.JPG - Average Log Probability of Bottom 30% Tokens: -1.1453
+2024-12-03 23:37:54,573 - unseen/IMG_4054.JPG - Average Log Probability of Bottom 40% Tokens: -1.0720
+2024-12-03 23:37:54,574 - unseen/IMG_4054.JPG - Average Log Probability of Bottom 50% Tokens: -1.0102
+2024-12-03 23:37:54,574 - unseen/IMG_4054.JPG - Average Log Probability of Bottom 60% Tokens: -0.9388
+2024-12-03 23:37:54,574 - unseen/IMG_4054.JPG - Generated Output: 
+A group of people are playing with snow.</s>
+2024-12-03 23:37:54,574 - Processing Image: unseen/IMG_6451.JPG
+2024-12-03 23:37:57,318 - unseen/IMG_6451.JPG - Average Log Probability of Bottom 5% Tokens: -1.7677
+2024-12-03 23:37:57,319 - unseen/IMG_6451.JPG - Average Log Probability of Bottom 10% Tokens: -1.7102
+2024-12-03 23:37:57,319 - unseen/IMG_6451.JPG - Average Log Probability of Bottom 20% Tokens: -1.5432
+2024-12-03 23:37:57,319 - unseen/IMG_6451.JPG - Average Log Probability of Bottom 30% Tokens: -1.3762
+2024-12-03 23:37:57,319 - unseen/IMG_6451.JPG - Average Log Probability of Bottom 40% Tokens: -1.2620
+2024-12-03 23:37:57,319 - unseen/IMG_6451.JPG - Average Log Probability of Bottom 50% Tokens: -1.1647
+2024-12-03 23:37:57,319 - unseen/IMG_6451.JPG - Average Log Probability of Bottom 60% Tokens: -1.0764
+2024-12-03 23:37:57,320 - unseen/IMG_6451.JPG - Generated Output: 
+The image shows a person standing on the edge of an overlook, looking down at a lush green valley. The landscape features rolling hills and dense forests with trees that appear to be coniferous due to their needle-like leaves. There are also stone structures visible near the bottom left corner of the photo. Above the valley, there's a mountain range rising into the sky, which suggests that the location might have a high elevation or altitude.</s>
+2024-12-03 23:37:57,320 - Processing Image: unseen/IMG_6533.JPG
+2024-12-03 23:37:58,732 - unseen/IMG_6533.JPG - Average Log Probability of Bottom 5% Tokens: -2.1494
+2024-12-03 23:37:58,732 - unseen/IMG_6533.JPG - Average Log Probability of Bottom 10% Tokens: -1.7093
+2024-12-03 23:37:58,732 - unseen/IMG_6533.JPG - Average Log Probability of Bottom 20% Tokens: -1.3992
+2024-12-03 23:37:58,732 - unseen/IMG_6533.JPG - Average Log Probability of Bottom 30% Tokens: -1.2677
+2024-12-03 23:37:58,732 - unseen/IMG_6533.JPG - Average Log Probability of Bottom 40% Tokens: -1.1513
+2024-12-03 23:37:58,733 - unseen/IMG_6533.JPG - Average Log Probability of Bottom 50% Tokens: -1.0680
+2024-12-03 23:37:58,733 - unseen/IMG_6533.JPG - Average Log Probability of Bottom 60% Tokens: -0.9655
+2024-12-03 23:37:58,733 - unseen/IMG_6533.JPG - Generated Output: 
+The image shows a view from an elevated position, looking down on a landscape that includes trees and buildings. The sky appears to be overcast or cloudy.</s>
+2024-12-03 23:37:58,733 - Processing Image: unseen/IMG_4066.JPG
+2024-12-03 23:37:59,228 - unseen/IMG_4066.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:37:59,229 - unseen/IMG_4066.JPG - Average Log Probability of Bottom 10% Tokens: -1.6792
+2024-12-03 23:37:59,229 - unseen/IMG_4066.JPG - Average Log Probability of Bottom 20% Tokens: -1.5436
+2024-12-03 23:37:59,229 - unseen/IMG_4066.JPG - Average Log Probability of Bottom 30% Tokens: -1.3881
+2024-12-03 23:37:59,229 - unseen/IMG_4066.JPG - Average Log Probability of Bottom 40% Tokens: -1.3006
+2024-12-03 23:37:59,229 - unseen/IMG_4066.JPG - Average Log Probability of Bottom 50% Tokens: -1.2101
+2024-12-03 23:37:59,229 - unseen/IMG_4066.JPG - Average Log Probability of Bottom 60% Tokens: -1.1209
+2024-12-03 23:37:59,229 - unseen/IMG_4066.JPG - Generated Output: 
+A person standing next to a snow fort.</s>
+2024-12-03 23:37:59,229 - Processing Image: unseen/IMG_6724.JPG
+2024-12-03 23:38:00,718 - unseen/IMG_6724.JPG - Average Log Probability of Bottom 5% Tokens: -1.6767
+2024-12-03 23:38:00,718 - unseen/IMG_6724.JPG - Average Log Probability of Bottom 10% Tokens: -1.4877
+2024-12-03 23:38:00,718 - unseen/IMG_6724.JPG - Average Log Probability of Bottom 20% Tokens: -1.2904
+2024-12-03 23:38:00,718 - unseen/IMG_6724.JPG - Average Log Probability of Bottom 30% Tokens: -1.1536
+2024-12-03 23:38:00,718 - unseen/IMG_6724.JPG - Average Log Probability of Bottom 40% Tokens: -1.0385
+2024-12-03 23:38:00,719 - unseen/IMG_6724.JPG - Average Log Probability of Bottom 50% Tokens: -0.8970
+2024-12-03 23:38:00,719 - unseen/IMG_6724.JPG - Average Log Probability of Bottom 60% Tokens: -0.7987
+2024-12-03 23:38:00,719 - unseen/IMG_6724.JPG - Generated Output: 
+The image shows a bottle of Bowmore whisky, which appears to be inside an artistic box. The label on the bottle indicates that it's aged for "18 Years."</s>
+2024-12-03 23:38:00,719 - Processing Image: unseen/IMG_6745.JPG
+2024-12-03 23:38:01,751 - No token found after two occurrences of padding tokens!
+2024-12-03 23:38:01,752 - unseen/IMG_6745.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:38:01,752 - unseen/IMG_6745.JPG - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:38:01,752 - unseen/IMG_6745.JPG - Average Log Probability of Bottom 20% Tokens: nan
+2024-12-03 23:38:01,752 - unseen/IMG_6745.JPG - Average Log Probability of Bottom 30% Tokens: nan
+2024-12-03 23:38:01,752 - unseen/IMG_6745.JPG - Average Log Probability of Bottom 40% Tokens: nan
+2024-12-03 23:38:01,752 - unseen/IMG_6745.JPG - Average Log Probability of Bottom 50% Tokens: nan
+2024-12-03 23:38:01,752 - unseen/IMG_6745.JPG - Average Log Probability of Bottom 60% Tokens: nan
+2024-12-03 23:38:01,752 - unseen/IMG_6745.JPG - Generated Output: 
+2024-12-03 23:38:01,752 - Processing Image: unseen/IMG_6310.JPG
+2024-12-03 23:38:04,369 - unseen/IMG_6310.JPG - Average Log Probability of Bottom 5% Tokens: -1.5884
+2024-12-03 23:38:04,369 - unseen/IMG_6310.JPG - Average Log Probability of Bottom 10% Tokens: -1.4922
+2024-12-03 23:38:04,369 - unseen/IMG_6310.JPG - Average Log Probability of Bottom 20% Tokens: -1.3441
+2024-12-03 23:38:04,369 - unseen/IMG_6310.JPG - Average Log Probability of Bottom 30% Tokens: -1.2235
+2024-12-03 23:38:04,369 - unseen/IMG_6310.JPG - Average Log Probability of Bottom 40% Tokens: -1.1159
+2024-12-03 23:38:04,369 - unseen/IMG_6310.JPG - Average Log Probability of Bottom 50% Tokens: -1.0282
+2024-12-03 23:38:04,369 - unseen/IMG_6310.JPG - Average Log Probability of Bottom 60% Tokens: -0.9395
+2024-12-03 23:38:04,370 - unseen/IMG_6310.JPG - Generated Output: 
+The image shows a street scene with an oriental-style building, possibly of Chinese architecture. The sky appears to be cloudy and overcast. There are people walking on the sidewalk near parked cars along both sides of the roadway. In front of the building there's a large arch or gate that seems to be part of its entrance. Trees line one side of the street, providing some greenery amidst the urban setting.</s>
+2024-12-03 23:38:04,370 - Processing Image: unseen/IMG_5943.JPG
+2024-12-03 23:38:07,096 - unseen/IMG_5943.JPG - Average Log Probability of Bottom 5% Tokens: -1.9667
+2024-12-03 23:38:07,097 - unseen/IMG_5943.JPG - Average Log Probability of Bottom 10% Tokens: -1.7558
+2024-12-03 23:38:07,097 - unseen/IMG_5943.JPG - Average Log Probability of Bottom 20% Tokens: -1.4639
+2024-12-03 23:38:07,097 - unseen/IMG_5943.JPG - Average Log Probability of Bottom 30% Tokens: -1.2988
+2024-12-03 23:38:07,097 - unseen/IMG_5943.JPG - Average Log Probability of Bottom 40% Tokens: -1.1843
+2024-12-03 23:38:07,097 - unseen/IMG_5943.JPG - Average Log Probability of Bottom 50% Tokens: -1.0479
+2024-12-03 23:38:07,097 - unseen/IMG_5943.JPG - Average Log Probability of Bottom 60% Tokens: -0.9333
+2024-12-03 23:38:07,097 - unseen/IMG_5943.JPG - Generated Output: 
+The image shows a cluttered room with various items. There are several shelves filled with books, magazines and other objects such as bottles of alcohol and boxes. Above the bookshelf there's an air conditioning unit mounted on the wall. On one side of the room, there appears to be some sort of sports equipment hanging from a hook or rack. The overall impression is that of a lived-in space where someone has stored their belong
+2024-12-03 23:38:07,098 - Processing Image: unseen/IMG_6570.JPG
+2024-12-03 23:38:07,877 - unseen/IMG_6570.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:38:07,877 - unseen/IMG_6570.JPG - Average Log Probability of Bottom 10% Tokens: -1.1232
+2024-12-03 23:38:07,877 - unseen/IMG_6570.JPG - Average Log Probability of Bottom 20% Tokens: -0.9904
+2024-12-03 23:38:07,877 - unseen/IMG_6570.JPG - Average Log Probability of Bottom 30% Tokens: -0.9215
+2024-12-03 23:38:07,877 - unseen/IMG_6570.JPG - Average Log Probability of Bottom 40% Tokens: -0.8610
+2024-12-03 23:38:07,877 - unseen/IMG_6570.JPG - Average Log Probability of Bottom 50% Tokens: -0.8221
+2024-12-03 23:38:07,877 - unseen/IMG_6570.JPG - Average Log Probability of Bottom 60% Tokens: -0.7806
+2024-12-03 23:38:07,878 - unseen/IMG_6570.JPG - Generated Output: 
+A woman sitting on a stone wall.</s>
+2024-12-03 23:38:07,878 - Processing Image: unseen/8c395c61a58407163ae106dd5011d569.JPG
+2024-12-03 23:38:10,231 - unseen/8c395c61a58407163ae106dd5011d569.JPG - Average Log Probability of Bottom 5% Tokens: -1.7534
+2024-12-03 23:38:10,232 - unseen/8c395c61a58407163ae106dd5011d569.JPG - Average Log Probability of Bottom 10% Tokens: -1.5467
+2024-12-03 23:38:10,232 - unseen/8c395c61a58407163ae106dd5011d569.JPG - Average Log Probability of Bottom 20% Tokens: -1.3614
+2024-12-03 23:38:10,232 - unseen/8c395c61a58407163ae106dd5011d569.JPG - Average Log Probability of Bottom 30% Tokens: -1.2488
+2024-12-03 23:38:10,232 - unseen/8c395c61a58407163ae106dd5011d569.JPG - Average Log Probability of Bottom 40% Tokens: -1.1599
+2024-12-03 23:38:10,232 - unseen/8c395c61a58407163ae106dd5011d569.JPG - Average Log Probability of Bottom 50% Tokens: -1.0617
+2024-12-03 23:38:10,232 - unseen/8c395c61a58407163ae106dd5011d569.JPG - Average Log Probability of Bottom 60% Tokens: -0.9653
+2024-12-03 23:38:10,233 - unseen/8c395c61a58407163ae106dd5011d569.JPG - Generated Output: 
+The image shows a table with various items on it. There are two framed certificates or awards, one of which appears to be gold-colored and the other white; there's also an open book lying flat next to them. In front of these items sits a small vase containing red flowers. To the left side of the frame, there seems to be another item that might be related to artwork or decoration due to its shape and color scheme. The setting suggests
+2024-12-03 23:38:10,233 - Processing Image: unseen/IMG_4342.JPG
+2024-12-03 23:38:11,093 - unseen/IMG_4342.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:38:11,093 - unseen/IMG_4342.JPG - Average Log Probability of Bottom 10% Tokens: -0.9251
+2024-12-03 23:38:11,093 - unseen/IMG_4342.JPG - Average Log Probability of Bottom 20% Tokens: -0.9189
+2024-12-03 23:38:11,093 - unseen/IMG_4342.JPG - Average Log Probability of Bottom 30% Tokens: -0.9060
+2024-12-03 23:38:11,093 - unseen/IMG_4342.JPG - Average Log Probability of Bottom 40% Tokens: -0.8574
+2024-12-03 23:38:11,093 - unseen/IMG_4342.JPG - Average Log Probability of Bottom 50% Tokens: -0.7672
+2024-12-03 23:38:11,093 - unseen/IMG_4342.JPG - Average Log Probability of Bottom 60% Tokens: -0.7022
+2024-12-03 23:38:11,094 - unseen/IMG_4342.JPG - Generated Output: 
+A bowl of soup with chopsticks.</s>
+2024-12-03 23:38:11,094 - Processing Image: unseen/IMG_4279.JPG
+2024-12-03 23:38:11,783 - unseen/IMG_4279.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:38:11,783 - unseen/IMG_4279.JPG - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:38:11,783 - unseen/IMG_4279.JPG - Average Log Probability of Bottom 20% Tokens: -2.2600
+2024-12-03 23:38:11,783 - unseen/IMG_4279.JPG - Average Log Probability of Bottom 30% Tokens: -1.7562
+2024-12-03 23:38:11,783 - unseen/IMG_4279.JPG - Average Log Probability of Bottom 40% Tokens: -1.7562
+2024-12-03 23:38:11,783 - unseen/IMG_4279.JPG - Average Log Probability of Bottom 50% Tokens: -1.5682
+2024-12-03 23:38:11,783 - unseen/IMG_4279.JPG - Average Log Probability of Bottom 60% Tokens: -1.3927
+2024-12-03 23:38:11,783 - unseen/IMG_4279.JPG - Generated Output: 
+A plate of food.</s>
+2024-12-03 23:38:11,783 - Processing Image: unseen/IMG_4415.JPG
+2024-12-03 23:38:13,260 - unseen/IMG_4415.JPG - Average Log Probability of Bottom 5% Tokens: -1.9743
+2024-12-03 23:38:13,260 - unseen/IMG_4415.JPG - Average Log Probability of Bottom 10% Tokens: -1.7416
+2024-12-03 23:38:13,260 - unseen/IMG_4415.JPG - Average Log Probability of Bottom 20% Tokens: -1.5547
+2024-12-03 23:38:13,260 - unseen/IMG_4415.JPG - Average Log Probability of Bottom 30% Tokens: -1.4295
+2024-12-03 23:38:13,260 - unseen/IMG_4415.JPG - Average Log Probability of Bottom 40% Tokens: -1.2956
+2024-12-03 23:38:13,260 - unseen/IMG_4415.JPG - Average Log Probability of Bottom 50% Tokens: -1.1746
+2024-12-03 23:38:13,260 - unseen/IMG_4415.JPG - Average Log Probability of Bottom 60% Tokens: -1.0630
+2024-12-03 23:38:13,261 - unseen/IMG_4415.JPG - Generated Output: 
+The image shows a person standing on the edge of water, with their feet partially submerged. The water appears to be shallow and has some ice or frost floating on its surface.</s>
+2024-12-03 23:38:13,261 - Processing Image: unseen/a3d0b0120e828cb387f3925f289eaa8b.JPG
+2024-12-03 23:38:13,667 - unseen/a3d0b0120e828cb387f3925f289eaa8b.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:38:13,667 - unseen/a3d0b0120e828cb387f3925f289eaa8b.JPG - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:38:13,667 - unseen/a3d0b0120e828cb387f3925f289eaa8b.JPG - Average Log Probability of Bottom 20% Tokens: -1.2374
+2024-12-03 23:38:13,667 - unseen/a3d0b0120e828cb387f3925f289eaa8b.JPG - Average Log Probability of Bottom 30% Tokens: -1.2374
+2024-12-03 23:38:13,667 - unseen/a3d0b0120e828cb387f3925f289eaa8b.JPG - Average Log Probability of Bottom 40% Tokens: -1.2060
+2024-12-03 23:38:13,667 - unseen/a3d0b0120e828cb387f3925f289eaa8b.JPG - Average Log Probability of Bottom 50% Tokens: -1.2060
+2024-12-03 23:38:13,667 - unseen/a3d0b0120e828cb387f3925f289eaa8b.JPG - Average Log Probability of Bottom 60% Tokens: -1.1373
+2024-12-03 23:38:13,668 - unseen/a3d0b0120e828cb387f3925f289eaa8b.JPG - Generated Output: 
+A snowman</s>
+2024-12-03 23:38:13,668 - Processing Image: unseen/IMG_4371.JPG
+2024-12-03 23:38:14,500 - unseen/IMG_4371.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:38:14,501 - unseen/IMG_4371.JPG - Average Log Probability of Bottom 10% Tokens: -1.4722
+2024-12-03 23:38:14,501 - unseen/IMG_4371.JPG - Average Log Probability of Bottom 20% Tokens: -1.3712
+2024-12-03 23:38:14,501 - unseen/IMG_4371.JPG - Average Log Probability of Bottom 30% Tokens: -1.2674
+2024-12-03 23:38:14,501 - unseen/IMG_4371.JPG - Average Log Probability of Bottom 40% Tokens: -1.1915
+2024-12-03 23:38:14,501 - unseen/IMG_4371.JPG - Average Log Probability of Bottom 50% Tokens: -1.0463
+2024-12-03 23:38:14,501 - unseen/IMG_4371.JPG - Average Log Probability of Bottom 60% Tokens: -0.9875
+2024-12-03 23:38:14,501 - unseen/IMG_4371.JPG - Generated Output: 
+A bowl of soup with a fish head.</s>
+2024-12-03 23:38:14,501 - Processing Image: unseen/IMG_6107.JPG
+2024-12-03 23:38:16,192 - unseen/IMG_6107.JPG - Average Log Probability of Bottom 5% Tokens: -2.1508
+2024-12-03 23:38:16,192 - unseen/IMG_6107.JPG - Average Log Probability of Bottom 10% Tokens: -1.6945
+2024-12-03 23:38:16,192 - unseen/IMG_6107.JPG - Average Log Probability of Bottom 20% Tokens: -1.4468
+2024-12-03 23:38:16,192 - unseen/IMG_6107.JPG - Average Log Probability of Bottom 30% Tokens: -1.2471
+2024-12-03 23:38:16,192 - unseen/IMG_6107.JPG - Average Log Probability of Bottom 40% Tokens: -1.1021
+2024-12-03 23:38:16,192 - unseen/IMG_6107.JPG - Average Log Probability of Bottom 50% Tokens: -0.9655
+2024-12-03 23:38:16,192 - unseen/IMG_6107.JPG - Average Log Probability of Bottom 60% Tokens: -0.8714
+2024-12-03 23:38:16,193 - unseen/IMG_6107.JPG - Generated Output: 
+The image shows a person sitting on the steps of an old wooden building. The architecture suggests that it could be from East Asia, possibly China or Japan due to its style and design elements such as the intricate carvings above the doorway.</s>
+2024-12-03 23:38:16,193 - Processing Image: unseen/IMG_5939.JPG
+2024-12-03 23:38:17,072 - unseen/IMG_5939.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:38:17,073 - unseen/IMG_5939.JPG - Average Log Probability of Bottom 10% Tokens: -1.1449
+2024-12-03 23:38:17,073 - unseen/IMG_5939.JPG - Average Log Probability of Bottom 20% Tokens: -1.0566
+2024-12-03 23:38:17,073 - unseen/IMG_5939.JPG - Average Log Probability of Bottom 30% Tokens: -0.9840
+2024-12-03 23:38:17,073 - unseen/IMG_5939.JPG - Average Log Probability of Bottom 40% Tokens: -0.8998
+2024-12-03 23:38:17,073 - unseen/IMG_5939.JPG - Average Log Probability of Bottom 50% Tokens: -0.8633
+2024-12-03 23:38:17,073 - unseen/IMG_5939.JPG - Average Log Probability of Bottom 60% Tokens: -0.7301
+2024-12-03 23:38:17,073 - unseen/IMG_5939.JPG - Generated Output: 
+The image shows a parking lot filled with bicycles.</s>
+2024-12-03 23:38:17,073 - Processing Image: unseen/IMG_6012.JPG
+2024-12-03 23:38:19,480 - unseen/IMG_6012.JPG - Average Log Probability of Bottom 5% Tokens: -1.5662
+2024-12-03 23:38:19,480 - unseen/IMG_6012.JPG - Average Log Probability of Bottom 10% Tokens: -1.3974
+2024-12-03 23:38:19,480 - unseen/IMG_6012.JPG - Average Log Probability of Bottom 20% Tokens: -1.1943
+2024-12-03 23:38:19,480 - unseen/IMG_6012.JPG - Average Log Probability of Bottom 30% Tokens: -1.0799
+2024-12-03 23:38:19,480 - unseen/IMG_6012.JPG - Average Log Probability of Bottom 40% Tokens: -0.9567
+2024-12-03 23:38:19,480 - unseen/IMG_6012.JPG - Average Log Probability of Bottom 50% Tokens: -0.8537
+2024-12-03 23:38:19,481 - unseen/IMG_6012.JPG - Average Log Probability of Bottom 60% Tokens: -0.7559
+2024-12-03 23:38:19,481 - unseen/IMG_6012.JPG - Generated Output: 
+The image shows a view from inside a car, looking out through the windshield onto an urban street. The road appears to be relatively clear with some traffic and pedestrians visible on the sidewalks. There are trees lining both sides of the street, providing shade over the pavement. In the distance, there's a tall building that stands prominently against the skyline.</s>
+2024-12-03 23:38:19,481 - Processing Image: unseen/IMG_5985.JPG
+2024-12-03 23:38:20,180 - unseen/IMG_5985.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:38:20,180 - unseen/IMG_5985.JPG - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:38:20,180 - unseen/IMG_5985.JPG - Average Log Probability of Bottom 20% Tokens: -1.7586
+2024-12-03 23:38:20,180 - unseen/IMG_5985.JPG - Average Log Probability of Bottom 30% Tokens: -1.5542
+2024-12-03 23:38:20,180 - unseen/IMG_5985.JPG - Average Log Probability of Bottom 40% Tokens: -1.5542
+2024-12-03 23:38:20,181 - unseen/IMG_5985.JPG - Average Log Probability of Bottom 50% Tokens: -1.4689
+2024-12-03 23:38:20,181 - unseen/IMG_5985.JPG - Average Log Probability of Bottom 60% Tokens: -1.3249
+2024-12-03 23:38:20,181 - unseen/IMG_5985.JPG - Generated Output: 
+A plate of food.</s>
+2024-12-03 23:38:20,181 - Processing Image: unseen/IMG_6758.JPG
+2024-12-03 23:38:22,920 - unseen/IMG_6758.JPG - Average Log Probability of Bottom 5% Tokens: -1.7778
+2024-12-03 23:38:22,920 - unseen/IMG_6758.JPG - Average Log Probability of Bottom 10% Tokens: -1.6919
+2024-12-03 23:38:22,920 - unseen/IMG_6758.JPG - Average Log Probability of Bottom 20% Tokens: -1.5617
+2024-12-03 23:38:22,920 - unseen/IMG_6758.JPG - Average Log Probability of Bottom 30% Tokens: -1.3951
+2024-12-03 23:38:22,920 - unseen/IMG_6758.JPG - Average Log Probability of Bottom 40% Tokens: -1.2592
+2024-12-03 23:38:22,920 - unseen/IMG_6758.JPG - Average Log Probability of Bottom 50% Tokens: -1.1436
+2024-12-03 23:38:22,920 - unseen/IMG_6758.JPG - Average Log Probability of Bottom 60% Tokens: -1.0355
+2024-12-03 23:38:22,921 - unseen/IMG_6758.JPG - Generated Output: 
+The image shows a person standing outside of what appears to be an Asian store or market. The individual has their back turned towards the camera, and they are wearing black clothing with red accents on one arm. There's Chinese text above the entrance that reads "大师堂," which translates to "Master Hall." Inside the shop, there seems to be some sort of event taking place as indicated by signs and banners hanging from the ceiling. Other
+2024-12-03 23:38:22,921 - Processing Image: unseen/IMG_6649.JPG
+2024-12-03 23:38:23,688 - No token found after two occurrences of padding tokens!
+2024-12-03 23:38:23,688 - unseen/IMG_6649.JPG - Average Log Probability of Bottom 5% Tokens: nan
+2024-12-03 23:38:23,688 - unseen/IMG_6649.JPG - Average Log Probability of Bottom 10% Tokens: nan
+2024-12-03 23:38:23,688 - unseen/IMG_6649.JPG - Average Log Probability of Bottom 20% Tokens: nan
+2024-12-03 23:38:23,688 - unseen/IMG_6649.JPG - Average Log Probability of Bottom 30% Tokens: nan
+2024-12-03 23:38:23,688 - unseen/IMG_6649.JPG - Average Log Probability of Bottom 40% Tokens: nan
+2024-12-03 23:38:23,688 - unseen/IMG_6649.JPG - Average Log Probability of Bottom 50% Tokens: nan
+2024-12-03 23:38:23,688 - unseen/IMG_6649.JPG - Average Log Probability of Bottom 60% Tokens: nan
+2024-12-03 23:38:23,688 - unseen/IMG_6649.JPG - Generated Output: 
+2024-12-03 23:38:23,689 - Processing Image: unseen/IMG_5842.JPG
+2024-12-03 23:38:26,386 - unseen/IMG_5842.JPG - Average Log Probability of Bottom 5% Tokens: -2.0143
+2024-12-03 23:38:26,386 - unseen/IMG_5842.JPG - Average Log Probability of Bottom 10% Tokens: -1.8346
+2024-12-03 23:38:26,386 - unseen/IMG_5842.JPG - Average Log Probability of Bottom 20% Tokens: -1.6260
+2024-12-03 23:38:26,386 - unseen/IMG_5842.JPG - Average Log Probability of Bottom 30% Tokens: -1.4702
+2024-12-03 23:38:26,386 - unseen/IMG_5842.JPG - Average Log Probability of Bottom 40% Tokens: -1.3414
+2024-12-03 23:38:26,386 - unseen/IMG_5842.JPG - Average Log Probability of Bottom 50% Tokens: -1.2167
+2024-12-03 23:38:26,386 - unseen/IMG_5842.JPG - Average Log Probability of Bottom 60% Tokens: -1.0935
+2024-12-03 23:38:26,387 - unseen/IMG_5842.JPG - Generated Output: 
+The image shows a nighttime scene of an oriental-style building with traditional architecture, possibly Chinese. The structure has multiple eaves and decorative elements that are characteristic of East Asian design. In front of the building, there's a well-lit entrance or gate featuring intricate designs and red accents, which adds to its cultural significance. To the left side of the photo, you can see part of a crosswalk, indicating that the area might be pedestrian-friend
+2024-12-03 23:38:26,387 - Processing Image: unseen/IMG_5944.JPG
+2024-12-03 23:38:28,125 - unseen/IMG_5944.JPG - Average Log Probability of Bottom 5% Tokens: -2.0591
+2024-12-03 23:38:28,125 - unseen/IMG_5944.JPG - Average Log Probability of Bottom 10% Tokens: -1.8522
+2024-12-03 23:38:28,125 - unseen/IMG_5944.JPG - Average Log Probability of Bottom 20% Tokens: -1.6445
+2024-12-03 23:38:28,126 - unseen/IMG_5944.JPG - Average Log Probability of Bottom 30% Tokens: -1.4787
+2024-12-03 23:38:28,126 - unseen/IMG_5944.JPG - Average Log Probability of Bottom 40% Tokens: -1.3293
+2024-12-03 23:38:28,126 - unseen/IMG_5944.JPG - Average Log Probability of Bottom 50% Tokens: -1.1886
+2024-12-03 23:38:28,126 - unseen/IMG_5944.JPG - Average Log Probability of Bottom 60% Tokens: -1.0788
+2024-12-03 23:38:28,126 - unseen/IMG_5944.JPG - Generated Output: 
+The image shows a room with various items hanging on the walls. There are clothes, bags and other personal belongings displayed prominently. The room appears to be cluttered or disorganized due to the abundance of objects.</s>
+2024-12-03 23:38:28,126 - Processing Image: unseen/IMG_6841.JPG
+2024-12-03 23:38:30,391 - unseen/IMG_6841.JPG - Average Log Probability of Bottom 5% Tokens: -1.9859
+2024-12-03 23:38:30,391 - unseen/IMG_6841.JPG - Average Log Probability of Bottom 10% Tokens: -1.8117
+2024-12-03 23:38:30,391 - unseen/IMG_6841.JPG - Average Log Probability of Bottom 20% Tokens: -1.6062
+2024-12-03 23:38:30,391 - unseen/IMG_6841.JPG - Average Log Probability of Bottom 30% Tokens: -1.4661
+2024-12-03 23:38:30,391 - unseen/IMG_6841.JPG - Average Log Probability of Bottom 40% Tokens: -1.3353
+2024-12-03 23:38:30,391 - unseen/IMG_6841.JPG - Average Log Probability of Bottom 50% Tokens: -1.2117
+2024-12-03 23:38:30,391 - unseen/IMG_6841.JPG - Average Log Probability of Bottom 60% Tokens: -1.0999
+2024-12-03 23:38:30,392 - unseen/IMG_6841.JPG - Generated Output: 
+A group of people are gathered around a man who has a cake on his plate. The man appears to be the center of attention, possibly celebrating an event or milestone. There's a festive atmosphere with candles and decorations visible behind him. Someone is taking pictures using their cell phone camera while others watch intently. In front of them there seems to be food and drink items such as cups and bowls.</s>
